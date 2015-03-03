@@ -13,5 +13,6 @@
 @property IBOutlet UICollectionView *collectionView;
 @property IBOutlet CanvasView *canvas;
 @property IBOutlet UIButton *enterButton;
+@property IBOutlet UICollectionView *wordSuggestionsCollectionView;
 
 @end

@@ -12,8 +12,9 @@
 @interface KeyboardViewController ()<UICollectionViewDataSource,UICollectionViewDelegate>
 
 @property NSArray *characters;
-
-
+@property NSArray *frequentWords;
+@property NSArray *autoCompleteSuggestions;
+@property NSString *selectedCharacter;
 @end
 
 @implementation KeyboardViewController
@@ -26,17 +27,26 @@
     NSArray *objects=[nib instantiateWithOwner:self options:nil];
     UIView *keyboardView=[objects firstObject];
     self.view=keyboardView;
-    
+    self.selectedCharacter=@"";
     UINib *cellNib = [UINib nibWithNibName:@"CharacterCell" bundle:nil];
     [self.collectionView registerNib:cellNib forCellWithReuseIdentifier:@"characterCell"];
-    [self requestSupplementaryLexiconWithCompletion:^(UILexicon *lexicon){
-        for (UILexiconEntry *entry in lexicon.entries) {
-            NSLog(@"input:%@ entry:%@",entry.userInput,entry.documentText);
-        }
+    [self.wordSuggestionsCollectionView registerNib:cellNib forCellWithReuseIdentifier:@"characterCell"];
+//    [self requestSupplementaryLexiconWithCompletion:^(UILexicon *lexicon){
+//        for (UILexiconEntry *entry in lexicon.entries) {
+//            NSLog(@"input:%@ entry:%@",entry.userInput,entry.documentText);
+//        }
+//    
+//    }];
+    NSString *path=[[NSBundle mainBundle]pathForResource:@"top500Words" ofType:@"txt"];
+    NSError *error;
+    NSString *words=[NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:&error];
+    if (words.length>0) {
+        self.frequentWords=[words componentsSeparatedByString:@","];
+    }
+    UICollectionViewFlowLayout *layout=(UICollectionViewFlowLayout*)self.wordSuggestionsCollectionView.collectionViewLayout;
+    layout.estimatedItemSize=CGSizeMake(50, 25);
     
-    }];
     
-
 }
 
 - (void)didReceiveMemoryWarning {
@@ -63,15 +73,62 @@
 
 -(void)collectionView:(UICollectionView *)collectionView didSelectItemAtIndexPath:(NSIndexPath *)indexPath{
     
-    NSString *character=self.characters[indexPath.row];
-    [self.textDocumentProxy insertText:character];
-    [self clear:nil];
+    if ([collectionView.restorationIdentifier isEqualToString:@"wordSuggestionsCollectionView"]) {
+        NSString *character=self.autoCompleteSuggestions[indexPath.row];
+        [self.textDocumentProxy insertText:character];
+        [self clear:nil];
+
+    }
+    else if ([collectionView.restorationIdentifier isEqualToString:@"characterCollectionView"]){
+         NSString *character=self.characters[indexPath.row];
+        if (![self.selectedCharacter isEqualToString:character]) {
+            NSArray *suggestions=[self autocompleteSuggestionsForCharacter:self.characters[indexPath.row]];
+            if (suggestions.count>0) {
+                self.autoCompleteSuggestions=suggestions;
+                [self.wordSuggestionsCollectionView reloadData];
+                self.selectedCharacter=character;
+            }
+            else{
+                NSString *character=self.characters[indexPath.row];
+                [self.textDocumentProxy insertText:character];
+                [self clear:nil];
+                self.selectedCharacter=@"";
+            }
+            
+        }
+        else{
+            NSString *character=self.characters[indexPath.row];
+            [self.textDocumentProxy insertText:character];
+            [self clear:nil];
+            self.selectedCharacter=@"";
+        }
+        
+
+        
+        
+    }
+    
     
 }
 
 -(void)canvasDidRecognizeCharacters:(NSArray *)characters withScores:(NSArray *)scores{
     self.characters=characters;
+    self.autoCompleteSuggestions=[self autocompleteSuggestionsForCharacter:characters.firstObject];
+    self.selectedCharacter=@"";
+    
     [self.collectionView reloadData];
+    [self.wordSuggestionsCollectionView reloadData];
+}
+
+
+-(NSArray*)autocompleteSuggestionsForCharacter:(NSString*)character{
+    
+    NSArray *suggestions=[self.frequentWords filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"SELF beginswith %@",character]];
+    if (suggestions.count>0) {
+        return suggestions;
+    }
+    return nil;
+    
 }
 
 
@@ -80,9 +137,12 @@
 }
 
 -(IBAction)clear:(id)sender{
+    self.selectedCharacter=@"";
     [self.canvas clearCanvas];
     self.characters=@[];
+    self.autoCompleteSuggestions=@[];
     [self.collectionView reloadData];
+    [self.wordSuggestionsCollectionView reloadData];
 }
 
 
@@ -97,14 +157,35 @@
 }
 
 -(NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section{
-    return self.characters.count;
+    if ([collectionView.restorationIdentifier isEqualToString:@"wordSuggestionsCollectionView"]) {
+        return self.autoCompleteSuggestions.count;
+    }
+    else if ([collectionView.restorationIdentifier isEqualToString:@"characterCollectionView"]){
+        return self.characters.count;
+
+    }
+    else{
+        return 0;
+    }
 }
 
 -(UICollectionViewCell*)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath{
     
-    CharacterCollectionViewCell *cell=[collectionView dequeueReusableCellWithReuseIdentifier:@"characterCell" forIndexPath:indexPath];
-    cell.characterLabel.text=self.characters[indexPath.row];
-    return cell;
+    if ([collectionView.restorationIdentifier isEqualToString:@"wordSuggestionsCollectionView"]) {
+        CharacterCollectionViewCell *cell=[collectionView dequeueReusableCellWithReuseIdentifier:@"characterCell" forIndexPath:indexPath];
+        cell.characterLabel.text=self.autoCompleteSuggestions[indexPath.row];
+        return cell;
+        
+    }
+    else if ([collectionView.restorationIdentifier isEqualToString:@"characterCollectionView"]){
+        CharacterCollectionViewCell *cell=[collectionView dequeueReusableCellWithReuseIdentifier:@"characterCell" forIndexPath:indexPath];
+        cell.characterLabel.text=self.characters[indexPath.row];
+        return cell;
+        
+    }
+
+    return nil;
+
 }
 
 @end

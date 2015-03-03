@@ -24,6 +24,9 @@
 		B72742951AA5791700914B7C /* CharacterCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B72742941AA5791700914B7C /* CharacterCollectionViewCell.m */; };
 		B72742971AA57BAC00914B7C /* CharacterCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B72742961AA57BAC00914B7C /* CharacterCell.xib */; };
 		B727429E1AA5840000914B7C /* ZinniaCocoaTouch.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B72742AB1AA5CF1E00914B7C /* top500Words.txt in Resources */ = {isa = PBXBuildFile; fileRef = B72742AA1AA5CF1E00914B7C /* top500Words.txt */; };
+		B767780F1AA5F0F600B03E99 /* kanjiDict.txt in Resources */ = {isa = PBXBuildFile; fileRef = B767780E1AA5F0F600B03E99 /* kanjiDict.txt */; };
+		B77DABC91AA5DD7F0022E475 /* ZinniaCocoaTouch.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +89,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B77DABC81AA5DD740022E475 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				B77DABC91AA5DD7F0022E475 /* ZinniaCocoaTouch.framework in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
@@ -113,6 +126,8 @@
 		B72742931AA5791700914B7C /* CharacterCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterCollectionViewCell.h; sourceTree = "<group>"; };
 		B72742941AA5791700914B7C /* CharacterCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharacterCollectionViewCell.m; sourceTree = "<group>"; };
 		B72742961AA57BAC00914B7C /* CharacterCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CharacterCell.xib; sourceTree = "<group>"; };
+		B72742AA1AA5CF1E00914B7C /* top500Words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = top500Words.txt; sourceTree = "<group>"; };
+		B767780E1AA5F0F600B03E99 /* kanjiDict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = kanjiDict.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,6 +197,7 @@
 		B72742481AA5694300914B7C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B767780E1AA5F0F600B03E99 /* kanjiDict.txt */,
 				B727426E1AA5695000914B7C /* ZinniaCocoaTouch.xcodeproj */,
 				B72742491AA5694300914B7C /* Info.plist */,
 				B727424A1AA5694300914B7C /* main.m */,
@@ -218,6 +234,7 @@
 		B72742821AA5716000914B7C /* HandwritingKeyboard */ = {
 			isa = PBXGroup;
 			children = (
+				B72742AA1AA5CF1E00914B7C /* top500Words.txt */,
 				B72742851AA5716000914B7C /* KeyboardViewController.h */,
 				B72742861AA5716000914B7C /* KeyboardViewController.m */,
 				B72742831AA5716000914B7C /* Supporting Files */,
@@ -248,6 +265,7 @@
 				B72742421AA5694300914B7C /* Frameworks */,
 				B72742431AA5694300914B7C /* Resources */,
 				B727428A1AA5716000914B7C /* Embed App Extensions */,
+				B77DABC81AA5DD740022E475 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -365,6 +383,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B767780F1AA5F0F600B03E99 /* kanjiDict.txt in Resources */,
 				B72742541AA5694300914B7C /* Main.storyboard in Resources */,
 				B72742591AA5694300914B7C /* LaunchScreen.xib in Resources */,
 				B72742561AA5694300914B7C /* Images.xcassets in Resources */,
@@ -382,6 +401,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B72742AB1AA5CF1E00914B7C /* top500Words.txt in Resources */,
 				B72742901AA571C400914B7C /* KeyboardView.xib in Resources */,
 				B72742971AA57BAC00914B7C /* CharacterCell.xib in Resources */,
 			);
@@ -493,7 +513,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -529,7 +549,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";

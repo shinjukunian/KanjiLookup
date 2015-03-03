@@ -10,17 +10,20 @@
             <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
             <subviews>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Ku-uf-B9t">
-                    <rect key="frame" x="-1" y="10" width="42" height="20.5"/>
-                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="水" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Ku-uf-B9t">
+                    <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
+                    <fontDescription key="fontDescription" type="system" weight="thin" pointSize="20"/>
                     <nil key="highlightedColor"/>
                 </label>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
             <constraints>
                 <constraint firstAttribute="centerY" secondItem="7Ku-uf-B9t" secondAttribute="centerY" id="4iK-RH-UvQ"/>
                 <constraint firstAttribute="centerX" secondItem="7Ku-uf-B9t" secondAttribute="centerX" id="68r-HC-GwA"/>
+                <constraint firstItem="7Ku-uf-B9t" firstAttribute="top" secondItem="8t0-jl-HpH" secondAttribute="top" id="LTz-CQ-A9f"/>
+                <constraint firstItem="7Ku-uf-B9t" firstAttribute="leading" secondItem="8t0-jl-HpH" secondAttribute="leading" id="V8f-4s-8fC"/>
+                <constraint firstAttribute="bottom" secondItem="7Ku-uf-B9t" secondAttribute="bottom" id="eep-A1-KHS"/>
+                <constraint firstAttribute="trailing" secondItem="7Ku-uf-B9t" secondAttribute="trailing" id="j4N-so-Ukk"/>
             </constraints>
             <connections>
                 <outlet property="characterLabel" destination="7Ku-uf-B9t" id="neZ-09-juV"/>

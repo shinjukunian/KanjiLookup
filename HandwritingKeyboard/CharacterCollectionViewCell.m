@@ -10,7 +10,16 @@
 
 @implementation CharacterCollectionViewCell
 
+-(void)layoutSubviews{
+    [super layoutSubviews];
+    self.layer.borderColor=[[UIColor lightGrayColor]CGColor];
+    self.layer.borderWidth=0.5;
+}
 
 
+
+-(UICollectionViewLayoutAttributes*)preferredLayoutAttributesFittingAttributes:(UICollectionViewLayoutAttributes *)layoutAttributes{
+    return [super preferredLayoutAttributesFittingAttributes:layoutAttributes];
+}
 
 @end
