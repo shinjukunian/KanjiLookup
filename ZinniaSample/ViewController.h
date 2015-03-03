@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CanvasView.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<CanvasViewDelegate>
 
+@property IBOutlet UITableView *tableView;
+@property IBOutlet CanvasView *canvas;
 
 @end
 

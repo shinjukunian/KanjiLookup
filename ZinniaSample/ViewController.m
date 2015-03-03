@@ -7,8 +7,11 @@
 //
 
 #import "ViewController.h"
+@import ZinniaCocoaTouch;
+@interface ViewController ()<UITableViewDataSource,UITableViewDelegate>
 
-@interface ViewController ()
+@property NSArray *characterArray;
+@property NSArray *scoresArray;
 
 @end
 
@@ -16,12 +19,43 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+
+-(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
+    return 1;
+}
+
+
+-(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
+    return self.characterArray.count;
+}
+
+-(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
+    UITableViewCell *cell=[tableView dequeueReusableCellWithIdentifier:@"characterCell" forIndexPath:indexPath];
+    cell.textLabel.text=self.characterArray[indexPath.row];
+    NSNumber *score=self.scoresArray[indexPath.row];
+    cell.detailTextLabel.text=score.stringValue;
+    return cell;
+}
+
+-(void)canvasDidRecognizeCharacters:(NSArray*)characters withScores:(NSArray*)scores{
+    
+    self.characterArray=characters;
+    self.scoresArray=scores;
+    [self.tableView reloadData];
+}
+
+-(IBAction)clear:(id)sender{
+    [self.canvas clearCanvas];
+    self.characterArray=@[];
+    [self.tableView reloadData];
 }
 
 @end

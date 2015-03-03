@@ -14,6 +14,8 @@
 		B72742561AA5694300914B7C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B72742551AA5694300914B7C /* Images.xcassets */; };
 		B72742591AA5694300914B7C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B72742571AA5694300914B7C /* LaunchScreen.xib */; };
 		B72742651AA5694400914B7C /* ZinniaSampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B72742641AA5694400914B7C /* ZinniaSampleTests.m */; };
+		B72742771AA5695800914B7C /* ZinniaCocoaTouch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; };
+		B727427A1AA56A2200914B7C /* CanvasView.m in Sources */ = {isa = PBXBuildFile; fileRef = B72742791AA56A2200914B7C /* CanvasView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,6 +25,20 @@
 			proxyType = 1;
 			remoteGlobalIDString = B72742441AA5694300914B7C;
 			remoteInfo = ZinniaSample;
+		};
+		B72742731AA5695000914B7C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B727426E1AA5695000914B7C /* ZinniaCocoaTouch.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B72741D41AA5643900914B7C;
+			remoteInfo = ZinniaCocoaTouch;
+		};
+		B72742751AA5695000914B7C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B727426E1AA5695000914B7C /* ZinniaCocoaTouch.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B72741DF1AA5643900914B7C;
+			remoteInfo = ZinniaCocoaTouchTests;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -40,6 +56,9 @@
 		B727425E1AA5694400914B7C /* ZinniaSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZinniaSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B72742631AA5694400914B7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B72742641AA5694400914B7C /* ZinniaSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZinniaSampleTests.m; sourceTree = "<group>"; };
+		B727426E1AA5695000914B7C /* ZinniaCocoaTouch.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ZinniaCocoaTouch.xcodeproj; path = ../../ZinniaCocoaTouch/ZinniaCocoaTouch.xcodeproj; sourceTree = "<group>"; };
+		B72742781AA56A2200914B7C /* CanvasView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CanvasView.h; sourceTree = "<group>"; };
+		B72742791AA56A2200914B7C /* CanvasView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CanvasView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B72742771AA5695800914B7C /* ZinniaCocoaTouch.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +105,8 @@
 				B727424D1AA5694300914B7C /* AppDelegate.m */,
 				B727424F1AA5694300914B7C /* ViewController.h */,
 				B72742501AA5694300914B7C /* ViewController.m */,
+				B72742781AA56A2200914B7C /* CanvasView.h */,
+				B72742791AA56A2200914B7C /* CanvasView.m */,
 				B72742521AA5694300914B7C /* Main.storyboard */,
 				B72742551AA5694300914B7C /* Images.xcassets */,
 				B72742571AA5694300914B7C /* LaunchScreen.xib */,
@@ -96,6 +118,7 @@
 		B72742481AA5694300914B7C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B727426E1AA5695000914B7C /* ZinniaCocoaTouch.xcodeproj */,
 				B72742491AA5694300914B7C /* Info.plist */,
 				B727424A1AA5694300914B7C /* main.m */,
 			);
@@ -117,6 +140,15 @@
 				B72742631AA5694400914B7C /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B727426F1AA5695000914B7C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */,
+				B72742761AA5695000914B7C /* ZinniaCocoaTouchTests.xctest */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -186,6 +218,12 @@
 			mainGroup = B727423C1AA5694300914B7C;
 			productRefGroup = B72742461AA5694300914B7C /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = B727426F1AA5695000914B7C /* Products */;
+					ProjectRef = B727426E1AA5695000914B7C /* ZinniaCocoaTouch.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				B72742441AA5694300914B7C /* ZinniaSample */,
@@ -193,6 +231,23 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = ZinniaCocoaTouch.framework;
+			remoteRef = B72742731AA5695000914B7C /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B72742761AA5695000914B7C /* ZinniaCocoaTouchTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = ZinniaCocoaTouchTests.xctest;
+			remoteRef = B72742751AA5695000914B7C /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		B72742431AA5694300914B7C /* Resources */ = {
@@ -221,6 +276,7 @@
 			files = (
 				B72742511AA5694300914B7C /* ViewController.m in Sources */,
 				B727424E1AA5694300914B7C /* AppDelegate.m in Sources */,
+				B727427A1AA56A2200914B7C /* CanvasView.m in Sources */,
 				B727424B1AA5694300914B7C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
