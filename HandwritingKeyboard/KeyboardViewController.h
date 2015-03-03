@@ -12,5 +12,6 @@
 
 @property IBOutlet UICollectionView *collectionView;
 @property IBOutlet CanvasView *canvas;
+@property IBOutlet UIButton *enterButton;
 
 @end

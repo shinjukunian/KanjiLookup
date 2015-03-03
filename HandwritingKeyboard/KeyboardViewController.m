@@ -29,7 +29,12 @@
     
     UINib *cellNib = [UINib nibWithNibName:@"CharacterCell" bundle:nil];
     [self.collectionView registerNib:cellNib forCellWithReuseIdentifier:@"characterCell"];
-
+    [self requestSupplementaryLexiconWithCompletion:^(UILexicon *lexicon){
+        for (UILexiconEntry *entry in lexicon.entries) {
+            NSLog(@"input:%@ entry:%@",entry.userInput,entry.documentText);
+        }
+    
+    }];
     
 
 }
@@ -59,7 +64,6 @@
 -(void)collectionView:(UICollectionView *)collectionView didSelectItemAtIndexPath:(NSIndexPath *)indexPath{
     
     NSString *character=self.characters[indexPath.row];
-    NSLog(@"character %@ selected",character);
     [self.textDocumentProxy insertText:character];
     [self clear:nil];
     
@@ -86,6 +90,10 @@
     [self.textDocumentProxy deleteBackward];
     [self clear:nil];
 
+}
+
+-(IBAction)enter:(id)sender{
+    [self.textDocumentProxy insertText:@"\n"];
 }
 
 -(NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section{

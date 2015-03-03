@@ -23,6 +23,7 @@
 		B72742921AA5780700914B7C /* ZinniaCocoaTouch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; };
 		B72742951AA5791700914B7C /* CharacterCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B72742941AA5791700914B7C /* CharacterCollectionViewCell.m */; };
 		B72742971AA57BAC00914B7C /* CharacterCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B72742961AA57BAC00914B7C /* CharacterCell.xib */; };
+		B727429E1AA5840000914B7C /* ZinniaCocoaTouch.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,13 @@
 			remoteGlobalIDString = B72742801AA5716000914B7C;
 			remoteInfo = HandwritingKeyboard;
 		};
+		B727429C1AA583F900914B7C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B727426E1AA5695000914B7C /* ZinniaCocoaTouch.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = B72741D31AA5643900914B7C;
+			remoteInfo = ZinniaCocoaTouch;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -66,6 +74,16 @@
 				B727428B1AA5716000914B7C /* HandwritingKeyboard.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B727429B1AA583D600914B7C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				B727429E1AA5840000914B7C /* ZinniaCocoaTouch.framework in CopyFiles */,
+			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
@@ -266,10 +284,12 @@
 				B727427D1AA5716000914B7C /* Sources */,
 				B727427E1AA5716000914B7C /* Frameworks */,
 				B727427F1AA5716000914B7C /* Resources */,
+				B727429B1AA583D600914B7C /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				B727429D1AA583F900914B7C /* PBXTargetDependency */,
 			);
 			name = HandwritingKeyboard;
 			productName = HandwritingKeyboard;
@@ -411,6 +431,11 @@
 			isa = PBXTargetDependency;
 			target = B72742801AA5716000914B7C /* HandwritingKeyboard */;
 			targetProxy = B72742881AA5716000914B7C /* PBXContainerItemProxy */;
+		};
+		B727429D1AA583F900914B7C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ZinniaCocoaTouch;
+			targetProxy = B727429C1AA583F900914B7C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
