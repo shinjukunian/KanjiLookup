@@ -60,6 +60,8 @@
     
     NSString *character=self.characters[indexPath.row];
     NSLog(@"character %@ selected",character);
+    [self.textDocumentProxy insertText:character];
+    [self clear:nil];
     
 }
 
@@ -75,6 +77,15 @@
 
 -(IBAction)clear:(id)sender{
     [self.canvas clearCanvas];
+    self.characters=@[];
+    [self.collectionView reloadData];
+}
+
+
+-(IBAction)delete:(id)sender{
+    [self.textDocumentProxy deleteBackward];
+    [self clear:nil];
+
 }
 
 -(NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section{

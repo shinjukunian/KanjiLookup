@@ -8,7 +8,7 @@
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="KeyboardViewController">
             <connections>
                 <outlet property="canvas" destination="2V4-ad-s6R" id="efQ-6d-wQ3"/>
-                <outlet property="collectionView" destination="Cro-XE-X1P" id="blx-vm-K3a"/>
+                <outlet property="collectionView" destination="f8x-ST-gOi" id="gNc-HV-B23"/>
                 <outlet property="view" destination="iN0-l3-epB" id="x3M-aX-NhQ"/>
             </connections>
         </placeholder>
@@ -18,7 +18,7 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2V4-ad-s6R" customClass="CanvasView">
-                    <rect key="frame" x="80" y="42" width="240" height="118"/>
+                    <rect key="frame" x="60" y="0.0" width="210" height="160"/>
                     <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                     <constraints>
                         <constraint firstAttribute="height" constant="40" id="FIK-eH-E58"/>
@@ -36,28 +36,11 @@
                         <outlet property="delegate" destination="-1" id="mt6-lc-kGU"/>
                     </connections>
                 </view>
-                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="Cro-XE-X1P">
-                    <rect key="frame" x="0.0" y="0.0" width="320" height="42"/>
-                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    <constraints>
-                        <constraint firstAttribute="height" constant="42" id="euz-dM-Yq0"/>
-                    </constraints>
-                    <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="1" minimumInteritemSpacing="4" id="RDv-4d-jaz">
-                        <size key="itemSize" width="40" height="40"/>
-                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
-                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
-                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
-                    </collectionViewFlowLayout>
-                    <connections>
-                        <outlet property="dataSource" destination="-1" id="I8E-Bh-Ol5"/>
-                        <outlet property="delegate" destination="-1" id="dis-SN-ev6"/>
-                    </connections>
-                </collectionView>
                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8gj-eS-nXi">
-                    <rect key="frame" x="0.0" y="42" width="80" height="118"/>
+                    <rect key="frame" x="0.0" y="0.0" width="60" height="160"/>
                     <subviews>
                         <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="F59-cj-bNe">
-                            <rect key="frame" x="24" y="88" width="32" height="30"/>
+                            <rect key="frame" x="14" y="130" width="32" height="30"/>
                             <state key="normal" title="Next">
                                 <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                             </state>
@@ -66,12 +49,21 @@
                             </connections>
                         </button>
                         <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IUv-ec-nnN">
-                            <rect key="frame" x="21" y="58" width="37" height="30"/>
+                            <rect key="frame" x="11" y="100" width="37" height="30"/>
                             <state key="normal" title="Clear">
                                 <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                             </state>
                             <connections>
                                 <action selector="clear:" destination="-1" eventType="touchUpInside" id="vQI-Mj-x92"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="emC-lJ-ShS">
+                            <rect key="frame" x="6" y="8" width="44" height="30"/>
+                            <state key="normal" title="Delete">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="delete:" destination="-1" eventType="touchUpInside" id="asT-Ou-ZY1"/>
                             </connections>
                         </button>
                     </subviews>
@@ -81,7 +73,9 @@
                         <constraint firstAttribute="bottom" secondItem="F59-cj-bNe" secondAttribute="bottom" id="Dhr-pL-iEg"/>
                         <constraint firstAttribute="height" constant="200" id="GzD-gP-P5x"/>
                         <constraint firstItem="F59-cj-bNe" firstAttribute="top" secondItem="IUv-ec-nnN" secondAttribute="bottom" id="IQj-WA-VDN"/>
-                        <constraint firstAttribute="width" constant="80" id="uyr-pr-itL"/>
+                        <constraint firstAttribute="centerX" secondItem="emC-lJ-ShS" secondAttribute="centerX" constant="2" id="fep-ae-alR"/>
+                        <constraint firstItem="emC-lJ-ShS" firstAttribute="top" secondItem="8gj-eS-nXi" secondAttribute="top" constant="8" id="geJ-f0-hqg"/>
+                        <constraint firstAttribute="width" constant="60" id="uyr-pr-itL"/>
                         <constraint firstAttribute="centerX" secondItem="F59-cj-bNe" secondAttribute="centerX" id="yfS-aq-dDu"/>
                     </constraints>
                     <variation key="default">
@@ -90,24 +84,43 @@
                         </mask>
                     </variation>
                 </view>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="f8x-ST-gOi">
+                    <rect key="frame" x="270" y="0.0" width="50" height="160"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="nfL-54-1ja"/>
+                    </constraints>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="2" minimumInteritemSpacing="10" id="ODw-rZ-HkH">
+                        <size key="itemSize" width="40" height="40"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="JAz-Bb-90Q"/>
+                        <outlet property="delegate" destination="-1" id="ETF-at-DvI"/>
+                    </connections>
+                </collectionView>
             </subviews>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <constraints>
+                <constraint firstAttribute="bottom" secondItem="f8x-ST-gOi" secondAttribute="bottom" id="2tz-dp-yZP"/>
                 <constraint firstItem="2V4-ad-s6R" firstAttribute="height" secondItem="8gj-eS-nXi" secondAttribute="height" id="47E-Dl-axd"/>
                 <constraint firstAttribute="bottom" secondItem="2V4-ad-s6R" secondAttribute="bottom" id="82J-mp-qcm"/>
                 <constraint firstItem="8gj-eS-nXi" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="9nh-zu-FaK"/>
-                <constraint firstItem="Cro-XE-X1P" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="BCY-AO-oTu"/>
-                <constraint firstItem="8gj-eS-nXi" firstAttribute="top" secondItem="Cro-XE-X1P" secondAttribute="bottom" id="CX1-2l-ZOT"/>
                 <constraint firstAttribute="bottom" secondItem="2V4-ad-s6R" secondAttribute="bottom" id="DpM-05-bWP"/>
+                <constraint firstItem="f8x-ST-gOi" firstAttribute="leading" secondItem="2V4-ad-s6R" secondAttribute="trailing" id="Fbi-eP-71J"/>
+                <constraint firstAttribute="trailing" secondItem="f8x-ST-gOi" secondAttribute="trailing" id="NvS-4t-IfR"/>
+                <constraint firstItem="8gj-eS-nXi" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="T6T-Ao-mp3"/>
                 <constraint firstAttribute="centerX" secondItem="2V4-ad-s6R" secondAttribute="centerX" id="aDE-WF-e7N"/>
                 <constraint firstItem="2V4-ad-s6R" firstAttribute="leading" secondItem="8gj-eS-nXi" secondAttribute="trailing" id="eUl-hq-RZL"/>
-                <constraint firstItem="Cro-XE-X1P" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="g2B-2n-Uqw"/>
                 <constraint firstItem="2V4-ad-s6R" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="42" id="ge1-JP-dCE"/>
-                <constraint firstAttribute="trailing" secondItem="Cro-XE-X1P" secondAttribute="trailing" id="gzU-Pr-TUs"/>
+                <constraint firstItem="2V4-ad-s6R" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="n3f-Rp-aHL"/>
                 <constraint firstItem="2V4-ad-s6R" firstAttribute="height" secondItem="8gj-eS-nXi" secondAttribute="height" id="ndh-y9-UcS"/>
                 <constraint firstItem="2V4-ad-s6R" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="qrJ-HR-rAz"/>
+                <constraint firstAttribute="bottom" secondItem="8gj-eS-nXi" secondAttribute="bottom" id="ri4-Nh-dwk"/>
+                <constraint firstItem="f8x-ST-gOi" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="rwt-dO-CVm"/>
                 <constraint firstAttribute="trailing" secondItem="2V4-ad-s6R" secondAttribute="trailing" id="xyz-ym-SFu"/>
-                <constraint firstItem="2V4-ad-s6R" firstAttribute="top" secondItem="Cro-XE-X1P" secondAttribute="bottom" id="y1k-cV-NOO"/>
             </constraints>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
@@ -118,9 +131,10 @@
                     <exclude reference="aDE-WF-e7N"/>
                     <exclude reference="ge1-JP-dCE"/>
                     <exclude reference="qrJ-HR-rAz"/>
+                    <exclude reference="xyz-ym-SFu"/>
                 </mask>
             </variation>
-            <point key="canvasLocation" x="455" y="404"/>
+            <point key="canvasLocation" x="555" y="404"/>
         </view>
     </objects>
 </document>
