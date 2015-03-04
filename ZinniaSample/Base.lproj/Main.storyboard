@@ -69,6 +69,21 @@
                                             <action selector="clear:" destination="BYZ-38-t0r" id="bsM-UQ-rbF"/>
                                         </connections>
                                     </barButtonItem>
+                                    <barButtonItem style="plain" systemItem="flexibleSpace" id="a78-p7-kQ3"/>
+                                    <barButtonItem style="plain" id="bQi-Rr-X43">
+                                        <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="detailDisclosure" lineBreakMode="middleTruncation" id="Dzx-mF-BzF">
+                                            <rect key="frame" x="538" y="7" width="22" height="22"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <state key="normal">
+                                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                            </state>
+                                            <connections>
+                                                <segue destination="Jpl-5C-710" kind="popoverPresentation" identifier="disclosure" popoverAnchorView="Dzx-mF-BzF" id="Jky-BV-cE6">
+                                                    <popoverArrowDirection key="popoverArrowDirection" up="YES" down="YES" left="YES" right="YES"/>
+                                                </segue>
+                                            </connections>
+                                        </button>
+                                    </barButtonItem>
                                 </items>
                             </toolbar>
                         </subviews>
@@ -100,6 +115,64 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="434" y="727"/>
+        </scene>
+        <!--Acknowledgements-->
+        <scene sceneID="pDf-Rz-HdY">
+            <objects>
+                <viewController id="PcG-vc-gTk" customClass="AcknowledgementsViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="q71-e6-jG5"/>
+                        <viewControllerLayoutGuide type="bottom" id="VPf-Vq-FSm"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="VR9-m8-YRd">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vUh-96-7LI">
+                                <rect key="frame" x="16" y="64" width="568" height="536"/>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                        <attributes>
+                                            <font key="NSFont" size="14" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" link="YES"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="vUh-96-7LI" firstAttribute="top" secondItem="q71-e6-jG5" secondAttribute="bottom" id="3J2-3a-4cv"/>
+                            <constraint firstItem="VPf-Vq-FSm" firstAttribute="top" secondItem="vUh-96-7LI" secondAttribute="bottom" constant="-64" id="BOU-at-NjO"/>
+                            <constraint firstItem="vUh-96-7LI" firstAttribute="top" secondItem="q71-e6-jG5" secondAttribute="bottom" id="HPJ-bJ-IPI"/>
+                            <constraint firstItem="vUh-96-7LI" firstAttribute="leading" secondItem="VR9-m8-YRd" secondAttribute="leadingMargin" constant="-16" id="JZX-KE-Tbu"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="vUh-96-7LI" secondAttribute="trailing" id="kef-uk-BRy"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="vUh-96-7LI" secondAttribute="trailing" constant="-16" id="neJ-xg-RcM"/>
+                            <constraint firstItem="vUh-96-7LI" firstAttribute="leading" secondItem="VR9-m8-YRd" secondAttribute="leadingMargin" id="q7j-8u-4Hx"/>
+                            <constraint firstItem="VPf-Vq-FSm" firstAttribute="top" secondItem="vUh-96-7LI" secondAttribute="bottom" id="qhC-5P-6iP"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="3J2-3a-4cv"/>
+                                <exclude reference="JZX-KE-Tbu"/>
+                                <exclude reference="neJ-xg-RcM"/>
+                                <exclude reference="BOU-at-NjO"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <navigationItem key="navigationItem" title="Acknowledgements" id="G4M-8J-TVf">
+                        <barButtonItem key="leftBarButtonItem" systemItem="done" id="hTc-My-OF0"/>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="textView" destination="vUh-96-7LI" id="uSU-dK-ED4"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dRB-Ya-jmY" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1532" y="1498"/>
         </scene>
         <!--Title-->
         <scene sceneID="3N2-SA-njT">
@@ -166,6 +239,24 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gvF-nQ-QQW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1197" y="732"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="btt-5b-Vkf">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Jpl-5C-710" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="6AY-bo-aZ6">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="PcG-vc-gTk" kind="relationship" relationship="rootViewController" id="8TH-6p-7Mw"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="CVa-LV-iai" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="720" y="1498"/>
         </scene>
     </scenes>
 </document>

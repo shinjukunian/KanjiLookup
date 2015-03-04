@@ -37,7 +37,7 @@
 //        }
 //    
 //    }];
-    NSString *path=[[NSBundle mainBundle]pathForResource:@"top500Words" ofType:@"txt"];
+    NSString *path=[[NSBundle mainBundle]pathForResource:@"top1000Words" ofType:@"txt"];
     NSError *error;
     NSString *words=[NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:&error];
     if (words.length>0) {

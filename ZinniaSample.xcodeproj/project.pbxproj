@@ -24,11 +24,12 @@
 		B72742951AA5791700914B7C /* CharacterCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B72742941AA5791700914B7C /* CharacterCollectionViewCell.m */; };
 		B72742971AA57BAC00914B7C /* CharacterCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B72742961AA57BAC00914B7C /* CharacterCell.xib */; };
 		B727429E1AA5840000914B7C /* ZinniaCocoaTouch.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		B72742AB1AA5CF1E00914B7C /* top500Words.txt in Resources */ = {isa = PBXBuildFile; fileRef = B72742AA1AA5CF1E00914B7C /* top500Words.txt */; };
 		B767780F1AA5F0F600B03E99 /* kanjiDict.txt in Resources */ = {isa = PBXBuildFile; fileRef = B767780E1AA5F0F600B03E99 /* kanjiDict.txt */; };
 		B77DABC91AA5DD7F0022E475 /* ZinniaCocoaTouch.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B7BA682A1AA6D92E00C79273 /* WordsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7BA68291AA6D92E00C79273 /* WordsTableViewController.m */; };
 		B7BA68301AA6E77900C79273 /* wordsDict.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7BA682F1AA6E77900C79273 /* wordsDict.txt */; };
+		B7BA68321AA6EABB00C79273 /* top1000Words.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7BA68311AA6EABB00C79273 /* top1000Words.txt */; };
+		B7BA68351AA6ECC200C79273 /* AcknowledgementsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7BA68341AA6ECC200C79273 /* AcknowledgementsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -128,11 +129,13 @@
 		B72742931AA5791700914B7C /* CharacterCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterCollectionViewCell.h; sourceTree = "<group>"; };
 		B72742941AA5791700914B7C /* CharacterCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharacterCollectionViewCell.m; sourceTree = "<group>"; };
 		B72742961AA57BAC00914B7C /* CharacterCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CharacterCell.xib; sourceTree = "<group>"; };
-		B72742AA1AA5CF1E00914B7C /* top500Words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = top500Words.txt; sourceTree = "<group>"; };
 		B767780E1AA5F0F600B03E99 /* kanjiDict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = kanjiDict.txt; sourceTree = "<group>"; };
 		B7BA68281AA6D92E00C79273 /* WordsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordsTableViewController.h; sourceTree = "<group>"; };
 		B7BA68291AA6D92E00C79273 /* WordsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WordsTableViewController.m; sourceTree = "<group>"; };
 		B7BA682F1AA6E77900C79273 /* wordsDict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wordsDict.txt; sourceTree = "<group>"; };
+		B7BA68311AA6EABB00C79273 /* top1000Words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = top1000Words.txt; sourceTree = "<group>"; };
+		B7BA68331AA6ECC200C79273 /* AcknowledgementsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AcknowledgementsViewController.h; sourceTree = "<group>"; };
+		B7BA68341AA6ECC200C79273 /* AcknowledgementsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AcknowledgementsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +195,8 @@
 				B72742781AA56A2200914B7C /* CanvasView.h */,
 				B72742791AA56A2200914B7C /* CanvasView.m */,
 				B72742521AA5694300914B7C /* Main.storyboard */,
+				B7BA68331AA6ECC200C79273 /* AcknowledgementsViewController.h */,
+				B7BA68341AA6ECC200C79273 /* AcknowledgementsViewController.m */,
 				B7BA68281AA6D92E00C79273 /* WordsTableViewController.h */,
 				B7BA68291AA6D92E00C79273 /* WordsTableViewController.m */,
 				B72742551AA5694300914B7C /* Images.xcassets */,
@@ -242,7 +247,6 @@
 		B72742821AA5716000914B7C /* HandwritingKeyboard */ = {
 			isa = PBXGroup;
 			children = (
-				B72742AA1AA5CF1E00914B7C /* top500Words.txt */,
 				B72742851AA5716000914B7C /* KeyboardViewController.h */,
 				B72742861AA5716000914B7C /* KeyboardViewController.m */,
 				B72742831AA5716000914B7C /* Supporting Files */,
@@ -257,6 +261,7 @@
 		B72742831AA5716000914B7C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B7BA68311AA6EABB00C79273 /* top1000Words.txt */,
 				B72742841AA5716000914B7C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -410,9 +415,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B72742AB1AA5CF1E00914B7C /* top500Words.txt in Resources */,
 				B72742901AA571C400914B7C /* KeyboardView.xib in Resources */,
 				B72742971AA57BAC00914B7C /* CharacterCell.xib in Resources */,
+				B7BA68321AA6EABB00C79273 /* top1000Words.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +428,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7BA68351AA6ECC200C79273 /* AcknowledgementsViewController.m in Sources */,
 				B72742511AA5694300914B7C /* ViewController.m in Sources */,
 				B727424E1AA5694300914B7C /* AppDelegate.m in Sources */,
 				B727427A1AA56A2200914B7C /* CanvasView.m in Sources */,

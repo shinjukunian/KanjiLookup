@@ -42,7 +42,7 @@
         NSDictionary *dict=[self importWordsDictionary];
         if (dict) {
             dispatch_async(dispatch_get_main_queue(), ^{
-                NSLog(@"%f",[[NSDate date]timeIntervalSinceDate:now]);
+                NSLog(@"imported for %f seconds",[[NSDate date]timeIntervalSinceDate:now]);
                 self.wordsDictionary=dict;
             });
         }
