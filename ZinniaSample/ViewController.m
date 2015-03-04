@@ -7,12 +7,18 @@
 //
 
 #import "ViewController.h"
+#import "WordsTableViewController.h"
+
 @import ZinniaCocoaTouch;
-@interface ViewController ()<UITableViewDataSource,UITableViewDelegate>
+@interface ViewController ()<UITableViewDataSource,UITableViewDelegate,UISearchControllerDelegate,UISearchResultsUpdating>
 
 @property NSArray *characterArray;
 @property NSArray *detailArray;
 @property NSDictionary *kanjiDictionary;
+@property NSDictionary *wordsDictionary;
+
+@property UISearchController *searchController;
+
 @end
 
 @implementation ViewController
@@ -20,8 +26,27 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.kanjiDictionary=[self importKanjiDictionary];
+    self.searchController=[[UISearchController alloc]initWithSearchResultsController:nil];
+    self.searchController.searchResultsUpdater=self;
+    self.searchController.delegate=self;
+    self.searchController.searchBar.frame=CGRectMake(0, 0, CGRectGetWidth(self.tableView.bounds), 44);
+    self.searchController.dimsBackgroundDuringPresentation=NO;
+    self.tableView.tableHeaderView=self.searchController.searchBar;
+    self.tableView.contentOffset=CGPointMake(0, self.searchController.searchBar.frame.size.height);
+
     
+    
+    self.kanjiDictionary=[self importKanjiDictionary];
+    dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+        NSDate *now=[NSDate date];
+        NSDictionary *dict=[self importWordsDictionary];
+        if (dict) {
+            dispatch_async(dispatch_get_main_queue(), ^{
+                NSLog(@"%f",[[NSDate date]timeIntervalSinceDate:now]);
+                self.wordsDictionary=dict;
+            });
+        }
+    });
     
 }
 
@@ -46,6 +71,33 @@
 }
 
 
+-(NSDictionary*)importWordsDictionary{
+    NSString *path=[[NSBundle mainBundle]pathForResource:@"wordsDict" ofType:@"txt"];
+    NSError *error;
+    NSString *dictString=[NSString stringWithContentsOfFile:path encoding:NSUTF8StringEncoding error:&error];
+    NSMutableDictionary *wordsDict=[NSMutableDictionary dictionary];
+    if (dictString.length>0) {
+        NSArray *lines=[dictString componentsSeparatedByString:@"\n"];
+        for (NSString *line in lines) {
+            NSArray *components=[line componentsSeparatedByString:@":"];
+            NSString *kanji=components.firstObject;
+            NSString *wordString=components.lastObject;
+            NSArray *wordComponents=[wordString componentsSeparatedByString:@","];
+            if (wordComponents.count>2) {
+                NSString *word=wordComponents.firstObject;
+                NSString *wordKana=wordComponents[1];
+                NSString *translation=[[wordComponents subarrayWithRange:NSMakeRange(2, wordComponents.count-2)]componentsJoinedByString:@", "];
+                NSMutableArray *wordsArray=[NSMutableArray arrayWithArray:wordsDict[kanji]];
+                [wordsArray addObject:@{@"word":word,@"wordKana":wordKana,@"translation":translation}];
+                [wordsDict addEntriesFromDictionary:@{kanji:wordsArray.copy}];
+
+            }
+        }
+    }
+    
+    return wordsDict.copy;
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
@@ -63,17 +115,25 @@
 
 -(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
     UITableViewCell *cell=[tableView dequeueReusableCellWithIdentifier:@"characterCell" forIndexPath:indexPath];
-    cell.textLabel.text=self.characterArray[indexPath.row];
+    NSString *character=self.characterArray[indexPath.row];
+    cell.textLabel.text=character;
     id object=self.detailArray[indexPath.row];
     if (object !=[NSNull null]) {
         NSString *reading=object;
         if (reading.length>0) {
             cell.detailTextLabel.text=reading;
-            
         }
     }
     else{
-        cell.detailTextLabel.text=@"";
+        cell.detailTextLabel.text=@" "; //strange hack, if string is empty labels disappear, must be some problem with dequeuing
+       
+    }
+    NSArray *words=self.wordsDictionary[character];
+    if (words.count>0) {
+        cell.accessoryType=UITableViewCellAccessoryDisclosureIndicator;
+    }
+    else{
+        cell.accessoryType=UITableViewCellAccessoryNone;
     }
     
     return cell;
@@ -85,6 +145,7 @@
     NSMutableArray *readings=[NSMutableArray array];
     for (NSString *character in characters) {
         NSString *reading=self.kanjiDictionary[character];
+      //  NSLog(@"index %lu character:%@ reading:%@",[characters indexOfObject:character], character,reading);
         if (reading.length>0) {
             [readings addObject:reading];
         }
@@ -101,6 +162,70 @@
     [self.canvas clearCanvas];
     self.characterArray=@[];
     [self.tableView reloadData];
+}
+
+
+
+
+-(void)didPresentSearchController:(UISearchController *)searchController{
+    [self clear:nil];
+    
+}
+
+- (void)updateSearchResultsForSearchController:(UISearchController *)searchController{
+    NSString *searchString = [self.searchController.searchBar text];
+    
+    if (searchString.length>0) {
+        NSArray *filteredKanji=[self.kanjiDictionary.allKeys filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"self contains %@",searchString]];
+        self.characterArray=filteredKanji;
+        [self.tableView reloadData];
+    }
+}
+
+-(void)willDismissSearchController:(UISearchController *)searchController{
+    [self clear:nil];
+}
+
+
+
+
+
+- (IBAction)unwindToStartScreen:(UIStoryboardSegue *)unwindSegue
+{
+}
+
+
+-(BOOL)shouldPerformSegueWithIdentifier:(NSString *)identifier sender:(id)sender{
+    if ([identifier isEqualToString:@"toWords"]) {
+        UITableViewCell *cell=sender;
+        NSIndexPath *path=[self.tableView indexPathForCell:cell];
+        NSString *character=self.characterArray[path.row];
+        NSArray *array=self.wordsDictionary[character];
+        if (array.count>0) {
+            return YES;
+        }
+        
+    }
+    return NO;
+}
+
+
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    
+    if ([segue.identifier isEqualToString:@"toWords"]) {
+        UINavigationController *nav=segue.destinationViewController;
+        WordsTableViewController *controller=(WordsTableViewController*)nav.visibleViewController;
+        UITableViewCell *cell=sender;
+        NSIndexPath *path=[self.tableView indexPathForCell:cell];
+        NSString *character=self.characterArray[path.row];
+        NSArray *array=self.wordsDictionary[character];
+        if (array.count>0) {
+            controller.words=array;
+            controller.kanji=character;
+        }
+
+    }
+    
 }
 
 @end
