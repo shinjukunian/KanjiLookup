@@ -117,17 +117,15 @@
     UITableViewCell *cell=[tableView dequeueReusableCellWithIdentifier:@"characterCell" forIndexPath:indexPath];
     NSString *character=self.characterArray[indexPath.row];
     cell.textLabel.text=character;
-    id object=self.detailArray[indexPath.row];
-    if (object !=[NSNull null]) {
-        NSString *reading=object;
-        if (reading.length>0) {
-            cell.detailTextLabel.text=reading;
-        }
+    NSString *reading=self.kanjiDictionary[character];
+    if (reading.length>0) {
+        cell.detailTextLabel.text=reading;
     }
     else{
-        cell.detailTextLabel.text=@" "; //strange hack, if string is empty labels disappear, must be some problem with dequeuing
-       
+        cell.detailTextLabel.text=@" ";
     }
+    
+    
     NSArray *words=self.wordsDictionary[character];
     if (words.count>0) {
         cell.accessoryType=UITableViewCellAccessoryDisclosureIndicator;
@@ -142,19 +140,6 @@
 -(void)canvasDidRecognizeCharacters:(NSArray*)characters withScores:(NSArray*)scores{
     
     self.characterArray=characters;
-    NSMutableArray *readings=[NSMutableArray array];
-    for (NSString *character in characters) {
-        NSString *reading=self.kanjiDictionary[character];
-      //  NSLog(@"index %lu character:%@ reading:%@",[characters indexOfObject:character], character,reading);
-        if (reading.length>0) {
-            [readings addObject:reading];
-        }
-        else{
-            [readings addObject:[NSNull null]];
-        }
-    }
-    self.detailArray=readings.copy;
-    
     [self.tableView reloadData];
 }
 
@@ -176,14 +161,33 @@
     NSString *searchString = [self.searchController.searchBar text];
     
     if (searchString.length>0) {
-        NSArray *filteredKanji=[self.kanjiDictionary.allKeys filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"self contains %@",searchString]];
-        self.characterArray=filteredKanji;
+        NSOrderedSet *kanjiCharacters=[self kanjiCharactersInString:searchString];
+        NSArray *filteredKanji=[self.kanjiDictionary.allKeys filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"self in %@",kanjiCharacters]];
+        self.characterArray=filteredKanji.copy;
         [self.tableView reloadData];
     }
+    else{
+        [self clear:nil];
+    }
+       
 }
 
 -(void)willDismissSearchController:(UISearchController *)searchController{
     [self clear:nil];
+}
+
+
+-(NSOrderedSet*)kanjiCharactersInString:(NSString*)string{
+    NSCharacterSet *kanjiCharacterset=[NSCharacterSet characterSetWithRange:NSMakeRange(0x4e00, 0x9fbf-0x4e00)];
+    NSMutableOrderedSet *kanji=[[NSMutableOrderedSet alloc]init];
+    for (NSUInteger i=0; i<string.length; i++) {
+        unichar uni=[string characterAtIndex:i];
+        if ([kanjiCharacterset characterIsMember:uni]) {
+            NSString *str = [NSString stringWithFormat: @"%C", uni];
+            [kanji addObject:str];
+        }
+    }
+    return kanji.copy;
 }
 
 
@@ -203,10 +207,12 @@
         NSArray *array=self.wordsDictionary[character];
         if (array.count>0) {
             return YES;
+            
         }
-        
+        cell.selected=NO;
+        return NO;
     }
-    return NO;
+    return YES;
 }
 
 

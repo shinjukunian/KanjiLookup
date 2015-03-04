@@ -164,7 +164,11 @@
                         </variation>
                     </view>
                     <navigationItem key="navigationItem" title="Acknowledgements" id="G4M-8J-TVf">
-                        <barButtonItem key="leftBarButtonItem" systemItem="done" id="hTc-My-OF0"/>
+                        <barButtonItem key="leftBarButtonItem" systemItem="done" id="hTc-My-OF0">
+                            <connections>
+                                <action selector="dismiss:" destination="PcG-vc-gTk" id="OKo-wR-wHV"/>
+                            </connections>
+                        </barButtonItem>
                     </navigationItem>
                     <connections>
                         <outlet property="textView" destination="vUh-96-7LI" id="uSU-dK-ED4"/>
