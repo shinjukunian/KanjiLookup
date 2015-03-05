@@ -4,6 +4,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
         <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
@@ -233,19 +234,19 @@
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="xBh-mG-ZIM" id="QWR-y6-DqO">
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="loF-rX-xbk" customClass="TappableFuriganaLabel">
-                                            <rect key="frame" x="84" y="14" width="45" height="17"/>
+                                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="749" text="Label" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.85000000000000031" translatesAutoresizingMaskIntoConstraints="NO" id="loF-rX-xbk" customClass="TappableFuriganaLabel">
+                                            <rect key="frame" x="79" y="14" width="45" height="17"/>
                                             <fontDescription key="fontDescription" name="HiraKakuProN-W3" family="Hiragino Kaku Gothic ProN" pointSize="17"/>
                                             <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="249" horizontalCompressionResistancePriority="749" verticalCompressionResistancePriority="751" text="Label" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EM8-3A-vXO" customClass="TappableFuriganaLabel">
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="249" horizontalCompressionResistancePriority="748" verticalCompressionResistancePriority="751" text="Label" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EM8-3A-vXO" customClass="TappableFuriganaLabel">
                                             <rect key="frame" x="550" y="13" width="42" height="20"/>
                                             <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                             <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jfm-57-5Jb" customClass="TappableFuriganaLabel">
+                                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.90000000000000036" translatesAutoresizingMaskIntoConstraints="NO" id="Jfm-57-5Jb" customClass="TappableFuriganaLabel">
                                             <rect key="frame" x="16" y="12" width="58.5" height="20"/>
                                             <fontDescription key="fontDescription" name="HiraKakuProN-W3" family="Hiragino Kaku Gothic ProN" pointSize="22"/>
                                             <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -253,25 +254,20 @@
                                         </label>
                                     </subviews>
                                     <constraints>
-                                        <constraint firstItem="loF-rX-xbk" firstAttribute="baseline" secondItem="EM8-3A-vXO" secondAttribute="baseline" id="0NN-Ha-JGy"/>
                                         <constraint firstItem="loF-rX-xbk" firstAttribute="centerY" secondItem="EM8-3A-vXO" secondAttribute="centerY" id="4kh-Hl-CIz"/>
                                         <constraint firstItem="EM8-3A-vXO" firstAttribute="top" relation="greaterThanOrEqual" secondItem="QWR-y6-DqO" secondAttribute="topMargin" id="HaD-EZ-7rk"/>
-                                        <constraint firstItem="loF-rX-xbk" firstAttribute="leading" secondItem="Jfm-57-5Jb" secondAttribute="trailing" constant="10" id="QHk-tk-Ebi"/>
-                                        <constraint firstItem="EM8-3A-vXO" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="loF-rX-xbk" secondAttribute="trailing" constant="10" id="QfO-bu-23L"/>
+                                        <constraint firstItem="loF-rX-xbk" firstAttribute="width" relation="lessThanOrEqual" secondItem="EM8-3A-vXO" secondAttribute="width" multiplier="1.5" id="JcW-Bk-Msb"/>
+                                        <constraint firstItem="loF-rX-xbk" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Jfm-57-5Jb" secondAttribute="trailing" constant="5" id="QHk-tk-Ebi"/>
                                         <constraint firstAttribute="bottomMargin" secondItem="Jfm-57-5Jb" secondAttribute="bottom" constant="4" id="Rmg-e7-1sG"/>
                                         <constraint firstItem="Jfm-57-5Jb" firstAttribute="leading" secondItem="QWR-y6-DqO" secondAttribute="leadingMargin" constant="8" id="cNC-A4-UvE"/>
+                                        <constraint firstItem="EM8-3A-vXO" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="loF-rX-xbk" secondAttribute="trailing" constant="5" id="cVz-pA-jRd"/>
                                         <constraint firstItem="Jfm-57-5Jb" firstAttribute="top" secondItem="QWR-y6-DqO" secondAttribute="topMargin" constant="4" id="cXS-UY-qag"/>
+                                        <constraint firstItem="loF-rX-xbk" firstAttribute="leading" secondItem="Jfm-57-5Jb" secondAttribute="trailing" priority="100" constant="5" id="cqt-bE-Mfw"/>
                                         <constraint firstAttribute="bottomMargin" relation="greaterThanOrEqual" secondItem="EM8-3A-vXO" secondAttribute="bottom" id="div-ch-E8u"/>
+                                        <constraint firstItem="Jfm-57-5Jb" firstAttribute="width" relation="lessThanOrEqual" secondItem="loF-rX-xbk" secondAttribute="width" multiplier="1.5" constant="1" id="eA3-Wr-1EF"/>
                                         <constraint firstItem="loF-rX-xbk" firstAttribute="centerY" secondItem="Jfm-57-5Jb" secondAttribute="centerY" constant="1" id="vPB-82-wYd"/>
-                                        <constraint firstItem="loF-rX-xbk" firstAttribute="baseline" secondItem="Jfm-57-5Jb" secondAttribute="baseline" id="vt7-QL-Tyh"/>
                                         <constraint firstAttribute="trailingMargin" secondItem="EM8-3A-vXO" secondAttribute="trailing" id="yWi-Bt-QAW"/>
                                     </constraints>
-                                    <variation key="default">
-                                        <mask key="constraints">
-                                            <exclude reference="0NN-Ha-JGy"/>
-                                            <exclude reference="vt7-QL-Tyh"/>
-                                        </mask>
-                                    </variation>
                                 </tableViewCellContentView>
                                 <connections>
                                     <outlet property="descriptionLabel" destination="EM8-3A-vXO" id="FOG-PL-abq"/>
