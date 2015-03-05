@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    BOOL on=[[NSUserDefaults standardUserDefaults]boolForKey:@"autoLookup"];
+    [self.autoLookupSwitch setOn:on animated:YES];
+    
 }
 
 - (void)didReceiveMemoryWarning {
@@ -28,6 +30,15 @@
     [self dismissViewControllerAnimated:YES completion:nil];
     
 }
+
+
+-(IBAction)switchToggled:(id)sender{
+    UISwitch *lookupSwitch=sender;
+    
+    [[NSUserDefaults standardUserDefaults]setBool:lookupSwitch.on forKey:@"autoLookup"];
+    
+}
+
 
 /*
 #pragma mark - Navigation

@@ -1,6 +1,6 @@
 //
 //  main.m
-//  ZinniaSample
+//  KanjiLookup
 //
 //  Created by Morten Bertz on 3/3/15.
 //  Copyright (c) 2015 Morten Bertz. All rights reserved.

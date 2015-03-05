@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#
 @interface AppDelegate ()
 
 @end
@@ -17,6 +17,14 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    if (![[NSUserDefaults standardUserDefaults]boolForKey:@"launchedBefore"]) {
+        [[NSUserDefaults standardUserDefaults]setBool:YES forKey:@"launchedBefore"];
+        [[NSUserDefaults standardUserDefaults]setBool:YES forKey:@"autoLookup"];
+        
+    }
+    
+    
     return YES;
 }
 
@@ -35,7 +43,16 @@
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application {
-    // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+    
+    UIPasteboard *pasteBoard=[UIPasteboard generalPasteboard];
+    if ([pasteBoard containsPasteboardTypes:UIPasteboardTypeListString]) {
+        NSArray *array=[pasteBoard strings];
+        NSString *string=[array componentsJoinedByString:@""];
+        if (string.length>0) {
+            [[NSNotificationCenter defaultCenter]postNotificationName:pasteboardContainsTextNotification object:self userInfo:@{@"text":string}];
+            
+        }
+    }
 }
 
 - (void)applicationWillTerminate:(UIApplication *)application {
@@ -43,3 +60,5 @@
 }
 
 @end
+
+NSString *pasteboardContainsTextNotification=@"kPasteboardContainsTextNotification";

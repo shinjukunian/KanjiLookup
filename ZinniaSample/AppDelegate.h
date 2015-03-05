@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+extern NSString *pasteboardContainsTextNotification;
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;

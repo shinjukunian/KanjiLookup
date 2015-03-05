@@ -8,9 +8,12 @@
 
 #import "ViewController.h"
 #import "WordsTableViewController.h"
+#import "AppDelegate.h"
+
+#import "KanjiTableViewCell.h"
 
 @import ZinniaCocoaTouch;
-@interface ViewController ()<UITableViewDataSource,UITableViewDelegate,UISearchControllerDelegate,UISearchResultsUpdating>
+@interface ViewController ()<UITableViewDataSource,UITableViewDelegate,UISearchControllerDelegate,UISearchResultsUpdating,UISearchBarDelegate>
 
 @property NSArray *characterArray;
 @property NSArray *detailArray;
@@ -18,6 +21,9 @@
 @property NSDictionary *wordsDictionary;
 
 @property UISearchController *searchController;
+@property NSString *savedSearchString;
+
+
 
 @end
 
@@ -29,12 +35,15 @@
     self.searchController=[[UISearchController alloc]initWithSearchResultsController:nil];
     self.searchController.searchResultsUpdater=self;
     self.searchController.delegate=self;
+    self.searchController.searchBar.delegate=self;
     self.searchController.searchBar.frame=CGRectMake(0, 0, CGRectGetWidth(self.tableView.bounds), 44);
     self.searchController.dimsBackgroundDuringPresentation=NO;
+    self.searchController.searchBar.showsCancelButton=NO;
     self.tableView.tableHeaderView=self.searchController.searchBar;
-    self.tableView.contentOffset=CGPointMake(0, self.searchController.searchBar.frame.size.height);
-
     
+   // self.tableView.contentOffset=CGPointMake(0, self.tableView.tableHeaderView.bounds.size.height);
+    self.tableView.rowHeight=UITableViewAutomaticDimension;
+    self.tableView.estimatedRowHeight=50;
     
     self.kanjiDictionary=[self importKanjiDictionary];
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
@@ -48,8 +57,30 @@
         }
     });
     
+    __weak ViewController *weakSelf=self;
+    [[NSNotificationCenter defaultCenter]addObserverForName:pasteboardContainsTextNotification object:nil queue:[NSOperationQueue mainQueue] usingBlock:^(NSNotification *note){
+        BOOL autoLookup=[[NSUserDefaults standardUserDefaults]boolForKey:@"autoLookup"];
+        if (autoLookup) {
+            NSString *string=note.userInfo[@"text"];
+            if (string.length>0) {
+                NSOrderedSet *kanji=[weakSelf kanjiCharactersInString:string];
+                if (kanji.count>0) {
+                    [weakSelf clear:nil];
+                    weakSelf.characterArray=kanji.array;
+                    [weakSelf.tableView reloadData];
+                    weakSelf.searchController.searchBar.text=[kanji.array componentsJoinedByString:@""];
+                }
+            }
+        }
+    
+    }];
 }
 
+
+-(void)viewDidDisappear:(BOOL)animated{
+    [super viewDidDisappear:YES];
+    [[NSNotificationCenter defaultCenter]removeObserver:self];
+}
 
 -(NSDictionary*)importKanjiDictionary{
     NSString *path=[[NSBundle mainBundle]pathForResource:@"kanjiDict" ofType:@"txt"];
@@ -82,7 +113,7 @@
             NSArray *components=[line componentsSeparatedByString:@":"];
             NSString *kanji=components.firstObject;
             NSString *wordString=components.lastObject;
-            NSArray *wordComponents=[wordString componentsSeparatedByString:@","];
+            NSArray *wordComponents=[wordString componentsSeparatedByString:@";"];
             if (wordComponents.count>2) {
                 NSString *word=wordComponents.firstObject;
                 NSString *wordKana=wordComponents[1];
@@ -114,15 +145,17 @@
 }
 
 -(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
-    UITableViewCell *cell=[tableView dequeueReusableCellWithIdentifier:@"characterCell" forIndexPath:indexPath];
+    KanjiTableViewCell *cell=[tableView dequeueReusableCellWithIdentifier:@"characterCell" forIndexPath:indexPath];
     NSString *character=self.characterArray[indexPath.row];
-    cell.textLabel.text=character;
+    cell.kanjiLabel.text=character;
+    
     NSString *reading=self.kanjiDictionary[character];
     if (reading.length>0) {
-        cell.detailTextLabel.text=reading;
+        cell.descriptionLabel.text=reading;
+        [cell.kanjiLabel setUtterancesFromDescription:reading];
     }
     else{
-        cell.detailTextLabel.text=@" ";
+        cell.descriptionLabel.text=@" ";
     }
     
     
@@ -137,9 +170,25 @@
     return cell;
 }
 
+
+
+
+
 -(void)canvasDidRecognizeCharacters:(NSArray*)characters withScores:(NSArray*)scores{
     
-    self.characterArray=characters;
+    NSArray *displayCharacters=[characters filteredArrayUsingPredicate:[NSPredicate predicateWithBlock:^BOOL(NSString *character, NSDictionary *bindings){
+        
+        NSString *reading=self.kanjiDictionary[character];
+        if (reading.length>0) {
+            return YES;
+        }
+        else{
+            return NO;
+        }
+    
+    }]];
+    
+    self.characterArray=displayCharacters;
     [self.tableView reloadData];
 }
 
@@ -147,19 +196,50 @@
     [self.canvas clearCanvas];
     self.characterArray=@[];
     [self.tableView reloadData];
+    if (self.searchController.searchBar.text.length>0) {
+        self.searchController.searchBar.text=@"";
+    }
 }
 
 
 
+-(IBAction)kanjiTapped:(UITapGestureRecognizer*)sender{
+    CGPoint touchPoint=[sender locationInView:self.tableView];
+    NSIndexPath *path=[self.tableView indexPathForRowAtPoint:touchPoint];
+    if (path) {
+        KanjiTableViewCell *cell=(KanjiTableViewCell*)[self.tableView cellForRowAtIndexPath:path];
+        if (cell) {
+            TappableFuriganaLabel *label=cell.kanjiLabel;
+            [label becomeFirstResponder];
+            CGRect rect=label.frame;
+            UIMenuItem *speakItem=[[UIMenuItem alloc]initWithTitle:NSLocalizedString(@"Speak", nil) action:@selector(speak:)];
+            
+            UIMenuController *menu=[UIMenuController sharedMenuController];
+            menu.menuItems=@[speakItem];
+            [menu setTargetRect:rect inView:cell];
+            [menu setMenuVisible:YES animated:YES];
+        }
+    }
+    
+}
+
+
 
 -(void)didPresentSearchController:(UISearchController *)searchController{
-    [self clear:nil];
+    if (searchController.searchBar.text.length==0) {
+        [self.canvas clearCanvas];
+        self.characterArray=@[];
+        [self.tableView reloadData];
+    }
+    else{
+         [self.canvas clearCanvas];
+    }
     
 }
 
 - (void)updateSearchResultsForSearchController:(UISearchController *)searchController{
     NSString *searchString = [self.searchController.searchBar text];
-    
+
     if (searchString.length>0) {
         NSOrderedSet *kanjiCharacters=[self kanjiCharactersInString:searchString];
         NSArray *filteredKanji=[self.kanjiDictionary.allKeys filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"self in %@",kanjiCharacters]];
@@ -167,14 +247,31 @@
         [self.tableView reloadData];
     }
     else{
-        [self clear:nil];
+        [self.canvas clearCanvas];
+//        self.characterArray=@[];
+//        [self.tableView reloadData];
     }
-       
+
 }
 
 -(void)willDismissSearchController:(UISearchController *)searchController{
-    [self clear:nil];
+    if (searchController.searchBar.text.length==0) {
+        [self.canvas clearCanvas];
+        self.characterArray=@[];
+        [self.tableView reloadData];
+        
+    }
+    else{
+        [self.canvas clearCanvas];
+    }
+ 
 }
+
+-(void)searchBarCancelButtonClicked:(UISearchBar *)searchBar{
+    self.savedSearchString=searchBar.text;
+}
+
+
 
 
 -(NSOrderedSet*)kanjiCharactersInString:(NSString*)string{
@@ -222,6 +319,7 @@
         UINavigationController *nav=segue.destinationViewController;
         WordsTableViewController *controller=(WordsTableViewController*)nav.visibleViewController;
         UITableViewCell *cell=sender;
+        cell.selected=NO;
         NSIndexPath *path=[self.tableView indexPathForCell:cell];
         NSString *character=self.characterArray[path.row];
         NSArray *array=self.wordsDictionary[character];

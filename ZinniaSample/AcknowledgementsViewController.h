@@ -11,5 +11,7 @@
 @interface AcknowledgementsViewController : UIViewController
 
 @property IBOutlet UITextView *textView;
+@property IBOutlet UISwitch *autoLookupSwitch;
+
 
 @end

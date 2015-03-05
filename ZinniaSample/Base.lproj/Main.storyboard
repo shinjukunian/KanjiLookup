@@ -22,26 +22,41 @@
                                 <rect key="frame" x="0.0" y="20" width="600" height="264"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <prototypes>
-                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="characterCell" textLabel="JM8-XO-Srn" detailTextLabel="5x3-0O-vrt" style="IBUITableViewCellStyleValue1" id="Kex-68-1rw">
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="characterCell" id="Kex-68-1rw" customClass="KanjiTableViewCell">
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Kex-68-1rw" id="9Jx-Op-0mc">
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="JM8-XO-Srn">
-                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                                <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="kanji" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c7I-WJ-L69" customClass="TappableFuriganaLabel">
+                                                    <rect key="frame" x="16" y="8" width="51" height="27.5"/>
+                                                    <gestureRecognizers/>
+                                                    <fontDescription key="fontDescription" name="HiraKakuProN-W6" family="Hiragino Kaku Gothic ProN" pointSize="20"/>
                                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                                     <nil key="highlightedColor"/>
+                                                    <connections>
+                                                        <outletCollection property="gestureRecognizers" destination="OvF-Mv-r0U" appends="YES" id="tV8-Q6-RdC"/>
+                                                    </connections>
                                                 </label>
-                                                <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Detail" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="5x3-0O-vrt">
-                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="description" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Eqs-wx-E1r">
+                                                    <rect key="frame" x="511" y="18" width="81" height="19.5"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="16"/>
-                                                    <color key="textColor" red="0.55686274509803924" green="0.55686274509803924" blue="0.57647058823529407" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
+                                            <constraints>
+                                                <constraint firstItem="Eqs-wx-E1r" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="c7I-WJ-L69" secondAttribute="trailing" priority="750" constant="10" id="0Z3-uj-Jgb"/>
+                                                <constraint firstItem="Eqs-wx-E1r" firstAttribute="baseline" secondItem="c7I-WJ-L69" secondAttribute="baseline" id="GrM-81-Dhq"/>
+                                                <constraint firstAttribute="centerY" secondItem="c7I-WJ-L69" secondAttribute="centerY" id="dBo-6l-pr3"/>
+                                                <constraint firstItem="Eqs-wx-E1r" firstAttribute="trailing" secondItem="9Jx-Op-0mc" secondAttribute="trailingMargin" id="fh1-X8-tc1"/>
+                                                <constraint firstAttribute="bottomMargin" secondItem="c7I-WJ-L69" secondAttribute="bottom" id="ugK-Zt-5D6"/>
+                                                <constraint firstItem="c7I-WJ-L69" firstAttribute="leading" secondItem="9Jx-Op-0mc" secondAttribute="leadingMargin" constant="8" id="vuW-lq-lKp"/>
+                                                <constraint firstItem="c7I-WJ-L69" firstAttribute="top" secondItem="9Jx-Op-0mc" secondAttribute="topMargin" id="ywh-Tz-QPM"/>
+                                            </constraints>
                                         </tableViewCellContentView>
                                         <connections>
+                                            <outlet property="descriptionLabel" destination="Eqs-wx-E1r" id="dgf-bN-y0C"/>
+                                            <outlet property="kanjiLabel" destination="c7I-WJ-L69" id="eHv-gW-MQB"/>
                                             <segue destination="Jwl-GQ-icX" kind="show" identifier="toWords" id="fNJ-Uq-5EP"/>
                                         </connections>
                                     </tableViewCell>
@@ -113,6 +128,11 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <tapGestureRecognizer id="OvF-Mv-r0U">
+                    <connections>
+                        <action selector="kanjiTapped:" destination="BYZ-38-t0r" id="JK5-38-BxV"/>
+                    </connections>
+                </tapGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="434" y="727"/>
         </scene>
@@ -128,8 +148,20 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vUh-96-7LI">
-                                <rect key="frame" x="16" y="64" width="568" height="536"/>
+                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="D37-Cv-F6w">
+                                <rect key="frame" x="535" y="72" width="51" height="31"/>
+                                <connections>
+                                    <action selector="switchToggled:" destination="PcG-vc-gTk" eventType="valueChanged" id="xI5-j5-dqg"/>
+                                </connections>
+                            </switch>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Auto-lookup Kanji in clipboard" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="yM2-51-VMG">
+                                <rect key="frame" x="16" y="77" width="232" height="20.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vUh-96-7LI">
+                                <rect key="frame" x="16" y="111" width="568" height="481"/>
                                 <attributedString key="attributedText">
                                     <fragment>
                                         <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
@@ -145,23 +177,16 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="vUh-96-7LI" firstAttribute="top" secondItem="q71-e6-jG5" secondAttribute="bottom" id="3J2-3a-4cv"/>
-                            <constraint firstItem="VPf-Vq-FSm" firstAttribute="top" secondItem="vUh-96-7LI" secondAttribute="bottom" constant="-64" id="BOU-at-NjO"/>
-                            <constraint firstItem="vUh-96-7LI" firstAttribute="top" secondItem="q71-e6-jG5" secondAttribute="bottom" id="HPJ-bJ-IPI"/>
-                            <constraint firstItem="vUh-96-7LI" firstAttribute="leading" secondItem="VR9-m8-YRd" secondAttribute="leadingMargin" constant="-16" id="JZX-KE-Tbu"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="vUh-96-7LI" secondAttribute="trailing" id="kef-uk-BRy"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="vUh-96-7LI" secondAttribute="trailing" constant="-16" id="neJ-xg-RcM"/>
-                            <constraint firstItem="vUh-96-7LI" firstAttribute="leading" secondItem="VR9-m8-YRd" secondAttribute="leadingMargin" id="q7j-8u-4Hx"/>
-                            <constraint firstItem="VPf-Vq-FSm" firstAttribute="top" secondItem="vUh-96-7LI" secondAttribute="bottom" id="qhC-5P-6iP"/>
+                            <constraint firstItem="D37-Cv-F6w" firstAttribute="top" secondItem="q71-e6-jG5" secondAttribute="bottom" constant="8" id="52J-gx-FEk"/>
+                            <constraint firstItem="vUh-96-7LI" firstAttribute="trailing" secondItem="VR9-m8-YRd" secondAttribute="trailingMargin" id="BHq-J6-Bco"/>
+                            <constraint firstItem="vUh-96-7LI" firstAttribute="leading" secondItem="VR9-m8-YRd" secondAttribute="leadingMargin" id="Hnt-gU-hJz"/>
+                            <constraint firstItem="D37-Cv-F6w" firstAttribute="trailing" secondItem="VR9-m8-YRd" secondAttribute="trailingMargin" id="Jk0-WJ-18Q"/>
+                            <constraint firstItem="yM2-51-VMG" firstAttribute="leading" secondItem="VR9-m8-YRd" secondAttribute="leadingMargin" id="WYI-xd-44l"/>
+                            <constraint firstItem="yM2-51-VMG" firstAttribute="centerY" secondItem="D37-Cv-F6w" secondAttribute="centerY" id="d5o-ob-GEJ"/>
+                            <constraint firstItem="VPf-Vq-FSm" firstAttribute="top" secondItem="vUh-96-7LI" secondAttribute="bottom" constant="8" id="lbD-jv-GyD"/>
+                            <constraint firstItem="vUh-96-7LI" firstAttribute="top" secondItem="D37-Cv-F6w" secondAttribute="bottom" constant="8" id="o5X-CV-W0C"/>
+                            <constraint firstItem="D37-Cv-F6w" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="yM2-51-VMG" secondAttribute="trailing" constant="10" id="ztz-bI-hLs"/>
                         </constraints>
-                        <variation key="default">
-                            <mask key="constraints">
-                                <exclude reference="3J2-3a-4cv"/>
-                                <exclude reference="JZX-KE-Tbu"/>
-                                <exclude reference="neJ-xg-RcM"/>
-                                <exclude reference="BOU-at-NjO"/>
-                            </mask>
-                        </variation>
                     </view>
                     <navigationItem key="navigationItem" title="Acknowledgements" id="G4M-8J-TVf">
                         <barButtonItem key="leftBarButtonItem" systemItem="done" id="hTc-My-OF0">
@@ -171,12 +196,13 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
+                        <outlet property="autoLookupSwitch" destination="D37-Cv-F6w" id="gFU-oJ-aAV"/>
                         <outlet property="textView" destination="vUh-96-7LI" id="uSU-dK-ED4"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dRB-Ya-jmY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1532" y="1498"/>
+            <point key="canvasLocation" x="1532" y="1653"/>
         </scene>
         <!--Title-->
         <scene sceneID="3N2-SA-njT">
