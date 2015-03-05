@@ -22,15 +22,15 @@
 		B72742921AA5780700914B7C /* ZinniaCocoaTouch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; };
 		B72742951AA5791700914B7C /* CharacterCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B72742941AA5791700914B7C /* CharacterCollectionViewCell.m */; };
 		B72742971AA57BAC00914B7C /* CharacterCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B72742961AA57BAC00914B7C /* CharacterCell.xib */; };
-		B767780F1AA5F0F600B03E99 /* kanjiDict.txt in Resources */ = {isa = PBXBuildFile; fileRef = B767780E1AA5F0F600B03E99 /* kanjiDict.txt */; };
 		B77DABC91AA5DD7F0022E475 /* ZinniaCocoaTouch.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = B72742741AA5695000914B7C /* ZinniaCocoaTouch.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B79E2CEB1AA80AC9005AD814 /* HandwritingKeyboard.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B72742811AA5716000914B7C /* HandwritingKeyboard.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B79E2CF61AA82712005AD814 /* kanjiDict.txt in Resources */ = {isa = PBXBuildFile; fileRef = B79E2CF41AA82712005AD814 /* kanjiDict.txt */; };
+		B79E2CF71AA82712005AD814 /* wordsDict.txt in Resources */ = {isa = PBXBuildFile; fileRef = B79E2CF51AA82712005AD814 /* wordsDict.txt */; };
 		B7BA682A1AA6D92E00C79273 /* WordsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7BA68291AA6D92E00C79273 /* WordsTableViewController.m */; };
 		B7BA68321AA6EABB00C79273 /* top1000Words.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7BA68311AA6EABB00C79273 /* top1000Words.txt */; };
 		B7BA68351AA6ECC200C79273 /* AcknowledgementsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7BA68341AA6ECC200C79273 /* AcknowledgementsViewController.m */; };
 		B7D867FA1AA7EB6100F83CCA /* TappableFuriganaLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = B7D867F91AA7EB6100F83CCA /* TappableFuriganaLabel.m */; };
 		B7D867FE1AA7EC2600F83CCA /* KanjiTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B7D867FD1AA7EC2600F83CCA /* KanjiTableViewCell.m */; };
-		B7D868021AA8011900F83CCA /* wordsDict.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7D868011AA8011900F83CCA /* wordsDict.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -129,7 +129,8 @@
 		B72742931AA5791700914B7C /* CharacterCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterCollectionViewCell.h; sourceTree = "<group>"; };
 		B72742941AA5791700914B7C /* CharacterCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharacterCollectionViewCell.m; sourceTree = "<group>"; };
 		B72742961AA57BAC00914B7C /* CharacterCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CharacterCell.xib; sourceTree = "<group>"; };
-		B767780E1AA5F0F600B03E99 /* kanjiDict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = kanjiDict.txt; sourceTree = "<group>"; };
+		B79E2CF41AA82712005AD814 /* kanjiDict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = kanjiDict.txt; sourceTree = "<group>"; };
+		B79E2CF51AA82712005AD814 /* wordsDict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wordsDict.txt; sourceTree = "<group>"; };
 		B7BA68281AA6D92E00C79273 /* WordsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordsTableViewController.h; sourceTree = "<group>"; };
 		B7BA68291AA6D92E00C79273 /* WordsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WordsTableViewController.m; sourceTree = "<group>"; };
 		B7BA68311AA6EABB00C79273 /* top1000Words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = top1000Words.txt; sourceTree = "<group>"; };
@@ -139,7 +140,6 @@
 		B7D867F91AA7EB6100F83CCA /* TappableFuriganaLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TappableFuriganaLabel.m; sourceTree = "<group>"; };
 		B7D867FC1AA7EC2600F83CCA /* KanjiTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KanjiTableViewCell.h; sourceTree = "<group>"; };
 		B7D867FD1AA7EC2600F83CCA /* KanjiTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KanjiTableViewCell.m; sourceTree = "<group>"; };
-		B7D868011AA8011900F83CCA /* wordsDict.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wordsDict.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -217,8 +217,8 @@
 		B72742481AA5694300914B7C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B7D868011AA8011900F83CCA /* wordsDict.txt */,
-				B767780E1AA5F0F600B03E99 /* kanjiDict.txt */,
+				B79E2CF41AA82712005AD814 /* kanjiDict.txt */,
+				B79E2CF51AA82712005AD814 /* wordsDict.txt */,
 				B727426E1AA5695000914B7C /* ZinniaCocoaTouch.xcodeproj */,
 				B72742491AA5694300914B7C /* Info.plist */,
 				B727424A1AA5694300914B7C /* main.m */,
@@ -406,10 +406,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B767780F1AA5F0F600B03E99 /* kanjiDict.txt in Resources */,
+				B79E2CF61AA82712005AD814 /* kanjiDict.txt in Resources */,
 				B72742541AA5694300914B7C /* Main.storyboard in Resources */,
 				B72742591AA5694300914B7C /* LaunchScreen.xib in Resources */,
-				B7D868021AA8011900F83CCA /* wordsDict.txt in Resources */,
+				B79E2CF71AA82712005AD814 /* wordsDict.txt in Resources */,
 				B72742561AA5694300914B7C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

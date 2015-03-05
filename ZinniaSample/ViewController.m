@@ -40,10 +40,11 @@
     self.searchController.dimsBackgroundDuringPresentation=NO;
     self.searchController.searchBar.showsCancelButton=NO;
     self.tableView.tableHeaderView=self.searchController.searchBar;
-    
-   // self.tableView.contentOffset=CGPointMake(0, self.tableView.tableHeaderView.bounds.size.height);
     self.tableView.rowHeight=UITableViewAutomaticDimension;
     self.tableView.estimatedRowHeight=50;
+    [[UIBarButtonItem appearanceWhenContainedIn: [UISearchBar class], nil] setTintColor:[UIColor redColor]];
+
+    
     
     self.kanjiDictionary=[self importKanjiDictionary];
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
@@ -151,6 +152,7 @@
     
     NSString *reading=self.kanjiDictionary[character];
     if (reading.length>0) {
+        
         cell.descriptionLabel.text=reading;
         [cell.kanjiLabel setUtterancesFromDescription:reading];
     }
@@ -199,28 +201,6 @@
     if (self.searchController.searchBar.text.length>0) {
         self.searchController.searchBar.text=@"";
     }
-}
-
-
-
--(IBAction)kanjiTapped:(UITapGestureRecognizer*)sender{
-    CGPoint touchPoint=[sender locationInView:self.tableView];
-    NSIndexPath *path=[self.tableView indexPathForRowAtPoint:touchPoint];
-    if (path) {
-        KanjiTableViewCell *cell=(KanjiTableViewCell*)[self.tableView cellForRowAtIndexPath:path];
-        if (cell) {
-            TappableFuriganaLabel *label=cell.kanjiLabel;
-            [label becomeFirstResponder];
-            CGRect rect=label.frame;
-            UIMenuItem *speakItem=[[UIMenuItem alloc]initWithTitle:NSLocalizedString(@"Speak", nil) action:@selector(speak:)];
-            
-            UIMenuController *menu=[UIMenuController sharedMenuController];
-            menu.menuItems=@[speakItem];
-            [menu setTargetRect:rect inView:cell];
-            [menu setMenuVisible:YES animated:YES];
-        }
-    }
-    
 }
 
 

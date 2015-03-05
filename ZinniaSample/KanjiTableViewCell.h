@@ -12,6 +12,7 @@
 @interface KanjiTableViewCell : UITableViewCell
 
 @property IBOutlet TappableFuriganaLabel *kanjiLabel;
+@property IBOutlet TappableFuriganaLabel *readingLabel;
 @property IBOutlet UILabel *descriptionLabel;
 
 

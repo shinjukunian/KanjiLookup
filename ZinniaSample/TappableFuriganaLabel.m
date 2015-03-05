@@ -11,8 +11,9 @@
 
 @interface TappableFuriganaLabel ()
 
-
+@property UITapGestureRecognizer *tap;
 @property AVSpeechSynthesizer *synthesizer;
+@property NSSet *charactersToTrim;
 @end
 
 @implementation TappableFuriganaLabel
@@ -21,7 +22,12 @@
 -(instancetype)initWithCoder:(NSCoder *)aDecoder{
     self=[super initWithCoder:aDecoder];
     if (self) {
-            }
+        
+        self.tap=[[UITapGestureRecognizer alloc]initWithTarget:self action:@selector(tapped:)];
+        [self addGestureRecognizer:self.tap];
+        self.charactersToTrim=[[NSSet alloc]initWithArray:@[@"【",@"】"]];
+        
+        }
     return self;
 }
 
@@ -60,13 +66,41 @@
 }
 
 
+-(void)tapped:(UITapGestureRecognizer*)sender{
+    
+    [self becomeFirstResponder];
+    CGRect rect=self.frame;
+    UIMenuItem *speakItem=[[UIMenuItem alloc]initWithTitle:NSLocalizedString(@"Speak", nil) action:@selector(speak:)];
+    UIMenuController *menu=[UIMenuController sharedMenuController];
+    menu.menuItems=@[speakItem];
+    [menu setTargetRect:rect inView:self.superview];
+    [menu setMenuVisible:YES animated:YES];
 
-
-- (void)copy:(id)sender {
-    [[UIPasteboard generalPasteboard] setString:self.text];
+    
+    
 }
 
 
+- (void)copy:(id)sender {
+    NSString *cleanText=self.text;
+    
+    for (NSString *character in self.charactersToTrim) {
+        cleanText=[cleanText stringByReplacingOccurrencesOfString:character withString:@""];
+    }
+    [[UIPasteboard generalPasteboard] setString:cleanText];
+}
+
+
+-(void)setUtteranceForString:(NSString*)string{
+    
+    AVSpeechUtterance *utterance=[AVSpeechUtterance speechUtteranceWithString:string];
+    utterance.voice=[AVSpeechSynthesisVoice voiceWithLanguage:@"ja-JP"];;
+    utterance.rate=AVSpeechUtteranceMinimumSpeechRate;
+    utterance.postUtteranceDelay=0.2;
+    self.utterances=@[utterance];
+
+    
+}
 
 
 -(BOOL)setUtterancesFromDescription:(NSString *)description{

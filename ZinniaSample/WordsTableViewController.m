@@ -7,6 +7,7 @@
 //
 
 #import "WordsTableViewController.h"
+#import "KanjiTableViewCell.h"
 
 @interface WordsTableViewController ()<UISearchControllerDelegate,UISearchResultsUpdating>
 
@@ -28,8 +29,12 @@
     self.searchController.dimsBackgroundDuringPresentation=NO;
     self.tableView.tableHeaderView=self.searchController.searchBar;
     self.tableView.contentOffset=CGPointMake(0, self.searchController.searchBar.frame.size.height);
-    
+    NSMutableDictionary *appearanceDict=[NSMutableDictionary dictionaryWithDictionary:[[UINavigationBar appearance]titleTextAttributes]];
+    [appearanceDict setValue:[UIColor redColor] forKey:NSForegroundColorAttributeName];
+
+    [appearanceDict setObject:[UIFont fontWithName:@"Hiragino Kaku Gothic ProN W3" size:27] forKey:NSFontAttributeName];
     self.navigationItem.title=self.kanji;
+    [self.navigationController.navigationBar setTitleTextAttributes:appearanceDict];
     
     NSMutableArray *wordsMutable=[NSMutableArray array];
     NSMutableDictionary *wordsDict=[NSMutableDictionary dictionary];
@@ -45,6 +50,9 @@
     self.wordsArray=wordsMutable.copy;
     self.dataArray=self.wordsArray;
     self.dataDictionary=wordsDict.copy;
+    
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
@@ -92,15 +100,18 @@
 
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"wordCell" forIndexPath:indexPath];
+    KanjiTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"wordCell" forIndexPath:indexPath];
     NSString *word=self.dataArray[indexPath.row];
     NSDictionary *wordDict=self.dataDictionary[word];
     
     NSString *kana=wordDict[@"wordKana"];
     NSString *translation=wordDict[@"translation"];
-    NSString *title=[NSString stringWithFormat:@"%@ 【%@】",word,kana];
-    cell.textLabel.text=title;
-    cell.detailTextLabel.text=translation;
+    
+    cell.kanjiLabel.text=word;
+    [cell.kanjiLabel setUtteranceForString:kana];
+    [cell.readingLabel setUtteranceForString:kana];
+    cell.readingLabel.text=[NSString stringWithFormat:@"【%@】",kana];
+    cell.descriptionLabel.text=translation;
    
     return cell;
 }

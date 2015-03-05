@@ -21,26 +21,24 @@
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="TuU-Ds-rRI">
                                 <rect key="frame" x="0.0" y="20" width="600" height="264"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="separatorColor" red="1" green="0.40000000596046448" blue="0.40000000596046448" alpha="0.5" colorSpace="calibratedRGB"/>
                                 <prototypes>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="characterCell" id="Kex-68-1rw" customClass="KanjiTableViewCell">
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Kex-68-1rw" id="9Jx-Op-0mc">
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="kanji" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c7I-WJ-L69" customClass="TappableFuriganaLabel">
-                                                    <rect key="frame" x="16" y="8" width="51" height="27.5"/>
+                                                <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="kanji" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c7I-WJ-L69" customClass="TappableFuriganaLabel">
+                                                    <rect key="frame" x="16" y="8" width="64" height="27.5"/>
                                                     <gestureRecognizers/>
-                                                    <fontDescription key="fontDescription" name="HiraKakuProN-W6" family="Hiragino Kaku Gothic ProN" pointSize="20"/>
+                                                    <fontDescription key="fontDescription" name="HiraKakuProN-W3" family="Hiragino Kaku Gothic ProN" pointSize="24"/>
                                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                                     <nil key="highlightedColor"/>
-                                                    <connections>
-                                                        <outletCollection property="gestureRecognizers" destination="OvF-Mv-r0U" appends="YES" id="tV8-Q6-RdC"/>
-                                                    </connections>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="description" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Eqs-wx-E1r">
-                                                    <rect key="frame" x="511" y="18" width="81" height="19.5"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
-                                                    <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <rect key="frame" x="503" y="18" width="89" height="16"/>
+                                                    <fontDescription key="fontDescription" name="HiraKakuProN-W3" family="Hiragino Kaku Gothic ProN" pointSize="16"/>
+                                                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
@@ -80,6 +78,7 @@
                                 <rect key="frame" x="0.0" y="556" width="600" height="44"/>
                                 <items>
                                     <barButtonItem title="Clear" id="aVo-zv-Dl5">
+                                        <color key="tintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                         <connections>
                                             <action selector="clear:" destination="BYZ-38-t0r" id="bsM-UQ-rbF"/>
                                         </connections>
@@ -89,7 +88,9 @@
                                         <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="detailDisclosure" lineBreakMode="middleTruncation" id="Dzx-mF-BzF">
                                             <rect key="frame" x="538" y="7" width="22" height="22"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <color key="tintColor" red="1" green="0.40000000596046448" blue="0.40000000596046448" alpha="1" colorSpace="calibratedRGB"/>
                                             <state key="normal">
+                                                <color key="titleColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                 <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                             </state>
                                             <connections>
@@ -98,8 +99,10 @@
                                                 </segue>
                                             </connections>
                                         </button>
+                                        <color key="tintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     </barButtonItem>
                                 </items>
+                                <color key="barTintColor" cocoaTouchSystemColor="lightTextColor"/>
                             </toolbar>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -128,11 +131,6 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-                <tapGestureRecognizer id="OvF-Mv-r0U">
-                    <connections>
-                        <action selector="kanjiTapped:" destination="BYZ-38-t0r" id="JK5-38-BxV"/>
-                    </connections>
-                </tapGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="434" y="727"/>
         </scene>
@@ -212,26 +210,58 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="separatorColor" red="1" green="0.40000000600000002" blue="0.40000000600000002" alpha="0.5" colorSpace="calibratedRGB"/>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" restorationIdentifier="wordCell" selectionStyle="default" indentationWidth="10" reuseIdentifier="wordCell" textLabel="sLQ-6i-Lk8" detailTextLabel="b8E-Dz-bB9" style="IBUITableViewCellStyleValue1" id="xBh-mG-ZIM">
+                            <tableViewCell contentMode="scaleToFill" restorationIdentifier="wordCell" selectionStyle="default" indentationWidth="10" reuseIdentifier="wordCell" id="xBh-mG-ZIM" customClass="KanjiTableViewCell">
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="xBh-mG-ZIM" id="QWR-y6-DqO">
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="sLQ-6i-Lk8">
-                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="loF-rX-xbk" customClass="TappableFuriganaLabel">
+                                            <rect key="frame" x="84" y="14" width="45" height="17"/>
+                                            <fontDescription key="fontDescription" name="HiraKakuProN-W3" family="Hiragino Kaku Gothic ProN" pointSize="17"/>
+                                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="249" horizontalCompressionResistancePriority="749" verticalCompressionResistancePriority="751" misplaced="YES" text="Label" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EM8-3A-vXO" customClass="TappableFuriganaLabel">
+                                            <rect key="frame" x="547" y="14.5" width="45" height="17"/>
+                                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jfm-57-5Jb" customClass="TappableFuriganaLabel">
+                                            <rect key="frame" x="16" y="12" width="58.5" height="20"/>
+                                            <fontDescription key="fontDescription" name="HiraKakuProN-W3" family="Hiragino Kaku Gothic ProN" pointSize="22"/>
                                             <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Detail" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="b8E-Dz-bB9">
-                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
-                                            <color key="textColor" red="0.55686274509803924" green="0.55686274509803924" blue="0.57647058823529407" alpha="1" colorSpace="calibratedRGB"/>
-                                            <nil key="highlightedColor"/>
-                                        </label>
                                     </subviews>
+                                    <constraints>
+                                        <constraint firstItem="loF-rX-xbk" firstAttribute="baseline" secondItem="EM8-3A-vXO" secondAttribute="baseline" id="0NN-Ha-JGy"/>
+                                        <constraint firstItem="loF-rX-xbk" firstAttribute="centerY" secondItem="EM8-3A-vXO" secondAttribute="centerY" id="4kh-Hl-CIz"/>
+                                        <constraint firstItem="EM8-3A-vXO" firstAttribute="top" relation="greaterThanOrEqual" secondItem="QWR-y6-DqO" secondAttribute="topMargin" id="HaD-EZ-7rk"/>
+                                        <constraint firstItem="loF-rX-xbk" firstAttribute="leading" secondItem="Jfm-57-5Jb" secondAttribute="trailing" constant="10" id="QHk-tk-Ebi"/>
+                                        <constraint firstItem="EM8-3A-vXO" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="loF-rX-xbk" secondAttribute="trailing" constant="10" id="QfO-bu-23L"/>
+                                        <constraint firstAttribute="bottomMargin" secondItem="Jfm-57-5Jb" secondAttribute="bottom" constant="4" id="Rmg-e7-1sG"/>
+                                        <constraint firstItem="Jfm-57-5Jb" firstAttribute="leading" secondItem="QWR-y6-DqO" secondAttribute="leadingMargin" constant="8" id="cNC-A4-UvE"/>
+                                        <constraint firstItem="Jfm-57-5Jb" firstAttribute="top" secondItem="QWR-y6-DqO" secondAttribute="topMargin" constant="4" id="cXS-UY-qag"/>
+                                        <constraint firstAttribute="bottomMargin" relation="greaterThanOrEqual" secondItem="EM8-3A-vXO" secondAttribute="bottom" id="div-ch-E8u"/>
+                                        <constraint firstItem="loF-rX-xbk" firstAttribute="centerY" secondItem="Jfm-57-5Jb" secondAttribute="centerY" constant="1" id="vPB-82-wYd"/>
+                                        <constraint firstItem="loF-rX-xbk" firstAttribute="baseline" secondItem="Jfm-57-5Jb" secondAttribute="baseline" id="vt7-QL-Tyh"/>
+                                        <constraint firstAttribute="trailingMargin" secondItem="EM8-3A-vXO" secondAttribute="trailing" id="yWi-Bt-QAW"/>
+                                    </constraints>
+                                    <variation key="default">
+                                        <mask key="constraints">
+                                            <exclude reference="0NN-Ha-JGy"/>
+                                            <exclude reference="vt7-QL-Tyh"/>
+                                        </mask>
+                                    </variation>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="descriptionLabel" destination="EM8-3A-vXO" id="FOG-PL-abq"/>
+                                    <outlet property="kanjiLabel" destination="Jfm-57-5Jb" id="UuX-Nv-ysk"/>
+                                    <outlet property="readingLabel" destination="loF-rX-xbk" id="lAi-DU-T4F"/>
+                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -241,6 +271,7 @@
                     </tableView>
                     <navigationItem key="navigationItem" title="Title" id="iKQ-yM-BwQ">
                         <barButtonItem key="leftBarButtonItem" title="Back" id="oh1-oG-4Qk">
+                            <color key="tintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                             <connections>
                                 <segue destination="eoS-HF-hQN" kind="unwind" unwindAction="unwindToStartScreen:" id="nnL-gd-8Nk"/>
                             </connections>

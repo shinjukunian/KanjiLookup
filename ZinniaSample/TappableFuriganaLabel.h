@@ -16,5 +16,6 @@
 -(void)speak:(id)sender;
 
 -(BOOL)setUtterancesFromDescription:(NSString*)description;
+-(void)setUtteranceForString:(NSString*)string;
 
 @end
