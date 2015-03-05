@@ -24,7 +24,10 @@
 -(instancetype)initWithCoder:(NSCoder *)aDecoder{
     self=[super initWithCoder:aDecoder];
     if (self) {
-         self.path=[UIBezierPath bezierPath];
+        self.layer.borderWidth=.5;
+        self.layer.borderColor=[[[UIColor redColor]colorWithAlphaComponent:0.7]CGColor];
+        self.layer.cornerRadius=3;
+        self.path=[UIBezierPath bezierPath];
         self.drawLayer=[[CAShapeLayer alloc]init];
         self.drawLayer.strokeColor=[[UIColor blackColor]CGColor];
         self.drawLayer.fillColor=nil;
