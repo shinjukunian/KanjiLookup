@@ -28,8 +28,8 @@
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Kex-68-1rw" id="9Jx-Op-0mc">
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="kanji" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c7I-WJ-L69" customClass="TappableFuriganaLabel">
-                                                    <rect key="frame" x="16" y="8" width="64" height="27.5"/>
+                                                <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="kanji" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c7I-WJ-L69" customClass="TappableFuriganaLabel">
+                                                    <rect key="frame" x="16" y="8" width="55" height="27.5"/>
                                                     <gestureRecognizers/>
                                                     <fontDescription key="fontDescription" name="HiraKakuProN-W3" family="Hiragino Kaku Gothic ProN" pointSize="24"/>
                                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -146,48 +146,64 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="D37-Cv-F6w">
-                                <rect key="frame" x="535" y="72" width="51" height="31"/>
-                                <connections>
-                                    <action selector="switchToggled:" destination="PcG-vc-gTk" eventType="valueChanged" id="xI5-j5-dqg"/>
-                                </connections>
-                            </switch>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Auto-lookup Kanji in clipboard" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="yM2-51-VMG">
-                                <rect key="frame" x="16" y="77" width="232" height="20.5"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vUh-96-7LI">
-                                <rect key="frame" x="16" y="111" width="568" height="481"/>
-                                <attributedString key="attributedText">
-                                    <fragment>
-                                        <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                        <attributes>
-                                            <font key="NSFont" size="14" name="HelveticaNeue"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
-                                        </attributes>
-                                    </fragment>
-                                </attributedString>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                                <dataDetectorType key="dataDetectorTypes" link="YES"/>
-                            </textView>
+                            <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gWE-zP-eDe">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="85T-ns-MVP">
+                                    <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    <subviews>
+                                        <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="D37-Cv-F6w">
+                                            <rect key="frame" x="531" y="84" width="51" height="31"/>
+                                            <connections>
+                                                <action selector="switchToggled:" destination="PcG-vc-gTk" eventType="valueChanged" id="xI5-j5-dqg"/>
+                                            </connections>
+                                        </switch>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="749" text="Auto-lookup Kanji in clipboard" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="yM2-51-VMG">
+                                            <rect key="frame" x="16" y="90" width="220" height="19.5"/>
+                                            <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vUh-96-7LI">
+                                            <rect key="frame" x="16" y="135" width="568" height="457"/>
+                                            <attributedString key="attributedText">
+                                                <fragment>
+                                                    <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                    <attributes>
+                                                        <font key="NSFont" size="14" name="HelveticaNeue"/>
+                                                        <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                                                    </attributes>
+                                                </fragment>
+                                            </attributedString>
+                                            <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                            <dataDetectorType key="dataDetectorTypes" link="YES"/>
+                                        </textView>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="yM2-51-VMG" firstAttribute="leading" secondItem="85T-ns-MVP" secondAttribute="leading" constant="16" id="ArR-it-wuF"/>
+                                        <constraint firstItem="vUh-96-7LI" firstAttribute="leading" secondItem="85T-ns-MVP" secondAttribute="leading" constant="16" id="Ure-Ye-Z3H"/>
+                                        <constraint firstAttribute="trailing" secondItem="D37-Cv-F6w" secondAttribute="trailing" constant="20" id="ZOq-U1-B8P"/>
+                                        <constraint firstAttribute="trailing" secondItem="vUh-96-7LI" secondAttribute="trailing" constant="16" id="dNa-OK-ckz"/>
+                                        <constraint firstItem="yM2-51-VMG" firstAttribute="centerY" secondItem="D37-Cv-F6w" secondAttribute="centerY" id="dsl-C0-2ZQ"/>
+                                        <constraint firstItem="vUh-96-7LI" firstAttribute="top" secondItem="D37-Cv-F6w" secondAttribute="bottom" constant="20" id="fug-m6-dwj"/>
+                                    </constraints>
+                                </view>
+                                <blurEffect style="light"/>
+                            </visualEffectView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="D37-Cv-F6w" firstAttribute="top" secondItem="q71-e6-jG5" secondAttribute="bottom" constant="8" id="52J-gx-FEk"/>
-                            <constraint firstItem="vUh-96-7LI" firstAttribute="trailing" secondItem="VR9-m8-YRd" secondAttribute="trailingMargin" id="BHq-J6-Bco"/>
-                            <constraint firstItem="vUh-96-7LI" firstAttribute="leading" secondItem="VR9-m8-YRd" secondAttribute="leadingMargin" id="Hnt-gU-hJz"/>
-                            <constraint firstItem="D37-Cv-F6w" firstAttribute="trailing" secondItem="VR9-m8-YRd" secondAttribute="trailingMargin" id="Jk0-WJ-18Q"/>
-                            <constraint firstItem="yM2-51-VMG" firstAttribute="leading" secondItem="VR9-m8-YRd" secondAttribute="leadingMargin" id="WYI-xd-44l"/>
-                            <constraint firstItem="yM2-51-VMG" firstAttribute="centerY" secondItem="D37-Cv-F6w" secondAttribute="centerY" id="d5o-ob-GEJ"/>
-                            <constraint firstItem="VPf-Vq-FSm" firstAttribute="top" secondItem="vUh-96-7LI" secondAttribute="bottom" constant="8" id="lbD-jv-GyD"/>
-                            <constraint firstItem="vUh-96-7LI" firstAttribute="top" secondItem="D37-Cv-F6w" secondAttribute="bottom" constant="8" id="o5X-CV-W0C"/>
-                            <constraint firstItem="D37-Cv-F6w" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="yM2-51-VMG" secondAttribute="trailing" constant="10" id="ztz-bI-hLs"/>
+                            <constraint firstItem="D37-Cv-F6w" firstAttribute="top" secondItem="q71-e6-jG5" secondAttribute="bottom" constant="20" id="6cE-aA-hko"/>
+                            <constraint firstItem="VPf-Vq-FSm" firstAttribute="top" secondItem="vUh-96-7LI" secondAttribute="bottom" constant="8" id="6sW-WD-eU8"/>
+                            <constraint firstAttribute="centerX" secondItem="gWE-zP-eDe" secondAttribute="centerX" id="CPG-wq-TGq"/>
+                            <constraint firstAttribute="centerY" secondItem="gWE-zP-eDe" secondAttribute="centerY" id="ici-re-78Z"/>
+                            <constraint firstAttribute="height" secondItem="gWE-zP-eDe" secondAttribute="height" id="pwP-Ca-pam"/>
+                            <constraint firstAttribute="width" secondItem="gWE-zP-eDe" secondAttribute="width" id="sZF-gR-qmO"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Acknowledgements" id="G4M-8J-TVf">
                         <barButtonItem key="leftBarButtonItem" systemItem="done" id="hTc-My-OF0">
+                            <color key="tintColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                             <connections>
                                 <action selector="dismiss:" destination="PcG-vc-gTk" id="OKo-wR-wHV"/>
                             </connections>
@@ -223,8 +239,8 @@
                                             <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="249" horizontalCompressionResistancePriority="749" verticalCompressionResistancePriority="751" misplaced="YES" text="Label" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EM8-3A-vXO" customClass="TappableFuriganaLabel">
-                                            <rect key="frame" x="547" y="14.5" width="45" height="17"/>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="249" horizontalCompressionResistancePriority="749" verticalCompressionResistancePriority="751" text="Label" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EM8-3A-vXO" customClass="TappableFuriganaLabel">
+                                            <rect key="frame" x="550" y="13" width="42" height="20"/>
                                             <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                             <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                             <nil key="highlightedColor"/>

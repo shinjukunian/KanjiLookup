@@ -9,7 +9,6 @@
 #import "ViewController.h"
 #import "WordsTableViewController.h"
 #import "AppDelegate.h"
-
 #import "KanjiTableViewCell.h"
 
 @import ZinniaCocoaTouch;
@@ -308,6 +307,12 @@
             controller.kanji=character;
         }
 
+    }
+    if ([segue.identifier isEqualToString:@"disclosure"]) {
+        UIView *screenshot=[self.view snapshotViewAfterScreenUpdates:YES];
+        UINavigationController *nav=segue.destinationViewController;
+        UIViewController *dest=nav.visibleViewController;
+        [dest.view insertSubview:screenshot atIndex:0];
     }
     
 }

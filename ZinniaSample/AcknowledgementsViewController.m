@@ -19,6 +19,20 @@
     BOOL on=[[NSUserDefaults standardUserDefaults]boolForKey:@"autoLookup"];
     [self.autoLookupSwitch setOn:on animated:YES];
     
+    NSMutableDictionary *appearanceDict=[NSMutableDictionary dictionaryWithDictionary:[[UINavigationBar appearance]titleTextAttributes]];
+    [appearanceDict setValue:[UIColor redColor] forKey:NSForegroundColorAttributeName];
+    [self.navigationController.navigationBar setTitleTextAttributes:appearanceDict];
+    NSString *path=[[NSBundle mainBundle]pathForResource:@"Acknowledgements" ofType:@"rtf"];
+    NSError *error;
+    NSData *fileData=[NSData dataWithContentsOfFile:path options:NSDataReadingMappedIfSafe error:&error];
+    if (fileData.length>0) {
+        NSError *stringError;
+        NSAttributedString *ackString=[[NSAttributedString alloc]initWithData:fileData options:nil documentAttributes:nil error:&stringError];
+        if (ackString.length>0) {
+            self.textView.attributedText=ackString;
+        }
+    }
+    
 }
 
 - (void)didReceiveMemoryWarning {
