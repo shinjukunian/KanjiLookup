@@ -221,8 +221,8 @@
 
     if (searchString.length>0) {
         NSOrderedSet *kanjiCharacters=[self kanjiCharactersInString:searchString];
-        NSArray *filteredKanji=[self.kanjiDictionary.allKeys filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"self in %@",kanjiCharacters]];
-        self.characterArray=filteredKanji.copy;
+       // NSArray *filteredKanji=[self.kanjiDictionary.allKeys filteredArrayUsingPredicate:[NSPredicate predicateWithFormat:@"self in %@",kanjiCharacters]];
+        self.characterArray=kanjiCharacters.array.copy;
         [self.tableView reloadData];
     }
     else{
