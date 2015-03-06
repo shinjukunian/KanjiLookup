@@ -1,2127 +1,2753 @@
-餌,え/ジ food
-対,あいて/タイ vis-a-vis
-奮,ふる∙う/フン stirred up
-謡,うた∙い/ヨウ song
-韓,から/カン Korea
-林,はやし/リン grove
-功,いさお/コウ achievement
-柄,がら/ヘイ design
-帳,とばり/チョウ notebook
-熱,あつ∙い/ネツ heat
-越,こ∙す/エツ surpass
-奪,うば∙う/ダツ rob
-燥,はしゃ∙ぐ/ソウ parch
-愚,おろ∙か/グ foolish
-談,ダン discuss
-特,トク special
-朕,チン majestic plural
-継,つ∙ぐ/ケイ inherit
-円,まる∙い/エン circle
-徐,おもむ∙ろに/ジョ gradually
-矯,た∙める/キョウ rectify
-償,つぐな∙う/ショウ reparation
-凡,およ∙そ/ボン commonplace
-姫,ひめ/キ princess
-暴,あば∙く/ボウ outburst
-抗,あらが∙う/コウ confront
-帆,ほ/ハン sail
-神,かみ/シン gods
-世,よ/セイ generation
-始,はじ∙める/シ commence
-謁,エツ audience
-髄,ズイ marrow
-汎,ただよ∙う/ハン pan-
-鹿,しか/ロク deer
-拭,ぬぐ∙う/ショク wipe
-奏,かな∙でる/ソウ play music
-季,キ seasons
-咽,むせ∙ぶ/イン throat
-創,つく∙る/ソウ genesis
-末,すえ/マツ end
-建,た∙てる/ケン build
-惑,まど∙う/ワク beguile
-款,カン goodwill
-昭,ショウ shining
-版,ハン printing block
-鎖,くさり/サ chain
-貴,たっと∙い/キ precious
-両,てる/リョウ both
-憂,うれ∙える/ユウ melancholy
-麗,うるわ∙しい/レイ lovely
-爽,あき∙らか/ソウ refreshing
-百,もも/ヒャク hundred
-充,あ∙てる/ジュウ allot
-軽,かる∙い/ケイ lightly
-悔,く∙いる/カイ repent
-町,まち/チョウ town
-負,ま∙ける/フ defeat
-苗,なえ/ビョウ seedling
-蛍,ほたる/ケイ lightning-bug
-件,くだん/ケン affair
-娘,むすめ/ジョウ daughter
-星,ほし/セイ star
-捻,ね∙じる/ネン twirl
-禅,しずか/ゼン Zen
-撤,テツ remove
-粋,いき/スイ chic
-履,は∙く/リ perform
-原,はら/ゲン meadow
-宿,やど/シュク inn
-箇,カ counters for things
-挙,あ∙げる/キョ raise
-裁,た∙つ/サイ tailor
-賄,まかな∙う/ワイ bribe
-即,つ∙く/ソク instant
-輝,かがや∙く/キ radiance
-謝,あやま∙る/シャ apologize
-望,のぞ∙む/ボウ ambition
-袖,そで/シュウ sleeve
-毛,け/モウ fur
-后,きさき/コウ empress
-覚,おぼ∙える/カク memorize
-作,つく∙る/サク make
-獲,え∙る/カク seize
-甘,あま∙い/カン sweet
-斑,ふ/ハン spot
-詣,けい∙する/ケイ visit a temple
-峰,みね/ホウ summit
-律,リツ rhythm
-錯,サク confused
-迭,テツ transfer
-祖,ソ ancestor
-良,よ∙い/リョウ good
-幣,ぬさ/ヘイ cash
-籍,セキ enroll
-政,まつりごと/セイ politics
-移,うつ∙る/イ shift
-脅,おびや∙かす/キョウ threaten
-婚,コン marriage
-矢,や/シ dart
-益,ま∙す/エキ benefit
-見,み∙る/ケン see
-靴,くつ/カ shoes
-台,うてな/ダイ pedestal
-眺,なが∙める/チョウ stare
-逝,ゆ∙く/セイ departed
-推,お∙す/スイ conjecture
-秘,ひ∙める/ヒ secret
-係,かか∙る/ケイ person in charge
-理,ことわり/リ logic
-帽,ずきん/ボウ cap
-六,む/ロク six
-宛,あ∙てる/エン address
-弁,かんむり/ベン valve
-闇,やみ/アン get dark
-画,えが∙く/ガ brush-stroke
-条,えだ/ジョウ article
-虞,おそれ/グ fear
-要,い∙る/ヨウ need
-野,の/ヤ plains
-地,チ ground
-稲,いね/トウ rice plant
-序,つい∙で/ジョ preface
-待,ま∙つ/タイ wait
-局,つぼね/キョク bureau
-炭,すみ/タン charcoal
-恒,つね/コウ constancy
-花,はな/カ flower
-斬,き∙る/ザン beheading
-憤,いきどお∙る/フン aroused
-筆,ふで/ヒツ writing brush
-稚,いとけない/チ immature
-滝,たき/ロウ waterfall
-点,つ∙ける/テン spot
-陵,みささぎ/リョウ mausoleum
-惰,ダ lazy
-反,そ∙る/ハン anti-
-嗅,か∙ぐ/キュウ smell
-看,み∙る/カン watch over
-窯,かま/ヨウ kiln
-診,み∙る/シン checkup
-棚,たな/ホウ shelf
-刷,す∙る/サツ printing
-翌,ヨク the following
-域,イキ range
-苦,くる∙しい/ク suffering
-史,シ history
-喚,わめ∙く/カン yell
-揺,ゆ∙れる/ヨウ swing
-北,きた/ホク north
-拒,こば∙む/キョ repel
-放,はな∙す/ホウ set free
-水,みず/スイ water
-怒,いか∙る/ド angry
-据,す∙える/キョ set
-駒,こま/ク pony
-掘,ほ∙る/クツ dig
-何,なに/カ what
-孝,コウ filial piety
-璽,ジ emperor's seal
-違,ちが∙う/イ difference
-塀,ヘイ fence
-感,カン emotion
-牲,セイ animal sacrifice
-杉,すぎ/サン cedar
-刀,かたな/トウ sword
-拓,ひら∙く/タク clear (the land)
-冊,ふみ/サツ tome
-壁,かべ/ヘキ wall
-向,む∙く/コウ yonder
-督,トク coach
-赦,シャ pardon
-泉,いずみ/セン spring
-登,のぼ∙る/トウ ascend
-営,いとな∙む/エイ occupation
-顔,かお/ガン face
-机,つくえ/キ desk
-低,ひく∙い/テイ lower
-股,また/コ thigh
-縮,ちぢ∙む/シュク shrink
-若,わか∙い/ジャク young
-諾,ダク consent
-弊,ヘイ abuse
-緑,みどり/リョク green
-輩,-ばら/ハイ comrade
-資,シ assets
-堅,かた∙い/ケン strict
-巾,おお∙い/キン towel
-紹,ショウ introduce
-乱,みだ∙れる/ラン riot
-昼,ひる/チュウ daytime
-逐,チク pursue
-忠,チュウ loyalty
-告,つ∙げる/コク revelation
-州,す/シュウ state
-脹,は∙れる/チョウ dilate
-顎,あご/ガク jaw
-剛,ゴウ sturdy
-赴,おもむ∙く/フ proceed
-掃,は∙く/ソウ sweep
-蛮,えびす/バン barbarian
-栽,サイ plantation
-娯,ゴ recreation
-輪,わ/リン wheel
-措,お∙く/ソ set aside
-素,もと/ソ elementary
-議,ギ deliberation
-猫,ねこ/ビョウ cat
-写,うつ∙す/シャ copy
-需,ジュ demand
-采,と∙る/サイ dice
-楽,たの∙しい/ガク music
-唄,うた/バイ song
-欠,か∙ける/ケツ lack
-貪,むさぼ∙る/タン covet
-穂,ほ/スイ ear
-邸,やしき/テイ residence
-露,つゆ/ロ dew
-広,ひろ∙い/コウ wide
-卒,そっ∙する/ソツ graduate
-突,つ∙く/トツ stab
-郵,ユウ mail
-寄,よ∙る/キ draw near
-辞,や∙める/ジ resign
-輸,ユ transport
-綿,わた/メン cotton
-像,ゾウ statue
-廉,レン bargain
-暁,あかつき/ギョウ daybreak
-財,たから/ザイ property
-同,おな∙じ/ドウ same
-項,うなじ/コウ paragraph
-隠,かく∙す/イン conceal
-伺,うかが∙う/シ pay respects
-蹴,け∙る/シュク kick
-飾,かざ∙る/ショク decorate
-枠,わく frame
-豆,まめ/トウ beans
-唐,から/トウ T'ang
-餅,もち/ヘイ mochi rice cake
-波,なみ/ハ waves
-怖,こわ∙い/フ dreadful
-孤,コ orphan
-丁,ひのと/チョウ street
-惜,お∙しい/セキ pity
-裕,ユウ abundant
-蜜,ミツ honey
-天,あまつ/テン heavens
-跳,は∙ねる/チョウ hop
-媒,なこうど/バイ mediator
-紅,べに/コウ crimson
-弔,とむら∙う/チョウ condolences
-不,フ negative
-骨,ほね/コツ skeleton
-喪,も/ソウ miss
-先,さき/セン before
-既,すで∙に/キ previously
-辱,はずかし∙める/ジョク embarrass
-抜,ぬ∙く/バツ slip out
-果,は∙たす/カ fruit
-刃,は/ジン blade
-兆,きざ∙す/チョウ portent
-悪,わる∙い/アク bad
-避,さ∙ける/ヒ evade
-五,いつ/ゴ five
-詮,せん∙ずる/セン discussion
-従,したが∙う/ジュウ accompany
-紡,つむ∙ぐ/ボウ spinning
-貌,かたち/ボウ form
-君,きみ/クン mister
-慌,あわ∙てる/コウ disconcerted
-蓋,ふた/ガイ cover
-単,ひとえ/タン simple
-家,いえ/カ house
-賦,フ levy
-腐,くさ∙る/フ rot
-治,おさ∙める/ジ reign
-血,ち/ケツ blood
-硫,リュウ sulphur
-依,よ∙る/イ reliant
-挿,さ∙す/ソウ insert
-口,くち/コウ mouth
-歌,うた/カ song
-貢,みつ∙ぐ/コウ tribute
-宇,ウ eaves
-断,た∙つ/ダン severance
-余,あま∙る/ヨ too much
-卸,おろ∙す/シャ wholesale
-習,なら∙う/シュウ learn
-省,かえり∙みる/セイ focus
-倣,なら∙う/ホウ emulate
-慰,なぐさ∙める/イ consolation
-返,かえ∙す/ヘン return
-濁,にご∙る/ダク voiced
-都,みやこ/ト metropolis
-尊,たっと∙い/ソン revered
-陽,ひ/ヨウ sunshine
-覧,み∙る/ラン perusal
-兵,つわもの/ヘイ soldier
-浄,きよ∙める/ジョウ clean
-煮,に∙る/シャ boil
-穴,あな/ケツ hole
-香,か/コウ incense
-拝,おが∙む/ハイ worship
-以,もっ∙て/イ by means of
-誓,ちか∙う/セイ vow
-城,しろ/ジョウ castle
-冥,くら∙い/メイ dark
-双,ふた/ソウ pair
-金,かね/キン gold
-快,こころよ∙い/カイ cheerful
-二,ふた/ニ two
-級,キュウ class
-程,ほど/テイ extent
-席,むしろ/セキ seat
-貝,かい/バイ shellfish
-枯,か∙れる/コ wither
-藍,あい/ラン indigo
-芝,しば/シ turf
-拘,かか∙わる/コウ arrest
-精,セイ refined
-概,おおむ∙ね/ガイ outline
-踏,ふ∙む/トウ step
-類,たぐ∙い/ルイ sort
-忌,い∙む/キ mourning
-膳,かしわ/ゼン small low table
-申,もう∙す/シン have the honor to
-寺,てら/ジ Buddhist temple
-確,たし∙か/カク assurance
-喩,たと∙える/ユ metaphor
-恣,ほしいまま/シ selfish
-格,カク status
-縛,しば∙る/バク truss
-岳,たけ/ガク point
-専,もっぱ∙ら/セン specialty
-請,こ∙う/セイ solicit
-乾,かわ∙く/カン drought
-粒,つぶ/リュウ grains
-惨,みじ∙め/サン wretched
-全,まった∙く/ゼン whole
-崩,くず∙れる/ホウ crumble
-捨,す∙てる/シャ discard
-路,-じ/ロ path
-瘍,かさ/ヨウ swelling
-興,おこ∙る/コウ entertain
-損,そこ∙なう/ソン damage
-祥,さいわ∙い/ショウ auspicious
-罷,まか∙り-/ヒ quit
-号,さけ∙ぶ/ゴウ nickname
-排,ハイ repudiate
-暫,しばら∙く/ザン temporarily
-平,たい∙ら/ヘイ even
-鶏,にわとり/ケイ chicken
-面,おも/メン mask
-漫,みだり∙に/マン cartoon
-踪,あと/ソウ remains
-利,き∙く/リ profit
-郎,おとこ/ロウ son
-務,つと∙める/ム task
-諮,はか∙る/シ consult with
-腕,うで/ワン arm
-切,き∙る/セツ cut
-渡,わた∙る/ト transit
-奴,やつ/ド guy
-社,やしろ/シャ company
-粉,デシメートル/フン flour
-注,そそ∙ぐ/チュウ pour
-妹,いもうと/マイ younger sister
-威,おど∙す/イ intimidate
-福,フク blessing
-土,つち/ド soil
-紫,むらさき/シ purple
-免,まぬか∙れる/メン excuse
-戻,もど∙す/レイ re-
-会,あ∙う/カイ meeting
-発,た∙つ/ハツ departure
-羊,ひつじ/ヨウ sheep
-含,ふく∙む/ガン contain
-剣,つるぎ/ケン sabre
-曇,くも∙る/ドン cloudy weather
-整,ととの∙える/セイ organize
-垣,かき/エン hedge
-授,さず∙ける/ジュ impart
-好,この∙む/コウ fond
-合,あ∙う/ゴウ fit
-労,ろう∙する/ロウ labor
-錠,ジョウ lock
-暦,こよみ/レキ calendar
-展,テン unfold
-津,つ/シン haven
-庫,くら/コ warehouse
-雑,まじ∙える/ザツ miscellaneous
-追,お∙う/ツイ chase
-薦,すす∙める/セン recommend
-魅,ミ fascination
-沼,ぬま/ショウ marsh
-挨,ひら∙く/アイ approach
-濯,すす∙ぐ/タク laundry
-能,よ∙く/ノウ ability
-傾,かたむ∙く/ケイ lean
-槽,ふね/ソウ vat
-旦,あき∙らか/タン daybreak
-郊,コウ outskirts
-究,きわ∙める/キュウ research
-淫,ひた∙す/イン lewdness
-珠,たま/シュ pearl
-宮,みや/キュウ Shinto shrine
-浅,あさ∙い/セン shallow
-飯,めし/ハン meal
-塞,ふさ∙ぐ/ソク close
-目,め/モク eye
-警,いまし∙める/ケイ admonish
-誘,さそ∙う/ユウ entice
-庁,やくしょ/チョウ government office
-仏,ほとけ/ブツ Buddha
-翼,つばさ/ヨク wing
-妄,みだ∙りに/モウ delusion
-宗,むね/シュウ religion
-恋,こ∙う/レン romance
-披,ヒ expose
-館,やかた/カン building
-解,と∙く/カイ unravel
-因,よ∙る/イン cause
-三,み/サン three
-扇,おうぎ/セン fan
-暮,く∙れる/ボ evening
-凄,さむ∙い/セイ uncanny
-満,み∙ちる/マン full
-盗,ぬす∙む/トウ steal
-図,え/ズ map
-罵,ののし∙る/バ abuse
-奔,はし∙る/ホン run
-剖,ボウ divide
-較,くら∙べる/カク contrast
-昇,のぼ∙る/ショウ rise up
-堀,ほり/クツ ditch
-名,な/メイ name
-殴,なぐ∙る/オウ assault
-居,い∙る/キョ reside
-柳,やなぎ/リュウ willow
-遷,うつ∙る/セン transition
-降,お∙りる/コウ descend
-肝,きも/カン liver
-忘,わす∙れる/ボウ forget
-牛,うし/ギュウ cow
-煙,けむ∙る/エン smoke
-境,さかい/キョウ boundary
-廷,テイ courts
-粛,つつし∙む/シュク solemn
-七,なな/シチ seven
-乗,の∙る/ジョウ ride
-朝,あさ/チョウ morning
-祝,いわ∙う/シュク celebrate
-賞,ほ∙める/ショウ prize
-論,ロン argument
-飲,の∙む/イン drink
-績,セキ exploits
-流,なが∙れる/リュウ current
-湖,みずうみ/コ lake
-埼,さき/キ cape
-倉,くら/ソウ godown
-祭,まつ∙る/サイ ritual
-紀,キ chronicle
-府,フ borough
-障,さわ∙る/ショウ hinder
-恐,おそ∙れる/キョウ fear
-但,ただ∙し/タン however
-半,なか∙ば/ハン half
-黙,だま∙る/モク silence
-症,ショウ symptoms
-停,と∙める/テイ halt
-等,ひと∙しい/トウ etc.
-盲,めくら/モウ blind
-塑,でく/ソ model
-彩,いろど∙る/サイ coloring
-敷,し∙く/フ spread
-憬,あこが∙れる/ケイ yearn for
-早,はや∙い/ソウ early
-雅,みや∙び/ガ gracious
-没,おぼ∙れる/ボツ drown
-恥,は∙じる/チ shame
-駄,ダ burdensome
-怨,うら∙む/エン grudge
-仮,かり/カ sham
-乏,とぼ∙しい/ボウ destitution
-如,ごと∙し/ジョ likeness
-留,と∙める/リュウ detain
-効,き∙く/コウ merit
-況,まし∙て/キョウ condition
-瓶,かめ/ビン bottle
-碁,ゴ Go
-博,ハク Dr.
-貸,か∙す/タイ lend
-取,と∙る/シュ take
-亭,テイ pavilion
-幅,はば/フク hanging scroll
-買,か∙う/バイ buy
-略,ほぼ/リャク abbreviation
-硬,かた∙い/コウ stiff
-慈,いつく∙しむ/ジ mercy
-届,とど∙ける/カイ deliver
-鍛,きた∙える/タン forge
-月,つき/ゲツ month
-柱,はしら/チュウ pillar
-往,い∙く/オウ journey
-桜,さくら/オウ cherry
-勇,いさ∙む/ユウ courage
-竜,たつ/リュウ dragon
-廃,すた∙れる/ハイ abolish
-九,ここの/キュウ nine
-老,お∙いる/ロウ old man
-誕,タン nativity
-通,とお∙る/ツウ traffic
-退,しりぞ∙く/タイ retreat
-躍,おど∙る/ヤク leap
-乳,ちち/ニュウ milk
-秩,チツ regularity
-訓,おし∙える/クン instruction
-鮮,あざ∙やか/セン fresh
-表,おもて/ヒョウ surface
-主,ぬし/シュ lord
-束,たば/ソク bundle
-襲,おそ∙う/シュウ attack
-戒,いまし∙める/カイ commandment
-押,お∙す/オウ push
-偽,いつわ∙る/ギ falsehood
-偏,かたよ∙る/ヘン partial
-拾,ひろ∙う/シュウ pick up
-猿,さる/エン monkey
-寧,むし∙ろ/ネイ rather
-鬼,おに/キ ghost
-霜,しも/ソウ frost
-庭,にわ/テイ courtyard
-考,かんが∙える/コウ consider
-雪,ゆき/セツ snow
-載,の∙せる/サイ ride
-用,もち∙いる/ヨウ utilize
-肩,かた/ケン shoulder
-端,はし/タン edge
-検,しら∙べる/ケン examination
-礁,ショウ reef
-妻,つま/サイ wife
-愁,うれ∙える/シュウ distress
-姓,セイ surname
-県,か∙ける/ケン prefecture
-迷,まよ∙う/メイ astray
-渦,うず/カ whirlpool
-羨,うらや∙む/セン envious
-炉,いろり/ロ hearth
-笛,ふえ/テキ flute
-潜,ひそ∙む/セン submerge
-猛,モウ fierce
-界,カイ world
-恭,うやうや∙しい/キョウ respect
-形,かた/ケイ shape
-護,まも∙る/ゴ safeguard
-総,す∙べて/ソウ general
-存,ながら∙える/ソン exist
-砲,ホウ cannon
-鏡,かがみ/キョウ mirror
-自,みずか∙ら/ジ oneself
-荷,に/カ baggage
-貿,ボウ trade
-外,そと/ガイ outside
-吸,す∙う/キュウ suck
-着,き∙る/チャク don
-賛,たす∙ける/サン approve
-懲,こ∙りる/チョウ penal
-還,かえ∙る/カン send back
-案,つくえ/アン plan
-某,それがし/ボウ so-and-so
-投,な∙げる/トウ throw
-添,そ∙える/テン annexed
-術,すべ/ジュツ art
-玄,ゲン mysterious
-寛,くつろ∙ぐ/カン tolerant
-汗,あせ/カン sweat
-室,むろ/シツ room
-鈍,にぶ∙い/ドン dull
-佐,サ assistant
-騎,キ equestrian
-長,なが∙い/チョウ long
-詩,うた/シ poem
-的,まと/テキ bull's eye
-径,みち/ケイ diameter
-肉,しし/ニク meat
-富,と∙む/フ wealth
-方,かた/ホウ direction
-麓,ふもと/ロク foot of a mountain
-逸,そ∙れる/イツ deviate
-古,ふる∙い/コ old
-力,ちから/リョク power
-彼,かれ/ヒ he
-来,く∙る/ライ come
-右,みぎ/ウ right
-弱,よわ∙い/ジャク weak
-宣,のたま∙う/セン proclaim
-殉,ジュン martyrdom
-枕,まくら/チン pillow
-被,こうむ∙る/ヒ incur
-井,い/セイ well
-葬,ほうむ∙る/ソウ interment
-科,カ department
-暇,ひま/カ spare time
-革,かわ/カク leather
-袋,ふくろ/タイ sack
-否,いな/ヒ negate
-売,う∙る/バイ sell
-侯,コウ marquis
-賊,ゾク burglar
-閉,と∙じる/ヘイ closed
-旬,ジュン decameron
-偶,たま/グウ accidentally
-醜,みにく∙い/シュウ ugly
-逮,タイ apprehend
-俵,たわら/ヒョウ bag
-裾,すそ/キョ cuff
-未,いま∙だ/ミ un-
-搾,しぼ∙る/サク squeeze
-瑠,ル lapis lazuli
-錬,ね∙る/レン tempering
-揮,ふる∙う/キ brandish
-勘,カン intuition
-上,うえ/ジョウ above
-役,ヤク duty
-備,そな∙える/ビ equip
-委,ゆだ∙ねる/イ committee
-弓,ゆみ/キュウ bow
-父,ちち/フ father
-郭,くるわ/カク enclosure
-夢,ゆめ/ム dream
-冗,ジョウ superfluous
-千,ち/セン thousand
-寮,リョウ dormitory
-様,さま/ヨウ Esq.
-醒,さ∙ます/セイ awake
-争,あらそ∙う/ソウ contend
-懐,ふところ/カイ pocket
-宅,タク home
-納,おさ∙める/ノウ settlement
-嬢,むすめ/ジョウ lass
-駅,エキ station
-諭,さと∙す/ユ rebuke
-畝,せ/ボウ furrow
-衰,おとろ∙える/スイ decline
-歳,とし/サイ year-end
-侍,さむらい/ジ waiter
-渋,しぶ/ジュウ astringent
-現,あらわ∙れる/ゲン present
-冷,つめ∙たい/レイ cool
-母,はは/ボ mother
-及,およ∙ぶ/キュウ reach out
-師,いくさ/シ expert
-僅,わず∙か/キン a wee bit
-曲,ま∙がる/キョク bend
-止,と∙まる/シ stop
-皿,さら/ベイ dish
-癒,い∙える/ユ healing
-繭,まゆ/ケン cocoon
-妬,ねた∙む/ト jealous
-艇,テイ rowboat
-処,ところ/ショ dispose
-錦,にしき/キン brocade
-塊,かたまり/カイ clod
-央,オウ center
-膨,ふく∙らむ/ボウ swell
-桑,くわ/ソウ mulberry
-祈,いの∙る/キ pray
-俳,ハイ haiku
-畜,チク livestock
-暑,あつ∙い/ショ sultry
-摯,いた∙る/シ gift
-隔,へだ∙てる/カク isolate
-耐,た∙える/タイ -proof
-獣,けもの/ジュウ animal
-骸,むくろ/ガイ bone
-犯,おか∙す/ハン crime
-淑,しと∙やか/シュク graceful
-臆,むね/オク timidity
-濫,みだ∙りに/ラン excessive
-傘,かさ/サン umbrella
-拉,らっ∙する/ラツ Latin
-涼,すず∙しい/リョウ refreshing
-撃,う∙つ/ゲキ beat
-誇,ほこ∙る/コ boast
-欺,あざむ∙く/ギ deceit
-徴,しるし/チョウ indications
-穫,カク harvest
-皮,かわ/ヒ pelt
-歯,よわい/シ tooth
-材,ザイ lumber
-池,いけ/チ pond
-株,かぶ/シュ stocks
-研,と∙ぐ/ケン polish
-混,ま∙じる/コン mix
-各,おのおの/カク each
-稼,かせ∙ぐ/カ earnings
-珍,めずら∙しい/チン rare
-坂,さか/ハン slope
-殿,との/デン Mr.
-圧,お∙す/アツ pressure
-岩,いわ/ガン boulder
-紋,モン family crest
-攻,せ∙める/コウ aggression
-玩,もちあそ∙ぶ/ガン play
-鼓,つづみ/コ drum
-懸,か∙ける/ケン state of suspension
-阪,さか/ハン heights
-鎮,しず∙める/チン tranquilize
-褐,カツ brown
-獄,ゴク prison
-烈,はげ∙しい/レツ ardent
-保,たも∙つ/ホ protect
-谷,たに/コク valley
-栄,さか∙える/エイ flourish
-青,あお/セイ blue
-睡,ねむ∙る/スイ drowsy
-陣,ジン camp
-緩,ゆる∙い/カン slacken
-真,ま/シン true
-鎌,かま/レン sickle
-念,ネン wish
-肺,ハイ lungs
-生,い∙きる/セイ life
-職,ショク post
-鳴,な∙く/メイ chirp
-丘,おか/キュウ hill
-去,さ∙る/キョ gone
-死,し∙ぬ/シ death
-迎,むか∙える/ゲイ welcome
-隷,したが∙う/レイ slave
-海,うみ/カイ sea
-度,たび/ド degrees
-航,コウ navigate
-瞭,あきらか/リョウ clear
-卑,いや∙しい/ヒ lowly
-米,こめ/ベイ rice
-胃,イ stomach
-仕,つか∙える/シ attend
-参,まい∙る/サン nonplussed
-尻,しり/コウ buttocks
-岸,きし/ガン beach
-国,くに/コク country
-雲,くも/ウン cloud
-包,つつ∙む/ホウ wrap
-嘲,あざけ∙る/チョウ ridicule
-清,きよ∙い/セイ pure
-凸,でこ/トツ convex
-銅,あかがね/ドウ copper
-購,コウ subscription
-大,おお-/ダイ large
-逆,さか/ギャク inverted
-棺,カン coffin
-飛,と∙ぶ/ヒ fly
-持,も∙つ/ジ hold
-固,かた∙める/コ harden
-唾,つば/ダ saliva
-戯,たわむ∙れる/ギ frolic
-法,のり/ホウ method
-摂,おさ∙める/セツ vicarious
-酵,コウ fermentation
-雰,フン atmosphere
-決,き∙める/ケツ decide
-漠,バク vague
-島,しま/トウ island
-陛,ヘイ highness
-撲,ボク slap
-億,オク hundred million
-署,ショ signature
-豪,えら∙い/ゴウ overpowering
-雨,あめ/ウ rain
-屋,や/オク roof
-入,い∙る/ニュウ enter
-掛,か∙ける/カイ hang
-麦,むぎ/バク barley
-蜂,はち/ホウ bee
-喉,のど/コウ throat
-視,み∙る/シ inspection
-奉,たてまつ∙る/ホウ observance
-色,いろ/ショク color
-猶,なお/ユウ furthermore
-回,まわ∙る/カイ -times
-源,みなもと/ゲン source
-哨,みはり/ショウ scout
-嚇,おど∙す/カク menacing
-権,おもり/ケン authority
-涯,はて/ガイ horizon
-妊,はら∙む/ニン pregnancy
-遭,あ∙う/ソウ encounter
-奈,いかん/ナ Nara
-巡,めぐ∙る/ジュン patrol
-鬱,うっ∙する/ウツ gloom
-帯,お∙びる/タイ sash
-橋,はし/キョウ bridge
-翁,おきな/オウ venerable old man
-堂,ドウ public chamber
-設,もう∙ける/セツ establishment
-拳,こぶし/ケン fist
-文,ふみ/ブン sentence
-近,ちか∙い/キン near
-蓄,たくわ∙える/チク amass
-川,かわ/セン stream
-茂,しげ∙る/モ overgrown
-堆,うずたか∙い/タイ piled high
-題,ダイ topic
-宜,よろ∙しい/ギ best regards
-剰,あまつさえ/ジョウ surplus
-焦,こ∙げる/ショウ char
-軸,ジク axis
-享,う∙ける/キョウ enjoy
-顕,あきらか/ケン appear
-訂,テイ revise
-容,い∙れる/ヨウ contain
-宙,チュウ mid-air
-吟,ギン versify
-臭,くさ∙い/シュウ stinking
-婆,ばば/バ old woman
-司,つかさど∙る/シ director
-狭,せま∙い/キョウ cramped
-絵,カイ picture
-誉,ほま∙れ/ヨ reputation
-四,よ/シ four
-終,お∙わる/シュウ end
-祉,シ welfare
-出,で∙る/シュツ exit
-欄,てすり/ラン column
-在,あ∙る/ザイ exist
-明,あ∙かり/メイ bright
-賓,ヒン V.I.P.
-湯,ゆ/トウ hot water
-干,ほ∙す/カン dry
-墾,コン ground-breaking
-採,と∙る/サイ pick
-飢,う∙える/キ hungry
-友,とも/ユウ friend
-銭,ぜに/セン coin
-縄,なわ/ジョウ straw rope
-貯,た∙める/チョ savings
-親,おや/シン parent
-判,わか∙る/ハン judgement
-彫,ほ∙る/チョウ carve
-尾,お/ビ tail
-願,ねが∙う/ガン petition
-丙,ひのえ/ヘイ third class
-軒,のき/ケン flats
-夜,よ/ヤ night
-遅,おく∙れる/チ slow
-憶,オク recollection
-銘,メイ inscription
-児,こ/ジ newborn babe
-区,ク ward
-梨,なし/リ pear tree
-締,し∙まる/テイ tighten
-軍,いくさ/グン army
-白,しろ/ハク white
-系,ケイ lineage
-行,い∙く/コウ going
-偉,えら∙い/イ admirable
-酸,す∙い/サン acid
-坪,つぼ/ヘイ two-mat area
-孔,あな/コウ cavity
-伎,わざ/ギ deed
-関,せき/カン connection
-粗,あら∙い/ソ coarse
+討,う∙つ/トウ chastise
 唯,ただ/ユイ solely
-融,と∙ける/ユウ dissolve
-防,ふせ∙ぐ/ボウ ward off
+腹,はら/フク abdomen
+厘,リン rin
+精,セイ refined
+涯,はて/ガイ horizon
+撮,と∙る/サツ snapshot
+捻,ね∙じる/ネン twirl
+毅,つよ∙い/キ strong
+関,せき/カン connection
+就,つ∙く/シュウ concerning
+間,あいだ/カン interval
+抑,おさ∙える/ヨク repress
+首,くび/シュ neck
+庫,くら/コ warehouse
+山,やま/サン mountain
+効,き∙く/コウ merit
+園,その/エン park
+曹,ソウ office
+醒,さ∙ます/セイ awake
+眠,ねむ∙る/ミン sleep
+量,はか∙る/リョウ quantity
+逓,かわ∙る/テイ relay
+琳,リン jewel
+携,たずさ∙える/ケイ portable
+序,つい∙で/ジョ preface
+脚,あし/キャク skids
+泊,と∙まる/ハク overnight stay
+暗,くら∙い/アン darkness
+背,せ/ハイ stature
+胤,たね/イン descendent
+夢,ゆめ/ム dream
+皇,コウ emperor
+枝,えだ/シ bough
+軍,いくさ/グン army
+膏,あぶら/コウ fat
+縮,ちぢ∙む/シュク shrink
+刑,ケイ punish
+操,みさお/ソウ maneuver
+謂,い∙う/イ reason
+医,い∙やす/イ doctor
+坪,つぼ/ヘイ two-mat area
+厳,おごそ∙か/ゲン stern
+弾,ひ∙く/ダン bullet
+帖,かきもの/チョウ quire (of paper)
+莫,くれ/バク must not
+欠,か∙ける/ケツ lack
+向,む∙く/コウ yonder
+沸,わ∙く/フツ seethe
+踪,あと/ソウ remains
+究,きわ∙める/キュウ research
+悲,かな∙しい/ヒ grieve
+塾,ジュク cram school
+角,かど/カク angle
+埴,はに/ショク clay
+謎,なぞ/メイ riddle
+祐,たす∙ける/ユウ help
+形,かた/ケイ shape
+逢,あ∙う/ホウ meeting
+特,トク special
+遼,リョウ distant
+訟,ショウ sue
+棲,す∙む/セイ live
+実,み/ジツ reality
+遇,あ∙う/グウ meet
+梨,なし/リ pear tree
+梢,こずえ/ショウ treetops
+傑,すぐ∙れる/ケツ greatness
+綻,ほころ∙びる/タン be rent
+深,ふか∙い/シン deep
+劾,ガイ censure
+誓,ちか∙う/セイ vow
+樺,かば/カ birch
+鉄,くろがね/テツ iron
+逐,チク pursue
+依,よ∙る/イ reliant
+丘,おか/キュウ hill
+股,また/コ thigh
+畳,たた∙む/ジョウ tatami mat
+摘,つ∙む/テキ pinch
+検,しら∙べる/ケン examination
+迦,カ (used phonetically)
+夏,なつ/カ summer
+得,え∙る/トク gain
+起,お∙きる/キ rouse
+阻,はば∙む/ソ thwart
+光,ひか∙る/コウ ray
+灸,やいと/キュウ moxa cautery
+践,ふ∙む/セン tread
+彪,あや/ヒョウ spotted
+中,なか/チュウ in
+洋,ヨウ ocean
+屯,たむろ/トン barracks
+婦,よめ/フ lady
+削,けず∙る/サク plane
+欧,うた∙う/オウ Europe
+金,かね/キン gold
+掬,きく∙す/キク scoop up water with the hand
+妖,あや∙しい/ヨウ attractive
+瓢,ひさご/ヒョウ gourd
+切,き∙る/セツ cut
+泳,およ∙ぐ/エイ swim
+巨,キョ gigantic
+簾,すだれ/レン bamboo screen
+祈,いの∙る/キ pray
+求,もと∙める/キュウ request
+乎,か/コ question mark
+堵,かき/ト fence
+移,うつ∙る/イ shift
+外,そと/ガイ outside
+側,かわ/ソク side
+姓,セイ surname
+潮,しお/チョウ tide
+呉,く∙れる/ゴ give
+補,おぎな∙う/ホ supplement
+券,ケン ticket
+義,ギ righteousness
+甚,はなは∙だ/ジン tremendously
+梗,ふさぐ/コウ for the most part
+容,い∙れる/ヨウ contain
+扇,おうぎ/セン fan
+輿,かご/ヨ palanquin
+訃,しらせ/フ obituary
+克,か∙つ/コク overcome
+昴,すばる/コウ the Pleiades
+沓,くつ/トウ shoes
+兵,つわもの/ヘイ soldier
+醇,もっぱら/ジュン pure sake'
+挫,くじ∙く/ザ crush
+功,いさお/コウ achievement
+賄,まかな∙う/ワイ bribe
+維,イ fiber
+俗,ゾク vulgar
+宝,たから/ホウ treasure
+老,お∙いる/ロウ old man
+棒,ボウ rod
+嵯,サ steep
+蒸,む∙す/ジョウ steam
+樋,ひ/トウ water pipe
+狩,か∙る/シュ hunt
+娠,シン with child
+頭,あたま/トウ head
+敗,やぶ∙れる/ハイ failure
+李,すもも/リ plum
+溝,みぞ/コウ gutter
+婿,むこ/セイ bridegroom
+殴,なぐ∙る/オウ assault
+廉,レン bargain
+暴,あば∙く/ボウ outburst
+嵐,あらし/ラン storm
+留,と∙める/リュウ detain
+際,きわ/サイ occasion
+芽,め/ガ bud
+膝,ひざ/シツ knee
+旗,はた/キ national flag
+舞,ま∙う/ブ dance
+賓,ヒン V.I.P.
+質,たち/シツ substance
+憤,いきどお∙る/フン aroused
+肉,しし/ニク meat
+亦,また/エキ also
+充,あ∙てる/ジュウ allot
+候,そうろう/コウ climate
+境,さかい/キョウ boundary
+襟,えり/キン collar
+殉,ジュン martyrdom
+欣,よろこ∙ぶ/キン take pleasure in
+稀,まれ/キ rare
+疲,つか∙れる/ヒ exhausted
+眼,まなこ/ガン eyeball
+宇,ウ eaves
+倭,したが∙う/ワ Yamato
+款,カン goodwill
+寒,さむ∙い/カン cold
+緩,ゆる∙い/カン slacken
+疫,エキ epidemic
+芙,フ lotus
+畝,せ/ボウ furrow
+納,おさ∙める/ノウ settlement
+塔,トウ pagoda
+卒,そっ∙する/ソツ graduate
+州,す/シュウ state
+剣,つるぎ/ケン sabre
+侃,つよ∙い/カン strong
+蒔,う∙える/シ sow (seeds)
+詫,わび/タ apologize
+圧,お∙す/アツ pressure
+司,つかさど∙る/シ director
+碗,こばち/ワン porcelain bowl
+鯨,くじら/ゲイ whale
+畔,あぜ/ハン paddy ridge
+腸,はらわた/チョウ intestines
+瑠,ル lapis lazuli
+列,レツ file
+陣,ジン camp
+疾,はや∙い/シツ rapidly
+秒,ビョウ second (1/60 minute)
+比,くら∙べる/ヒ compare
+蓄,たくわ∙える/チク amass
+杉,すぎ/サン cedar
+締,し∙まる/テイ tighten
+茸,きのこ/ジョウ mushroom
+砦,とりで/サイ fort
+農,ノウ agriculture
+鉱,あらがね/コウ mineral
+決,き∙める/ケツ decide
+沙,すな/サ sand
+津,つ/シン haven
+尺,シャク shaku
+拭,ぬぐ∙う/ショク wipe
+畢,おわ∙る/ヒツ the end
+共,とも/キョウ together
+将,まさ∙に/ショウ leader
+身,み/シン somebody
+違,ちが∙う/イ difference
+閏,うるう/ジュン intercalation
+桐,きり/トウ paulownia
+韻,イン rhyme
+淵,ふち/エン abyss
+高,たか∙い/コウ tall
+征,セイ subjugate
+愛,いと∙しい/アイ love
+用,もち∙いる/ヨウ utilize
+寅,とら/イン sign of the tiger
+牡,おす/ボ male
+臣,シン retainer
+競,きそ∙う/キョウ emulate
+曖,くら∙い/アイ dark
+佃,つくだ/テン cultivated rice field
+黙,だま∙る/モク silence
+鳳,ホウ male mythical bird
+欲,ほっ∙する/ヨク longing
+句,ク phrase
+辞,や∙める/ジ resign
+悪,わる∙い/アク bad
+鄭,テイ an ancient Chinese province
+据,す∙える/キョ set
+酬,むく∙いる/シュウ repay
+返,かえ∙す/ヘン return
+贈,おく∙る/ゾウ presents
+已,や∙む/イ stop
+悩,なや∙む/ノウ trouble
+屋,や/オク roof
+目,め/モク eye
+亡,な∙い/ボウ deceased
+押,お∙す/オウ push
+凱,かちどき/ガイ victory song
+壇,ダン podium
+袋,ふくろ/タイ sack
+沌,くら∙い/トン primeval chaos
+試,こころ∙みる/シ test
+骨,ほね/コツ skeleton
+庄,ショウ level
+綾,あや/リン design
+搭,トウ board
+藁,わら/コウ straw
+漢,カン Sino-
+童,わらべ/ドウ juvenile
+委,ゆだ∙ねる/イ committee
+鼎,かなえ/テイ three legged kettle
+璧,たま/ヘキ sphere
+舗,ホ shop
+励,はげ∙む/レイ encourage
+峰,みね/ホウ summit
+墜,お∙ちる/ツイ crash
+斜,なな∙め/シャ diagonal
+哨,みはり/ショウ scout
+燥,はしゃ∙ぐ/ソウ parch
+砥,と/シ whetstone
+弄,いじく∙る/ロウ play with
+態,わざ∙と/タイ attitude
+演,エン performance
+長,なが∙い/チョウ long
+沖,おき/チュウ open sea
+肢,シ limb
+梅,うめ/バイ plum
+藩,ハン clan
+皆,みな/カイ all
+侮,あなど∙る/ブ scorn
+詔,みことのり/ショウ imperial edict
+惺,さと∙る/セイ realize
+毎,ごと/マイ every
+型,かた/ケイ mould
+琢,みが∙く/タク polish
+鍬,くわ/ショウ hoe with long blade at acute angle
+駐,チュウ stop-over
+傾,かたむ∙く/ケイ lean
+丑,うし/チュウ sign of the ox or cow
+母,はは/ボ mother
+考,かんが∙える/コウ consider
+絃,いと/ゲン string
+優,やさ∙しい/ユウ tenderness
+技,わざ/ギ skill
+瞳,ひとみ/ドウ pupil (of eye)
+貢,みつ∙ぐ/コウ tribute
+萄,ドウ grape vine
+価,あたい/カ value
+曝,さら∙す/バク bleach
+串,くし/カン shish kebab
+慧,さとい/ケイ wise
+溶,と∙ける/ヨウ melt
+校,コウ exam
+蔦,つた/チョウ vine
+斯,か/シ this
+赳,キュウ strong and brave
+詢,はか∙る/ジュン consult with
+鼻,はな/ビ nose
+旅,たび/リョ trip
+週,シュウ week
+丞,すく∙う/ジョウ help
+干,ほ∙す/カン dry
+銑,セン pig iron
+索,サク cord
+任,まか∙せる/ニン responsibility
+宿,やど/シュク inn
+淳,あつ∙い/ジュン pure
+別,わか∙れる/ベツ separate
+汚,けが∙す/オ dirty
+足,あし/ソク leg
+斤,キン axe
+玄,ゲン mysterious
+亨,とお∙る/コウ pass through
+又,また/ユウ or again
+蛍,ほたる/ケイ lightning-bug
+酒,さけ/シュ sake
+員,イン employee
+嫁,よめ/カ marry into
+鯉,こい/リ carp
+訣,わかれ/ケツ separation
+埋,う∙める/マイ bury
+嘆,なげ∙く/タン sigh
+呈,テイ display
+慎,つつし∙む/シン humility
+鷹,たか/ヨウ hawk
+慰,なぐさ∙める/イ consolation
+鶏,にわとり/ケイ chicken
+皐,さつき/コウ swamp
+槍,やり/ソウ spear
+晟,あきらか/セイ clear
+鋒,きっさき/ホウ dagger
+尾,お/ビ tail
+煎,せん∙じる/セン broil
+可,-べ∙き/カ can
+活,い∙きる/カツ lively
+富,と∙む/フ wealth
+球,たま/キュウ ball
+前,まえ/ゼン in front
+難,かた∙い/ナン difficult
+撫,な∙でる/ブ stroke
+郭,くるわ/カク enclosure
+礼,レイ salute
+左,ひだり/サ left
+恨,うら∙む/コン regret
+継,つ∙ぐ/ケイ inherit
+呂,せぼね/ロ spine
+拝,おが∙む/ハイ worship
+配,くば∙る/ハイ distribute
+諸,もろ/ショ various
+旨,むね/シ delicious
+状,ジョウ status quo
+過,す∙ぎる/カ overdo
+羅,うすもの/ラ gauze
+腐,くさ∙る/フ rot
+汁,しる/ジュウ soup
+吹,ふ∙く/スイ blow
+産,う∙む/サン products
+唇,くちびる/シン lips
+雰,フン atmosphere
+弛,たる∙む/チ slacken
+舟,ふね/シュウ boat
+美,うつく∙しい/ビ beauty
+蛇,へび/ジャ snake
+陪,バイ obeisance
+傷,きず/ショウ wound
+販,ハン marketing
+撒,ま∙く/サン scatter
+植,う∙える/ショク plant
+裳,も/ショウ skirt
+紘,おおづな/コウ large
+鮮,あざ∙やか/セン fresh
+穹,あめ/キュウ sky
+症,ショウ symptoms
+誘,さそ∙う/ユウ entice
+積,つ∙む/セキ volume
+娃,うつく∙しい/ア beautiful
+失,うしな∙う/シツ lose
+放,はな∙す/ホウ set free
+署,ショ signature
+合,あ∙う/ゴウ fit
+垂,た∙れる/スイ droop
+油,あぶら/ユ oil
+資,シ assets
+逃,に∙げる/トウ escape
+怒,いか∙る/ド angry
+煉,ね∙る/レン refine metals
+蘭,ラン orchid
+薩,サツ Buddha
+第,ダイ No.
+騎,キ equestrian
+立,た∙つ/リツ stand up
+滉,ひろ∙い/コウ deep and broad
+絶,た∙える/ゼツ discontinue
+短,みじか∙い/タン short
+顕,あきらか/ケン appear
+孤,コ orphan
+惰,ダ lazy
+漂,ただよ∙う/ヒョウ drift
+閉,と∙じる/ヘイ closed
+械,かせ/カイ contraption
+穿,うが∙つ/セン put on (to the feet)
+搬,ハン conveyor
+十,とお/ジュウ ten
+孝,コウ filial piety
+便,たよ∙り/ベン convenience
+囲,かこ∙む/イ surround
+禍,わざわい/カ calamity
+詳,くわ∙しい/ショウ detailed
+訓,おし∙える/クン instruction
+輯,あつ∙める/シュウ gather
+混,ま∙じる/コン mix
+基,もと/キ fundamentals
+犬,いぬ/ケン dog
+釉,うわぐすり/ユウ glaze
+娯,ゴ recreation
+在,あ∙る/ザイ exist
+桔,キツ used in plant names
+参,まい∙る/サン nonplussed
+悟,さと∙る/ゴ enlightenment
+箔,すだれ/ハク foil
+憲,ケン constitution
+缶,かま/カン tin can
+窃,ぬす∙む/セツ stealth
+鷺,さぎ/ロ heron
+昔,むかし/セキ once upon a time
+徽,しるし/キ good
+封,フウ seal
+郊,コウ outskirts
+遥,はる∙か/ヨウ far off
+事,こと/ジ matter
+発,た∙つ/ハツ departure
+凶,キョウ villain
+謄,トウ mimeograph
+迂,ウ roundabout way
+蒲,がま/ホ bullrush
+調,しら∙べる/チョウ tune
+喧,やかま∙しい/ケン noisy
+豊,ゆた∙か/ホウ bountiful
+樟,くす/ショウ camphor
+梓,あずさ/シ catalpa tree
+現,あらわ∙れる/ゲン present
+県,か∙ける/ケン prefecture
+溢,こぼ∙れる/イツ overflow
+闘,たたか∙う/トウ fight
+痢,リ diarrhea
+訂,テイ revise
+籾,もみ unhulled rice
+些,ち∙と/サ a little bit
+薦,すす∙める/セン recommend
+鞄,かばん/ハク suitcase
+胎,タイ womb
+汰,おご∙る/タ luxury
+仏,ほとけ/ブツ Buddha
+断,た∙つ/ダン severance
+憩,いこ∙い/ケイ recess
+澄,す∙む/チョウ lucidity
+占,し∙める/セン fortune-telling
+朗,ほが∙らか/ロウ melodious
+登,のぼ∙る/トウ ascend
+下,した/カ below
+糧,かて/リョウ provisions
+門,かど/モン gate
+受,う∙ける/ジュ accept
+灰,はい/カイ ashes
+迪,みち/テキ edify
+稽,かんが∙える/ケイ think
+省,かえり∙みる/セイ focus
+暫,しばら∙く/ザン temporarily
+貝,かい/バイ shellfish
+乙,おと-/オツ the latter
+祖,ソ ancestor
+差,さ∙す/サ distinction
+才,サイ genius
+知,し∙る/チ know
+文,ふみ/ブン sentence
+酷,ひど∙い/コク cruel
+筋,すじ/キン muscle
+年,とし/ネン year
+繰,く∙る/ソウ winding
+湿,しめ∙る/シツ damp
+為,ため/イ do
+熙,たのし∙む/キ bright
+練,ね∙る/レン practice
+拐,カイ kidnap
+未,いま∙だ/ミ un-
+棟,むね/トウ ridgepole
+刃,は/ジン blade
+漸,ようや∙く/ゼン steadily
+顧,かえり∙みる/コ look back
+送,おく∙る/ソウ escort
+蓉,ヨウ lotus
+冥,くら∙い/メイ dark
+幕,とばり/マク curtain
+市,いち/シ market
+工,コウ craft
+片,かた-/ヘン one-sided
+術,すべ/ジュツ art
+殖,ふ∙える/ショク augment
+銅,あかがね/ドウ copper
+儲,もう∙ける/チョ be profitable
+奮,ふる∙う/フン stirred up
+闇,やみ/アン get dark
+面,おも/メン mask
+惧,おそ∙れる/ク fear
+喉,のど/コウ throat
+並,な∙み/ヘイ row
+語,かた∙る/ゴ word
+甲,きのえ/コウ armor
+迫,せま∙る/ハク urge
+刺,さ∙す/シ thorn
+静,しず-/セイ quiet
+腔,コウ body cavity
+巌,いわ/ガン rock
+漆,うるし/シツ lacquer
+鍋,なべ/カ pot
+耕,たがや∙す/コウ till
+衛,エイ defense
+泉,いずみ/セン spring
+淫,ひた∙す/イン lewdness
+唆,そそ∙る/サ tempt
+塚,つか/チョウ hillock
+尼,あま/ニ nun
+区,ク ward
+聖,ひじり/セイ holy
+壁,かべ/ヘキ wall
+永,なが∙い/エイ eternity
+執,と∙る/シツ tenacious
+内,うち/ナイ inside
+諺,ことわざ/ゲン proverb
+斬,き∙る/ザン beheading
+道,みち/ドウ road-way
+漕,こ∙ぐ/ソウ rowing
+朱,あけ/シュ vermilion
+萩,はぎ/シュウ bush clover
+等,ひと∙しい/トウ etc.
+坐,すわ∙る/ザ sit
+拡,ひろ∙がる/カク broaden
+捷,はや∙い/ショウ victory
+戴,いただ∙く/タイ be crowned with
+稼,かせ∙ぐ/カ earnings
+臆,むね/オク timidity
+堅,かた∙い/ケン strict
+研,と∙ぐ/ケン polish
+晩,バン nightfall
+鳥,とり/チョウ bird
+訳,わけ/ヤク translate
+詣,けい∙する/ケイ visit a temple
+噴,ふ∙く/フン erupt
+卑,いや∙しい/ヒ lowly
+惑,まど∙う/ワク beguile
+指,ゆび/シ finger
+航,コウ navigate
+註,チュウ notes
+俣,また crotch
+麿,まろ I
+徠,きた∙す/ライ induce
+神,かみ/シン gods
+机,つくえ/キ desk
+握,にぎ∙る/アク grip
+剰,あまつさえ/ジョウ surplus
+捜,さが∙す/ソウ search
+錯,サク confused
+負,ま∙ける/フ defeat
+方,かた/ホウ direction
+弦,つる/ゲン bowstring
+学,まな∙ぶ/ガク study
+部,-べ/ブ section
+喝,カツ hoarse
+晃,あきらか/コウ clear
+凹,くぼ∙む/オウ concave
+貸,か∙す/タイ lend
+普,あまね∙く/フ universal
+脂,あぶら/シ fat
+祿,さいわ∙い/ロク fief
+広,ひろ∙い/コウ wide
+碓,たし∙か/カク pestle
+凪,なぎ lull
+憂,うれ∙える/ユウ melancholy
+快,こころよ∙い/カイ cheerful
+楼,たかどの/ロウ watchtower
+了,リョウ complete
+架,か∙ける/カ erect
+地,チ ground
+竪,たて/ジュ length
+魔,マ witch
+女,おんな/ジョ woman
+昊,そら/コウ sky
+招,まね∙く/ショウ beckon
+固,かた∙める/コ harden
+図,え/ズ map
+楊,かわ/ヨウ willow
+遁,のが∙れる/トン flee
+止,と∙まる/シ stop
+恐,おそ∙れる/キョウ fear
+脊,せ/セキ stature
+彰,ショウ patent
+薪,たきぎ/シン fuel
+寵,めぐ∙み/チョウ affection
+菌,キン germ
+琴,こと/キン harp
+頓,にわか∙に/トン suddenly
+昨,サク yesterday
+渥,あつ∙い/アク kindness
+揃,そろ∙える/セン be complete
+獣,けもの/ジュウ animal
+速,はや∙い/ソク quick
+讃,ほ∙める/サン praise
+誠,まこと/セイ sincerity
+促,うなが∙す/ソク stimulate
+火,ひ/カ fire
+朽,く∙ちる/キュウ decay
+鋭,するど∙い/エイ pointed
+貯,た∙める/チョ savings
+霞,かすみ/カ be hazy
+璃,リ glassy
+堀,ほり/クツ ditch
+椎,つち/ツイ chinquapin
+柳,やなぎ/リュウ willow
+惨,みじ∙め/サン wretched
+宋,ソウ dwell
+傍,かたわ∙ら/ボウ bystander
+曜,ヨウ weekday
+洵,の∙ぶ/ジュン alike
+璽,ジ emperor's seal
+迷,まよ∙う/メイ astray
+箋,ふだ/セン paper
+隊,タイ regiment
+既,すで∙に/キ previously
+例,たと∙える/レイ example
+透,す∙く/トウ transparent
+郷,さと/キョウ home town
+曳,ひ∙く/エイ pull
+出,で∙る/シュツ exit
+鱗,うろこ/リン scales (fish)
+汲,く∙む/キュウ draw (water)
+春,はる/シュン springtime
+祇,くにつかみ/ギ national or local god
+恕,ゆる∙す/ジョ excuse
+殊,こと/シュ particularly
+潟,かた/セキ lagoon
+巴,ともえ/ハ comma-design
+熱,あつ∙い/ネツ heat
+莞,い/カン smiling
+隼,はやぶさ/シュン falcon
+悌,テイ serving our elders
+鯛,たい/チョウ sea bream
+歓,よろこ∙ぶ/カン delight
+因,よ∙る/イン cause
+請,こ∙う/セイ solicit
+昇,のぼ∙る/ショウ rise up
+思,おも∙う/シ think
+豹,ヒョウ leopard
+勘,カン intuition
+細,ほそ∙い/サイ dainty
+膨,ふく∙らむ/ボウ swell
+先,さき/セン before
+像,ゾウ statue
+倫,リン ethics
+謁,エツ audience
+穀,コク cereals
+乱,みだ∙れる/ラン riot
+寝,ね∙る/シン lie down
+遣,つか∙う/ケン dispatch
+己,おのれ/コ self
+君,きみ/クン mister
+溜,た∙まる/リュウ collect
+卜,うらな∙う/ボク divining
+率,ひき∙いる/ソツ ratio
+呪,まじな∙う/ジュ spell
+酎,かも∙す/チュウ sake
+愉,たの∙しい/ユ pleasure
+湊,みなと/ソウ port
+予,あらかじ∙め/ヨ beforehand
+廃,すた∙れる/ハイ abolish
+福,フク blessing
+散,ち∙る/サン scatter
+仕,つか∙える/シ attend
+窮,きわ∙める/キュウ hard up
+娩,ベン bear (children)
+枇,ビ spoon
+記,しる∙す/キ scribe
+想,おも∙う/ソウ concept
+魂,たましい/コン soul
+杖,つえ/ジョウ staff
+絢,ケン brilliant fabric design
+芹,せり/キン parsley
+托,たく∙する/タク requesting
+強,つよ∙い/キョウ strong
+拓,ひら∙く/タク clear (the land)
+蜜,ミツ honey
+符,フ token
+播,ま∙く/ハ plant
+意,イ idea
+判,わか∙る/ハン judgement
+経,へ∙る/ケイ sutra
+伐,き∙る/バツ fell
+常,つね/ジョウ usual
+眸,ひとみ/ボウ pupil of the eye
+俊,シュン sagacious
+忽,たちま∙ち/コツ in a moment
+葡,ブ wild grape
+監,カン oversee
+摺,す∙る/ショウ rub
+康,コウ ease
+財,たから/ザイ property
+玉,たま/ギョク jewel
+含,ふく∙む/ガン contain
+柊,ひいらぎ/シュ holly
+禾,いね/カ two-branch tree radical (no. 115)
+商,あきな∙う/ショウ make a deal
+末,すえ/マツ end
+青,あお/セイ blue
+喋,しゃべ∙る/チョウ talk
+私,わたくし/シ private
+陶,トウ pottery
+祢,ネ ancestral shrine
+惣,いそが∙しい/ソウ all
+迄,まで/キツ until
+蹄,ひづめ/テイ hoof
+編,あ∙む/ヘン compilation
+妹,いもうと/マイ younger sister
+九,ここの/キュウ nine
+乞,こ∙う/コツ beg
+桜,さくら/オウ cherry
+印,しるし/イン stamp
+賠,バイ compensation
+話,はな∙す/ワ tale
+褒,ほ∙める/ホウ praise
+電,デン electricity
+是,これ/ゼ just so
+徴,しるし/チョウ indications
+歎,なげ∙く/タン grief
+匹,ひき/ヒツ equal
+姫,ひめ/キ princess
+夷,えびす/イ barbarian
+他,ほか/タ other
+濃,こ∙い/ノウ concentrated
+薬,くすり/ヤク medicine
+節,ふし/セツ node
+臥,ふせ∙る/ガ bend down
+顎,あご/ガク jaw
+蕉,ショウ banana
+順,ジュン obey
+凧,いかのぼり kite
+罰,ばっ∙する/バツ penalty
+迎,むか∙える/ゲイ welcome
+粋,いき/スイ chic
+忌,い∙む/キ mourning
+採,と∙る/サイ pick
+裸,はだか/ラ naked
+央,オウ center
+盟,メイ alliance
+捉,とら∙える/ソク catch
+泌,ヒツ ooze
+耶,か/ヤ question mark
+複,フク duplicate
+苦,くる∙しい/ク suffering
+鞘,さや/ショウ sheath
+挑,いど∙む/チョウ challenge
+氾,ひろ∙がる/ハン spread out
+楓,かえで/フウ maple
+淋,さび∙しい/リン lonely
+柴,しば/サイ brush
+萱,かや/ケン miscanthus reed
+改,あらた∙める/カイ reformation
+途,みち/ト route
+争,あらそ∙う/ソウ contend
+責,せ∙める/セキ blame
+勤,つと∙める/キン diligence
+暇,ひま/カ spare time
+妙,たえ/ミョウ exquisite
+緻,こまか∙い/チ fine (i.e. not coarse)
+麟,リン Chinese unicorn
+税,ゼイ tax
+組,く∙む/ソ association
+薙,な∙ぐ/テイ mow down (the enemy)
+当,あ∙たる/トウ hit
+衝,つ∙く/ショウ collide
+鎖,くさり/サ chain
+栞,しおり/カン bookmark
+奔,はし∙る/ホン run
+件,くだん/ケン affair
+政,まつりごと/セイ politics
+裟,サ Buddhist surplice
+廊,ロウ corridor
+寄,よ∙る/キ draw near
+堰,せき/エン dam
+燦,さん∙たる/サン brilliant
+丁,ひのと/チョウ street
+酉,とり/ユウ west
+尽,つ∙くす/ジン exhaust
+蔵,くら/ゾウ storehouse
+廿,にじゅう/ジュウ twenty
+洗,あら∙う/セン wash
+結,むす∙ぶ/ケツ tie
+煌,きらめ∙く/コウ glitter
+伏,ふ∙せる/フク prostrated
+佑,たす∙ける/ユウ help
+越,こ∙す/エツ surpass
+勧,すす∙める/カン persuade
+緑,みどり/リョク green
+稟,こめぐら/リン salary in rice
+炉,いろり/ロ hearth
+襖,ふすま/オウ opaque sliding door
+紗,うすぎぬ/サ gauze
+作,つく∙る/サク make
+偵,テイ spy
+守,まも∙る/シュ guard
+敢,あ∙えて/カン daring
+匂,にお∙う fragrant
+膳,かしわ/ゼン small low table
+疑,うたが∙う/ギ doubt
+竿,さお/カン pole
+縁,ふち/エン affinity
+寛,くつろ∙ぐ/カン tolerant
+鋼,はがね/コウ steel
+豆,まめ/トウ beans
+銭,ぜに/セン coin
+邦,くに/ホウ home country
+咲,さ∙く/ショウ blossom
+這,は∙う/シャ crawl
+鳴,な∙く/メイ chirp
+困,こま∙る/コン quandary
+幼,おさな∙い/ヨウ infancy
+脅,おびや∙かす/キョウ threaten
+安,やす∙い/アン relax
+砲,ホウ cannon
+嶺,みね/レイ peak
+獅,しし/シ lion
+店,みせ/テン store
+翔,かけ∙る/ショウ soar
+悠,ユウ permanence
+湘,ショウ name of Chinese river
+陳,ひ∙ねる/チン exhibit
+唐,から/トウ T'ang
+怨,うら∙む/エン grudge
+糊,のり/コ paste
+灘,なだ/タン open sea
+桁,けた/コウ beam
+令,レイ orders
+対,あいて/タイ vis-a-vis
+睡,ねむ∙る/スイ drowsy
+急,いそ∙ぐ/キュウ hurry
+悔,く∙いる/カイ repent
+宵,よい/ショウ wee hours
+智,チ wisdom
+償,つぐな∙う/ショウ reparation
+液,エキ fluid
+涙,なみだ/ルイ tears
+類,たぐ∙い/ルイ sort
+丼,どんぶり/トン bowl
+瘍,かさ/ヨウ swelling
+低,ひく∙い/テイ lower
+菓,カ candy
+貨,たから/カ freight
+誕,タン nativity
+逞,たくま∙しい/テイ sturdy
+代,か∙わる/ダイ substitute
+信,シン faith
+災,わざわ∙い/サイ disaster
+会,あ∙う/カイ meeting
+坑,コウ pit
+帰,かえ∙る/キ homecoming
+連,つら∙なる/レン take along
+略,ほぼ/リャク abbreviation
+鍛,きた∙える/タン forge
+震,ふる∙う/シン quake
+習,なら∙う/シュウ learn
+菜,な/サイ vegetable
+較,くら∙べる/カク contrast
+載,の∙せる/サイ ride
+墨,すみ/ボク black ink
+骸,むくろ/ガイ bone
+定,さだ∙める/テイ determine
+原,はら/ゲン meadow
+尋,たず∙ねる/ジン inquire
+醜,みにく∙い/シュウ ugly
+感,カン emotion
+稜,いつ/リョウ angle
+霊,たま/レイ spirits
+陽,ひ/ヨウ sunshine
+江,え/コウ creek
+脈,すじ/ミャク vein
+雫,しずく/ダ drop
+寸,スン measurement
+酵,コウ fermentation
+祷,いの∙る/トウ pray
+牛,うし/ギュウ cow
+橙,だいだい/トウ bitter orange
+笈,キュウ backpack bookcase
+裁,た∙つ/サイ tailor
+潜,ひそ∙む/セン submerge
+赦,シャ pardon
+位,くらい/イ rank
+袴,はかま/コ men's formal divided skirt
+敬,うやま∙う/ケイ awe
+倉,くら/ソウ godown
+嗣,シ heir
+柱,はしら/チュウ pillar
+娘,むすめ/ジョウ daughter
+俵,たわら/ヒョウ bag
+初,はじ∙め/ショ first time
+機,はた/キ loom
+俄,にわか/ガ sudden
+羚,かもしか/レイ antelope
+胸,むね/キョウ bosom
+旭,あさひ/キョク rising sun
+垣,かき/エン hedge
+籍,セキ enroll
+入,い∙る/ニュウ enter
+穂,ほ/スイ ear
+燿,かがや∙く/ヨウ shine
+唾,つば/ダ saliva
+子,こ/シ child
+砕,くだ∙く/サイ smash
+峻,けわ∙しい/シュン high
+険,けわ∙しい/ケン precipitous
+霜,しも/ソウ frost
+払,はら∙う/フツ pay
+玲,レイ sound of jewels
+律,リツ rhythm
+却,かえ∙って/キャク instead
+兄,あに/ケイ elder brother
+膜,マク membrane
+竣,わらわ/ドウ end
+凡,およ∙そ/ボン commonplace
+怪,あや∙しい/カイ suspicious
+只,ただ/シ only
+閥,バツ clique
+蟹,かに/カイ crab
+測,はか∙る/ソク fathom
+錆,さび/ショウ tarnish
+狙,ねら∙う/ソ aim at
+晶,ショウ sparkle
+捲,ま∙く/ケン roll
+栽,サイ plantation
+陥,おちい∙る/カン collapse
+耽,ふ∙ける/タン addicted
+舷,ふなばた/ゲン gunwale
+潔,いさぎよ∙い/ケツ undefiled
+冴,さ∙える/ゴ be clear
+諒,あきら∙か/リョウ fact
+座,すわ∙る/ザ squat
+模,モ imitation
+栗,くり/リツ chestnut
+懐,ふところ/カイ pocket
+梶,かじ/ビ sculling oar
+早,はや∙い/ソウ early
+桂,かつら/ケイ Japanese Judas-tree
+琥,コ jewelled utensil
+遂,と∙げる/スイ consummate
+湾,いりえ/ワン gulf
+汽,キ vapor
+巣,す/ソウ nest
+東,ひがし/トウ east
+朔,ついたち/サク conjunction (astronomy)
+胞,ホウ placenta
+於,おい∙て/オ at
+排,ハイ repudiate
+逗,とど∙まる/トウ stop
+厨,くりや/シュウ kitchen
+渋,しぶ/ジュウ astringent
+馴,な∙れる/ジュン get used to
+寮,リョウ dormitory
+宙,チュウ mid-air
+体,からだ/タイ body
+葬,ほうむ∙る/ソウ interment
+謙,へりくだ∙る/ケン self-effacing
+戦,いくさ/セン war
+千,ち/セン thousand
+伶,わざおぎ/レイ actor
+努,つと∙める/ド toil
+説,と∙く/セツ opinion
+領,えり/リョウ jurisdiction
+栄,さか∙える/エイ flourish
+幌,ほろ/コウ canopy
+憧,あこが∙れる/ショウ yearn after
+軽,かる∙い/ケイ lightly
+新,あたら∙しい/シン new
+累,ルイ accumulate
+矢,や/シ dart
+錘,つむ/スイ weight
+禽,とり/キン bird
+渡,わた∙る/ト transit
+叢,くさむら/ソウ plexus
+桧,ひのき/カイ Japanese cypress
+徳,トク benevolence
+某,それがし/ボウ so-and-so
 養,やしな∙う/ヨウ foster
+塞,ふさ∙ぐ/ソク close
+亘,わた∙る/コウ span
+掌,てのひら/ショウ manipulate
+卓,タク eminent
+扶,たす∙ける/フ aid
+瑛,エイ sparkle of jewelry
+亜,つ∙ぐ/ア Asia
+敦,あつ∙い/トン industry
+椋,むく/リョウ type of deciduous tree
+斉,そろ∙う/セイ adjusted
+偶,たま/グウ accidentally
+夫,おっと/フ husband
+乗,の∙る/ジョウ ride
+畏,おそ∙れる/イ fear
+突,つ∙く/トツ stab
+黛,まゆずみ/タイ blackened eyebrows
+秘,ひ∙める/ヒ secret
+全,まった∙く/ゼン whole
+罪,つみ/ザイ guilt
+耳,みみ/ジ ear
+音,おと/オン sound
+輝,かがや∙く/キ radiance
+脱,ぬ∙ぐ/ダツ undress
+隷,したが∙う/レイ slave
+姥,うば/ボ old woman
+割,わ∙る/カツ proportion
+分,わ∙ける/ブン part
+亭,テイ pavilion
+障,さわ∙る/ショウ hinder
+篤,あつ∙い/トク fervent
+周,まわ∙り/シュウ circumference
+粟,あわ/ゾク millet
+激,はげ∙しい/ゲキ violent
+紐,ひも/チュウ string
+曾,かつ∙て/ソウ once
+撞,つ∙く/ドウ thrust
+労,ろう∙する/ロウ labor
+奈,いかん/ナ Nara
+諏,そう/シュ consult
+槙,まき/テン twig
+識,し∙る/シキ discriminating
+駿,すぐ∙れる/シュン a good horse
+歩,ある∙く/ホ walk
+禁,キン prohibition
+唄,うた/バイ song
+鬱,うっ∙する/ウツ gloom
+故,ゆえ/コ happenstance
+寧,むし∙ろ/ネイ rather
+侵,おか∙す/シン encroach
+繕,つくろ∙う/ゼン darning
+弊,ヘイ abuse
+視,み∙る/シ inspection
+専,もっぱ∙ら/セン specialty
+及,およ∙ぶ/キュウ reach out
+募,つの∙る/ボ recruit
+館,やかた/カン building
+算,そろ/サン calculate
+糾,ただ∙す/キュウ twist
+除,のぞ∙く/ジョ exclude
+的,まと/テキ bull's eye
+様,さま/ヨウ Esq.
+沿,そ∙う/エン run alongside
+牽,ひ∙く/ケン pull
+刀,かたな/トウ sword
+拒,こば∙む/キョ repel
+杭,くい/コウ stake
+沈,しず∙む/チン sink
+恵,めぐ∙む/ケイ favor
+保,たも∙つ/ホ protect
+紛,まぎ∙れる/フン distract
+尖,とが∙る/セン be pointed
+喜,よろこ∙ぶ/キ rejoice
+僚,リョウ colleague
+庶,ショ commoner
+師,いくさ/シ expert
+力,ちから/リョク power
+公,おおやけ/コウ public
+宏,ひろ∙い/コウ wide
+忠,チュウ loyalty
+京,みやこ/キョウ capital
+乳,ちち/ニュウ milk
+挽,ひ∙く/バン saw
+苔,こけ/タイ moss
+街,まち/ガイ boulevard
+佳,カ excellent
+戸,と/コ door
+亙,わた∙る/コウ range
+頂,いただ∙く/チョウ place on the head
+汝,なんじ/ジョ you
+健,すこ∙やか/ケン healthy
+烏,からす/ウ crow
+亥,い/ガイ sign of the hog
+遜,したが∙う/ソン humble
+遅,おく∙れる/チ slow
+艶,つや/エン glossy
+麒,キ Chinese unicorn
+奄,おお∙う/エン cover
+明,あ∙かり/メイ bright
+麗,うるわ∙しい/レイ lovely
+愁,うれ∙える/シュウ distress
+相,あい-/ソウ inter-
+武,たけ∙し/ブ warrior
+額,ひたい/ガク forehead
+枚,マイ sheet of...
+冒,おか∙す/ボウ risk
+苑,その/エン garden
+平,たい∙ら/ヘイ even
+綱,つな/コウ hawser
+松,まつ/ショウ pine tree
+遵,ジュン abide by
+圭,ケイ square jewel
+滝,たき/ロウ waterfall
+摂,おさ∙める/セツ vicarious
+概,おおむ∙ね/ガイ outline
+朴,ほう/ボク crude
+雑,まじ∙える/ザツ miscellaneous
+暉,かが∙やく/キ shine
+友,とも/ユウ friend
+葦,しお∙れる/イ reed
+菱,ひし/リョウ diamond (shape)
+惹,ひ∙く/ジャク attract
+須,すべから∙く/ス ought
+赴,おもむ∙く/フ proceed
+然,しか/ゼン sort of thing
+貌,かたち/ボウ form
+伎,わざ/ギ deed
+隆,リュウ hump
+僕,しもべ/ボク me
+眺,なが∙める/チョウ stare
+裾,すそ/キョ cuff
+士,さむらい/シ gentleman
+珠,たま/シュ pearl
+箇,カ counters for things
+翁,おきな/オウ venerable old man
+貫,つらぬ∙く/カン pierce
+従,したが∙う/ジュウ accompany
+頌,かたち/ショウ eulogy
+毒,ドク poison
+芳,かんば∙しい/ホウ perfume
+包,つつ∙む/ホウ wrap
+措,お∙く/ソ set aside
+徹,テツ penetrate
+接,つ∙ぐ/セツ touch
+楚,いばら/ソ whip
+苺,いちご/バイ strawberry
+肘,ひじ/チュウ elbow
+揮,ふる∙う/キ brandish
+晋,すす∙む/シン advance
+遡,さかのぼ∙る/ソ go upstream
+槌,つち/ツイ hammer
+擦,す∙る/サツ grate
+点,つ∙ける/テン spot
+繭,まゆ/ケン cocoon
+準,じゅん∙じる/ジュン semi-
+供,そな∙える/キョウ submit
+衰,おとろ∙える/スイ decline
+或,あ∙る/ワク some
+汐,しお/セキ eventide
+破,やぶ∙る/ハ rend
+剖,ボウ divide
+兜,かぶと/トウ helmet
+程,ほど/テイ extent
+旺,かがや∙き/オウ flourishing
+縦,たて/ジュウ vertical
+恋,こ∙う/レン romance
+卵,たまご/ラン egg
+弘,ひろ∙い/コウ vast
+倹,つま∙しい/ケン frugal
+要,い∙る/ヨウ need
+允,じょう/イン license
+正,ただ∙しい/セイ correct
+観,み∙る/カン outlook
+府,フ borough
+樫,かし evergreen oak
+幡,はた/マン flag
+尉,イ military officer
+烈,はげ∙しい/レツ ardent
+若,わか∙い/ジャク young
+後,のち/ゴ behind
+刹,セチ temple
+鋸,のこ/キョ saw (cuts wood)
+着,き∙る/チャク don
+動,うご∙く/ドウ move
+飯,めし/ハン meal
+畿,みやこ/キ capital
+製,セイ made in...
+景,ケイ scenery
+舌,した/ゼツ tongue
+奴,やつ/ド guy
+尻,しり/コウ buttocks
+気,いき/キ spirit
+傘,かさ/サン umbrella
+宰,サイ superintend
+棚,たな/ホウ shelf
+二,ふた/ニ two
+啄,ついば∙む/タク peck
+妻,つま/サイ wife
+案,つくえ/アン plan
+人,ひと/ジン person
+柵,しがら∙む/サク stockade
+堺,さかい/カイ world
+媒,なこうど/バイ mediator
+舜,シュン type of morning glory
+勿,なか∙れ/モチ not
+奥,おく/オウ heart
+葛,つづら/カツ arrowroot
+憬,あこが∙れる/ケイ yearn for
+覧,み∙る/ラン perusal
+助,たす∙ける/ジョ help
+紅,べに/コウ crimson
+佐,サ assistant
+土,つち/ド soil
+渇,かわ∙く/カツ thirst
+曲,ま∙がる/キョク bend
+僅,わず∙か/キン a wee bit
+零,ぜろ/レイ zero
+銀,しろがね/ギン silver
+啓,ひら∙く/ケイ disclose
+歴,レキ curriculum
+轟,とどろ∙かす/ゴウ roar
+挙,あ∙げる/キョ raise
+提,さ∙げる/テイ propose
+輩,-ばら/ハイ comrade
+規,キ standard
+岳,たけ/ガク point
+峡,はざま/キョウ gorge
+逸,そ∙れる/イツ deviate
+色,いろ/ショク color
+暑,あつ∙い/ショ sultry
+姿,すがた/シ figure
+卿,きみ/ケイ you
+鳩,はと/キュウ pigeon
+秦,はた/シン Manchu dynasty
+葉,は/ヨウ leaf
+狼,おおかみ/ロウ wolf
+刻,きざ∙む/コク engrave
+宗,むね/シュウ religion
+髄,ズイ marrow
+狭,せま∙い/キョウ cramped
+甘,あま∙い/カン sweet
+車,くるま/シャ car
+姻,イン matrimony
+菖,ショウ iris
+窯,かま/ヨウ kiln
+苛,いじ∙める/カ torment
+洛,ラク Kyoto
+昌,さかん/ショウ prosperous
+披,ヒ expose
+劣,おと∙る/レツ inferiority
+森,もり/シン forest
+巽,たつみ/ソン southeast
+虫,むし/チュウ insect
+催,もよう∙す/サイ sponsor
+縄,なわ/ジョウ straw rope
+紳,シン sire
+担,かつ∙ぐ/タン shouldering
+戒,いまし∙める/カイ commandment
+紋,モン family crest
+斗,ト Big Dipper
+醐,ゴ boiled butter
+多,おお∙い/タ many
+格,カク status
+幻,まぼろし/ゲン phantasm
+認,みと∙める/ニン acknowledge
+加,くわ∙える/カ add
+浪,ロウ wandering
+蒼,あお∙い/ソウ blue
+沢,さわ/タク swamp
+漁,あさ∙る/ギョ fishing
+跡,あと/セキ tracks
+謝,あやま∙る/シャ apologize
+般,ハン carrier
+冗,ジョウ superfluous
+懲,こ∙りる/チョウ penal
+覚,おぼ∙える/カク memorize
+享,う∙ける/キョウ enjoy
+彩,いろど∙る/サイ coloring
+踊,おど∙る/ヨウ jump
+鈴,すず/レイ small bell
+晄,あきらか/コウ clear
+卯,う/ボウ sign of the hare or rabbit
+篇,ヘン volume
+邸,やしき/テイ residence
+凝,こ∙る/ギョウ congeal
+柘,そ/シャ wild mulberry
+乃,の/ナイ from
+虚,むな∙しい/キョ void
+談,ダン discuss
+置,お∙く/チ placement
+泣,な∙く/キュウ cry
+駅,エキ station
+四,よ/シ four
+閣,カク tower
+良,よ∙い/リョウ good
+台,うてな/ダイ pedestal
+倦,あき∙る/ケン lose interest in
+抱,だ∙く/ホウ embrace
+近,ちか∙い/キン near
+櫂,かい/トウ oar
+酢,す/サク vinegar
+利,き∙く/リ profit
+琶,ハ lute
+社,やしろ/シャ company
+旦,あき∙らか/タン daybreak
+復,また/フク restore
+木,き/ボク tree
+玖,キュウ beautiful black jewel
+本,もと/ホン book
+懸,か∙ける/ケン state of suspension
+扉,とびら/ヒ front door
+統,す∙べる/トウ overall
+衣,ころも/イ garment
+職,ショク post
+宣,のたま∙う/セン proclaim
+麦,むぎ/バク barley
+麻,あさ/マ hemp
+蒙,こうむ∙る/モウ ignorance
+挟,はさ∙む/キョウ pinch
+場,ば/ジョウ location
+丈,たけ/ジョウ length
+遊,あそ∙ぶ/ユウ play
+燎,かがりび/リョウ burn
+軌,キ rut
+幸,さいわ∙い/コウ happiness
+罷,まか∙り-/ヒ quit
+少,すく∙ない/ショウ few
+誇,ほこ∙る/コ boast
+僧,ソウ Buddhist priest
+楽,たの∙しい/ガク music
+茄,カ eggplant
+傭,やと∙う/ヨウ employ
+猪,い/チョ boar
+艇,テイ rowboat
+庁,やくしょ/チョウ government office
+椰,やし/ヤ coconut tree
+真,ま/シン true
+札,ふだ/サツ tag
+戻,もど∙す/レイ re-
+靴,くつ/カ shoes
+肌,はだ/キ texture
+申,もう∙す/シン have the honor to
+逆,さか/ギャク inverted
+辱,はずかし∙める/ジョク embarrass
+著,あらわ∙す/チョ renowned
+晨,あした/シン morning
+章,ショウ badge
+命,いのち/メイ fate
+黒,くろ/コク black
+踏,ふ∙む/トウ step
+艦,カン warship
+瓜,うり/カ melon
+阿,おもね∙る/ア Africa
+幽,ふか∙い/ユウ seclude
+泰,タイ peaceful
+倖,しあわ∙せ/コウ happiness
+拳,こぶし/ケン fist
+世,よ/セイ generation
+箱,はこ/ソウ box
+拶,せま∙る/サツ be imminent
+釧,くしろ/セン bracelet
+兼,か∙ねる/ケン concurrently
+鏡,かがみ/キョウ mirror
+孫,まご/ソン grandchild
+矩,かね/ク ruler
+寂,さび/ジャク loneliness
+清,きよ∙い/セイ pure
+肝,きも/カン liver
+挺,ぬ∙く/チョウ counter for guns, inksticks, palanquins, rickshaws
+賢,かしこ∙い/ケン intelligent
+星,ほし/セイ star
+待,ま∙つ/タイ wait
+慄,ふる∙える/リツ fear
+伺,うかが∙う/シ pay respects
+云,い∙う/ウン say
+距,へだ∙たる/キョ long-distance
+西,にし/セイ west
+掃,は∙く/ソウ sweep
+壮,さかん/ソウ robust
+妨,さまた∙げる/ボウ disturb
+問,と∙う/モン question
+懇,ねんご∙ろ/コン sociable
+纂,あつ∙める/サン editing
+塀,ヘイ fence
+反,そ∙る/ハン anti-
+晒,さら∙す/サイ bleach
+餓,う∙える/ガ starve
+賦,フ levy
+吉,よし/キチ good luck
+謹,つつし∙む/キン discreet
+階,きざはし/カイ storey
+詮,せん∙ずる/セン discussion
+献,たてまつ∙る/ケン offering
+犯,おか∙す/ハン crime
+嵩,かさ/スウ be aggravated
+惟,おも∙んみる/イ consider
+紡,つむ∙ぐ/ボウ spinning
+粘,ねば∙る/ネン sticky
+珀,ハク amber
+網,あみ/モウ netting
+暢,のび∙る/チョウ stretch
+輸,ユ transport
+笛,ふえ/テキ flute
+席,むしろ/セキ seat
+痩,や∙せる/ソウ get thin
+梧,あおぎり/ゴ Chinese parasol tree
+警,いまし∙める/ケイ admonish
+儀,ギ ceremony
+莉,リ jasmine
+采,と∙る/サイ dice
+級,キュウ class
+易,やさ∙しい/エキ easy
+喬,たか∙い/キョウ high
+淀,よど∙む/テン pool
+捨,す∙てる/シャ discard
+漏,も∙る/ロウ leak
+痴,し∙れる/チ stupid
+壌,つち/ジョウ lot
+推,お∙す/スイ conjecture
+趣,おもむき/シュ purport
+企,くわだ∙てる/キ undertake
+昧,くら∙い/マイ dark
+鷲,シュウ eagle
+嬉,うれ∙しい/キ glad
+亮,あきらか/リョウ clear
+緋,あけ/ヒ scarlet
+捧,ささ∙げる/ホウ lift up
+芭,バ banana
+随,まにま∙に/ズイ follow
+纏,まつ∙わる/テン wear
+秤,はかり/ショウ balances
+岡,おか/コウ mount
+舎,やど∙る/シャ cottage
+后,きさき/コウ empress
+承,うけたまわ∙る/ショウ acquiesce
+陛,ヘイ highness
+藤,ふじ/トウ wisteria
+慌,あわ∙てる/コウ disconcerted
+晴,は∙れる/セイ clear up
+介,カイ jammed in
+独,ひと∙り/ドク single
+圏,かこ∙い/ケン sphere
+張,は∙る/チョウ lengthen
+萠,も∙える/ホウ show symptoms of
+服,フク clothing
+昭,ショウ shining
+汀,みぎわ/テイ water's edge
+草,くさ/ソウ grass
+去,さ∙る/キョ gone
+書,か∙く/ショ write
+硬,かた∙い/コウ stiff
+郁,イク cultural progress
+抵,テイ resist
+叙,つい∙ず/ジョ confer
+隙,すき/ゲキ crevice
+暁,あかつき/ギョウ daybreak
+族,ゾク tribe
+頼,たの∙む/ライ trust
+導,みちび∙く/ドウ guidance
+禅,しずか/ゼン Zen
+坊,ボウ boy
+恩,オン grace
+獲,え∙る/カク seize
+墾,コン ground-breaking
+伯,ハク chief
+誉,ほま∙れ/ヨ reputation
+疎,うと∙い/ソ alienate
+蓑,みの/サ straw raincoat
+稲,いね/トウ rice plant
+購,コウ subscription
+男,おとこ/ダン male
+倍,バイ double
+砧,きぬた/チン fulling block
+痘,トウ pox
+鬼,おに/キ ghost
+秩,チツ regularity
+審,つまび∙らか/シン hearing
+同,おな∙じ/ドウ same
+造,つく∙る/ゾウ create
+雁,かり/ガン wild goose
+村,むら/ソン village
+壊,こわ∙す/カイ demolition
+綺,あや/キ figured cloth
+録,しる∙す/ロク record
+鶴,つる/カク crane
+陀,けわ∙しい/タ steep
+名,な/メイ name
+三,み/サン three
+願,ねが∙う/ガン petition
+祥,さいわ∙い/ショウ auspicious
+処,ところ/ショ dispose
+派,ハ faction
+租,ソ tariff
+池,いけ/チ pond
+大,おお-/ダイ large
+譲,ゆず∙る/ジョウ defer
+引,ひ∙く/イン pull
+釣,つ∙る/チョウ angling
+停,と∙める/テイ halt
+町,まち/チョウ town
+天,あまつ/テン heavens
+係,かか∙る/ケイ person in charge
+華,はな/カ splendor
+塁,とりで/ルイ bases
+鮎,あゆ/デン freshwater trout
+哩,まいる/リ mile
+託,かこつ∙ける/タク consign
+教,おし∙える/キョウ teach
+賜,たまわ∙る/シ grant
+腎,ジン kidney
+恥,は∙じる/チ shame
+蝶,チョウ butterfly
+減,へ∙る/ゲン dwindle
+猿,さる/エン monkey
+郵,ユウ mail
+挨,ひら∙く/アイ approach
+擁,ヨウ hug
+水,みず/スイ water
+蕃,バン grow luxuriously
+麺,むぎこ/メン noodles
+帳,とばり/チョウ notebook
+渦,うず/カ whirlpool
+層,ソウ stratum
+揺,ゆ∙れる/ヨウ swing
+性,さが/セイ sex
+元,もと/ゲン beginning
+茜,あかね/セン madder
+襲,おそ∙う/シュウ attack
+与,あた∙える/ヨ bestow
+小,ちい∙さい/ショウ little
+漱,くちすす∙ぐ/ソウ gargle
+瑶,たま/ヨウ beautiful as a jewel
+腕,うで/ワン arm
+茎,くき/ケイ stalk
+罵,ののし∙る/バ abuse
+猫,ねこ/ビョウ cat
+炎,ほのお/エン inflammation
+食,く∙う/ショク eat
+五,いつ/ゴ five
+応,あた∙る/オウ apply
+野,の/ヤ plains
+買,か∙う/バイ buy
+憐,あわ∙れむ/レン pity
+蝦,えび/カ shrimp
+避,さ∙ける/ヒ evade
+脹,は∙れる/チョウ dilate
+瑳,みが∙く/サ polish
+遮,さえぎ∙る/シャ intercept
+家,いえ/カ house
+棺,カン coffin
+燭,ともしび/ソク light
+黄,き/コウ yellow
+粒,つぶ/リュウ grains
+穏,おだ∙やか/オン calm
+循,ジュン sequential
+柄,がら/ヘイ design
+属,さかん/ゾク belong
+題,ダイ topic
+式,シキ style
+雛,ひな/スウ chick
+表,おもて/ヒョウ surface
+浦,うら/ホ bay
+搾,しぼ∙る/サク squeeze
+皮,かわ/ヒ pelt
+亀,かめ/キ tortoise
+塊,かたまり/カイ clod
+通,とお∙る/ツウ traffic
+瞭,あきらか/リョウ clear
+揚,あ∙げる/ヨウ raise
+威,おど∙す/イ intimidate
+寡,カ widow
+耀,かがや∙く/ヨウ shine
+頗,すこぶ∙る/ハ prejudiced
+侶,とも/リョ companion
+肴,さかな/コウ accompaniment for drinks
+伽,とぎ/カ nursing
+狂,くる∙う/キョウ lunatic
+鎧,よろ∙う/カイ put on armor
+碩,おお∙きい/セキ large
+終,お∙わる/シュウ end
+制,セイ system
+惚,ほけ∙る/コツ fall in love with
+消,き∙える/ショウ extinguish
+椛,かば autumn foliage
+療,リョウ heal
+有,あ∙る/ユウ possess
+洸,コウ sparkling water
+詰,つ∙める/キツ packed
+稔,みの∙る/ネン harvest
+米,こめ/ベイ rice
+我,われ/ガ ego
+爾,なんじ/ジ you
+赤,あか/セキ red
+唱,とな∙える/ショウ chant
+化,ば∙ける/カ change
+轄,くさび/カツ control
+窟,いわや/クツ cavern
+熊,くま/ユウ bear
+貰,もら∙う/セイ get
+諮,はか∙る/シ consult with
+久,ひさ∙しい/キュウ long time
+牲,セイ animal sacrifice
+枢,とぼそ/スウ hinge
+巖,いわ/ガン rock
+針,はり/シン needle
+諭,さと∙す/ユ rebuke
+羨,うらや∙む/セン envious
+疏,あら∙い/ソ pass through
+稚,いとけない/チ immature
+賞,ほ∙める/ショウ prize
+枕,まくら/チン pillow
+変,か∙わる/ヘン unusual
+史,シ history
+盤,バン tray
+癒,い∙える/ユ healing
+琵,ビ glissando on strings
+繁,しげ∙る/ハン luxuriant
+簡,えら∙ぶ/カン simplicity
+箸,はし/チョ chopsticks
+善,よ∙い/ゼン virtuous
+役,ヤク duty
+戯,たわむ∙れる/ギ frolic
+純,ジュン genuine
+甥,おい/セイ nephew
+臼,うす/キュウ mortar
+流,なが∙れる/リュウ current
+冬,ふゆ/トウ winter
+始,はじ∙める/シ commence
+宥,なだ∙める/ユウ soothe
+彗,ほうき/スイ comet
+救,すく∙う/キュウ salvation
+楯,たて/ジュン shield
+抽,ひき-/チュウ pluck
+礁,ショウ reef
+祉,シ welfare
+曙,あけぼの/ショ dawn
+梛,なぎ/ダ type of tall evergreen tree
+奨,すす∙める/ショウ exhort
+但,ただ∙し/タン however
+酸,す∙い/サン acid
+粥,かゆ/イク rice gruel
+冶,い∙る/ヤ melting
+鱒,ます/ソン salmon trout
+杜,もり/ト woods
+粉,デシメートル/フン flour
+法,のり/ホウ method
+茉,マツ jasmine
+帝,みかど/テイ sovereign
+最,もっと∙も/サイ utmost
+融,と∙ける/ユウ dissolve
+岬,みさき/コウ headland
+計,はか∙る/ケイ plot
+鉛,なまり/エン lead
+恒,つね/コウ constancy
+欄,てすり/ラン column
+儒,ジュ Confucian
+斐,ヒ beautiful
+腰,こし/ヨウ loins
+太,ふと∙い/タイ plump
+芦,あし/ロ reed
+借,か∙りる/シャク borrow
+滅,ほろ∙びる/メツ destroy
+版,ハン printing block
+範,ハン pattern
+蓬,よもぎ/ホウ sagebrush
+綸,いと/リン thread
+伴,ともな∙う/ハン consort
+貧,まず∙しい/ヒン poverty
+嘱,しょく∙する/ショク entrust
+民,たみ/ミン people
+董,ただ∙す/トウ correct
+御,おん-/ギョ honorable
+菫,すみれ/キン the violet
+好,この∙む/コウ fond
+魯,おろか/ロ foolish
+協,キョウ co-
+吾,われ/ゴ I
+巻,ま∙く/カン scroll
+珊,センチ/サン coral
+燕,つばめ/エン swallow (bird)
+遭,あ∙う/ソウ encounter
+値,ね/チ price
+惇,あつ∙い/シュン sincere
+穣,わら/ジョウ good crops
+燃,も∙える/ネン burn
+辛,から∙い/シン spicy
+峠,とうげ mountain peak
+班,ハン squad
+肥,こ∙える/ヒ fertilizer
+施,ほどこ∙す/シ give
+惜,お∙しい/セキ pity
+育,そだ∙つ/イク bring up
+遺,のこ∙す/イ bequeath
+崩,くず∙れる/ホウ crumble
+頑,かたく/ガン stubborn
+確,たし∙か/カク assurance
+魚,うお/ギョ fish
+磨,みが∙く/マ grind
+香,か/コウ incense
+預,あず∙ける/ヨ deposit
+済,す∙む/サイ finish
+鎌,かま/レン sickle
+約,つづ∙まる/ヤク promise
+項,うなじ/コウ paragraph
+半,なか∙ば/ハン half
+転,ころ∙がる/テン revolve
+撤,テツ remove
+豪,えら∙い/ゴウ overpowering
+所,ところ/ショ place
+焚,た∙く/フン burn
+毬,いが/キュウ burr
+拷,ゴウ torture
+茅,かや/ボウ miscanthus reed
+構,かま∙える/コウ posture
+互,たが∙い/ゴ mutually
+林,はやし/リン grove
+馳,は∙せる/チ run
+祝,いわ∙う/シュク celebrate
+嘲,あざけ∙る/チョウ ridicule
+毘,たす∙ける/ヒ help
+聴,き∙く/チョウ listen
+弱,よわ∙い/ジャク weak
+敏,さとい/ビン cleverness
+韓,から/カン Korea
+瞥,ベツ glance at
+示,しめ∙す/ジ show
+庵,いおり/アン hermitage
+荘,ほうき/ソウ villa
+糖,トウ sugar
+斎,とき/サイ purification
+顔,かお/ガン face
+芝,しば/シ turf
+染,そ∙める/セン dye
+単,ひとえ/タン simple
+撰,せん∙する/サン composing
+彼,かれ/ヒ he
+奇,く∙しき/キ strange
+答,こた∙える/トウ solution
+兆,きざ∙す/チョウ portent
+吐,は∙く/ト spit
+仲,なか/チュウ go-between
+眉,まゆ/ビ eyebrow
+限,かぎ∙る/ゲン limit
+革,かわ/カク leather
+樹,き/ジュ timber
+慮,おもんぱく∙る/リョ prudence
+仔,こ/シ offspring (animal)
+匿,かくま∙う/トク hide
+怜,あわ∙れむ/レイ wise
+降,お∙りる/コウ descend
+心,こころ/シン heart
+荒,あら∙い/コウ laid waste
+何,なに/カ what
+蘇,よみがえ∙る/ソ be resuscitated
+奪,うば∙う/ダツ rob
+恣,ほしいまま/シ selfish
+雌,め-/シ feminine
+射,い∙る/シャ shoot
+巡,めぐ∙る/ジュン patrol
+果,は∙たす/カ fruit
+朝,あさ/チョウ morning
+肪,ボウ obese
+望,のぞ∙む/ボウ ambition
+縫,ぬ∙う/ホウ sew
+個,コ individual
+希,まれ/キ hope
+拉,らっ∙する/ラツ Latin
+誤,あやま∙る/ゴ mistake
+篠,しの/ゾウ bamboo grass
+逮,タイ apprehend
+釈,とく/シャク explanation
+添,そ∙える/テン annexed
+戚,いた∙む/ソク grieve
+言,い∙う/ゲン say
+濫,みだ∙りに/ラン excessive
+禄,さいわ∙い/ロク fief
+叱,しか∙る/シツ scold
+柚,ゆず/ユ citron
+其,それ/キ that
+次,つ∙ぐ/ジ next
+叫,さけ∙ぶ/キョウ shout
+温,あたた∙か/オン warm
+即,つ∙く/ソク instant
+宴,うたげ/エン banquet
+風,かぜ/フウ wind
+湯,ゆ/トウ hot water
+遙,はる∙か/ヨウ far off
+攻,せ∙める/コウ aggression
+雄,お-/ユウ masculine
+喫,の∙む/キツ consume
+鹿,しか/ロク deer
+戊,つちのえ/ボ 5th calendar sign
+濡,ぬれ∙る/ジュ get wet
+慣,な∙れる/カン accustomed
+枠,わく frame
+勁,つよ∙い/ケイ strong
+紙,かみ/シ paper
+忘,わす∙れる/ボウ forget
+批,ヒ criticism
+憾,うら∙む/カン remorse
+暦,こよみ/レキ calendar
+庸,ヨウ commonplace
+冷,つめ∙たい/レイ cool
+宮,みや/キュウ Shinto shrine
+桟,かけはし/サン scaffold
+六,む/ロク six
+徒,いたずら/ト on foot
+殿,との/デン Mr.
+毛,け/モウ fur
+漠,バク vague
+履,は∙く/リ perform
+衷,チュウ inmost
+港,みなと/コウ harbor
+追,お∙う/ツイ chase
+邑,うれ∙える/ユウ village
+丙,ひのえ/ヘイ third class
+続,つづ∙く/ゾク continue
+英,はなぶさ/エイ England
+勢,いきお∙い/セイ forces
+貴,たっと∙い/キ precious
+忙,いそが∙しい/ボウ busy
+届,とど∙ける/カイ deliver
+辻,つじ crossing
+勅,いまし∙める/チョク imperial order
+鰯,いわし sardine
+妊,はら∙む/ニン pregnancy
+魁,さきがけ/カイ charging ahead of others
+器,うつわ/キ utensil
+荻,おぎ/テキ reed
+翼,つばさ/ヨク wing
+勲,いさお/クン meritorious deed
+慶,よろこ∙び/ケイ jubilation
+料,リョウ fee
+票,ヒョウ ballot
+死,し∙ぬ/シ death
+皓,しろ∙い/コウ white
+呼,よ∙ぶ/コ call
+賃,チン fare
+碁,ゴ Go
+菩,ボ kind of grass
+隻,セキ vessels
+王,オウ king
+免,まぬか∙れる/メン excuse
+姪,めい/テツ niece
+暖,あたた∙か/ダン warmth
+勺,シャク ladle
+飲,の∙む/イン drink
+盛,も∙る/セイ boom
+局,つぼね/キョク bureau
+溺,いばり/デキ drown
+錬,ね∙る/レン tempering
+鐘,かね/ショウ bell
+装,よそお∙う/ソウ attire
+尭,たか∙い/ギョウ high
+吻,くちわき/フン proboscis
+檀,まゆみ/ダン cedar
+刷,す∙る/サツ printing
+耐,た∙える/タイ -proof
+叉,また/サ fork in road
+論,ロン argument
+厩,うまや/キュウ barn
+治,おさ∙める/ジ reign
+謡,うた∙い/ヨウ song
+仰,あお∙ぐ/ギョウ face-up
+噌,かまびす∙しい/ソウ boisterous
+鳶,とび/エン black kite
+抗,あらが∙う/コウ confront
+浬,かいり/リ knot
+病,や∙む/ビョウ ill
+蕗,ふき/ロ butterbur
+緊,し∙める/キン tense
+宕,すぎる/トウ cave
+株,かぶ/シュ stocks
+湧,わ∙く/ユウ boil
+蒐,あかね/シュウ gather
+虹,にじ/コウ rainbow
+孔,あな/コウ cavity
+堆,うずたか∙い/タイ piled high
+一,ひと-/イチ one
+礎,いしずえ/ソ cornerstone
+箕,み/キ winnowing
+嗅,か∙ぐ/キュウ smell
+吸,す∙う/キュウ suck
+腺,セン gland
+八,や/ハチ eight
+豚,ぶた/トン pork
+蕪,かぶ/ブ turnip
+祭,まつ∙る/サイ ritual
+増,ま∙す/ゾウ increase
+雇,やと∙う/コ employ
+致,いた∙す/チ doth
+匡,すく∙う/キョウ correct
+煤,すす/バイ soot
+諧,かな∙う/カイ harmony
+緯,よこいと/イ horizontal
+煙,けむ∙る/エン smoke
+吟,ギン versify
+隈,くま/ワイ corner
+選,えら∙ぶ/セン elect
+擢,ぬ∙く/テキ excel in
+債,サイ bond
+彬,うるわ∙しい/ヒン refined
+南,みなみ/ナン south
+菊,キク chrysanthemum
+運,はこ∙ぶ/ウン carry
+錐,きり/スイ auger
+欽,つつし∙む/キン respect
+丹,に/タン rust-colored
+枯,か∙れる/コ wither
+脩,おさ∙める/シュウ dried meat
+証,あかし/ショウ evidence
+簿,ボ register
+季,キ seasons
+酌,く∙む/シャク bar-tending
+輪,わ/リン wheel
+掠,かす∙める/リャク pillage
+妥,ダ gentle
+暮,く∙れる/ボ evening
+極,きわ∙める/キョク poles
+雨,あめ/ウ rain
+伊,かれ/イ Italy
+巳,み/シ sign of the snake or serpent
+妬,ねた∙む/ト jealous
+慨,ガイ rue
+芥,からし/カイ mustard
+条,えだ/ジョウ article
+鑑,かんが∙みる/カン specimen
+肯,がえんじ∙る/コウ agreement
+榊,さかき sacred Shinto tree
+仮,かり/カ sham
+伍,いつつ/ゴ five
+寺,てら/ジ Buddhist temple
+澪,みお/レイ water route
+舵,かじ/ダ rudder
+浩,おおき∙い/コウ wide expanse
+茨,いばら/シ briar
+界,カイ world
+根,ね/コン root
+来,く∙る/ライ come
+稿,わら/コウ draft
+涼,すず∙しい/リョウ refreshing
+窄,すぼ∙める/サク narrow
+験,あかし/ケン verification
+画,えが∙く/ガ brush-stroke
+弧,コ arc
+頒,わか∙つ/ハン distribute
+虐,しいた∙げる/ギャク tyrannize
+珈,かみかざり/カ ornamental hairpin
+硯,すずり/ケン inkstone
+団,かたまり/ダン group
+鞭,むち/ベン whip
+恢,ひろ∙い/カイ wide
+幅,はば/フク hanging scroll
+洲,しま/シュウ continent
+甫,はじ∙めて/ホ for the first time
+汗,あせ/カン sweat
+収,おさ∙める/シュウ income
+窪,くぼ∙む/ワ depression
+上,うえ/ジョウ above
+屑,くず/セツ rubbish
+冠,かんむり/カン crown
+掲,かか∙げる/ケイ put up (a notice)
+阪,さか/ハン heights
+居,い∙る/キョ reside
+潰,つぶ∙す/カイ crush
+葵,あおい/キ hollyhock
+滴,しずく/テキ drip
+瀕,ほとり/ヒン shore
+嬢,むすめ/ジョウ lass
+湖,みずうみ/コ lake
+絹,きぬ/ケン silk
+診,み∙る/シン checkup
+聞,き∙く/ブン hear
+銃,つつ/ジュウ gun
+斑,ふ/ハン spot
+隅,すみ/グウ corner
+岩,いわ/ガン boulder
+堤,つつみ/テイ dike
+達,-たち/タツ accomplished
+交,まじ∙わる/コウ mingle
+標,しるべ/ヒョウ signpost
+紫,むらさき/シ purple
+興,おこ∙る/コウ entertain
+住,す∙む/ジュウ dwell
+剛,ゴウ sturdy
+禰,ネ ancestral shrine
+双,ふた/ソウ pair
+盲,めくら/モウ blind
+危,あぶ∙ない/キ dangerous
+拙,つたな∙い/セツ bungling
+筒,つつ/トウ cylinder
+抜,ぬ∙く/バツ slip out
+各,おのおの/カク each
+横,よこ/オウ sideways
+鎮,しず∙める/チン tranquilize
+休,やす∙む/キュウ rest
+苗,なえ/ビョウ seedling
+右,みぎ/ウ right
+貪,むさぼ∙る/タン covet
+崇,あが∙める/スウ adore
+弐,ふた∙つ/ニ II
+摩,ま∙する/マ chafe
+創,つく∙る/ソウ genesis
+琉,リュウ precious stone
+照,て∙る/ショウ illuminate
+慈,いつく∙しむ/ジ mercy
+胆,きも/タン gall bladder
+憎,にく∙む/ゾウ hate
+憶,オク recollection
+雅,みや∙び/ガ gracious
+抹,マツ rub
+情,なさ∙け/ジョウ feelings
+竹,たけ/チク bamboo
+谷,たに/コク valley
+笠,かさ/リュウ bamboo hat
+飾,かざ∙る/ショク decorate
+軟,やわ∙らか/ナン soft
+具,そな∙える/グ tool
+七,なな/シチ seven
+重,え/ジュウ heavy
+召,め∙す/ショウ seduce
+綴,と∙じる/テイ compose
 触,ふ∙れる/ショク contact
 柔,やわ∙らか/ジュウ tender
-朽,く∙ちる/キュウ decay
-腸,はらわた/チョウ intestines
-阻,はば∙む/ソ thwart
-罪,つみ/ザイ guilt
-字,あざ/ジ character
-称,たた∙える/ショウ appellation
-下,した/カ below
-磨,みが∙く/マ grind
-湧,わ∙く/ユウ boil
-極,きわ∙める/キョク poles
-孫,まご/ソン grandchild
-尺,シャク shaku
-虜,とりこ/リョ captive
-描,えが∙く/ビョウ sketch
-漁,あさ∙る/ギョ fishing
-曾,かつ∙て/ソウ once
-殖,ふ∙える/ショク augment
-舌,した/ゼツ tongue
-嫌,きら∙う/ケン dislike
-翻,ひるがえ∙る/ホン flip
-側,かわ/ソク side
-彰,ショウ patent
-税,ゼイ tax
-岬,みさき/コウ headland
-執,と∙る/シツ tenacious
-是,これ/ゼ just so
-逓,かわ∙る/テイ relay
-握,にぎ∙る/アク grip
-頻,しき∙りに/ヒン repeatedly
-隣,とな∙る/リン neighboring
-絹,きぬ/ケン silk
-鑑,かんが∙みる/カン specimen
-競,きそ∙う/キョウ emulate
-飼,か∙う/シ domesticate
-房,ふさ/ボウ tassel
-染,そ∙める/セン dye
-墳,フン tomb
-痢,リ diarrhea
-杯,さかずき/ハイ counter for cupfuls
-崎,さき/キ promontory
-制,セイ system
-携,たずさ∙える/ケイ portable
-摘,つ∙む/テキ pinch
-哀,あわ∙れ/アイ pathetic
-協,キョウ co-
-語,かた∙る/ゴ word
-呈,テイ display
-坊,ボウ boy
-変,か∙わる/ヘン unusual
-爪,つめ/ソウ claw
-安,やす∙い/アン relax
-蛇,へび/ジャ snake
-詠,よ∙む/エイ recitation
-憎,にく∙む/ゾウ hate
-倫,リン ethics
-港,みなと/コウ harbor
-痴,し∙れる/チ stupid
-匠,たくみ/ショウ artisan
-私,わたくし/シ private
-仲,なか/チュウ go-between
-背,せ/ハイ stature
-戸,と/コ door
-耕,たがや∙す/コウ till
-窟,いわや/クツ cavern
-嫁,よめ/カ marry into
-箱,はこ/ソウ box
-芸,う∙える/ゲイ technique
-山,やま/サン mountain
-紳,シン sire
-麺,むぎこ/メン noodles
-慕,した∙う/ボ pining
-義,ギ righteousness
-膝,ひざ/シツ knee
-沈,しず∙む/チン sink
-殊,こと/シュ particularly
-可,-べ∙き/カ can
-新,あたら∙しい/シン new
-時,とき/ジ time
-加,くわ∙える/カ add
-涙,なみだ/ルイ tears
-傑,すぐ∙れる/ケツ greatness
-黄,き/コウ yellow
-菜,な/サイ vegetable
-朗,ほが∙らか/ロウ melodious
-毒,ドク poison
-捗,はかど∙る/チョク make progress
-引,ひ∙く/イン pull
-朴,ほう/ボク crude
-塚,つか/チョウ hillock
-玉,たま/ギョク jewel
-辛,から∙い/シン spicy
-乞,こ∙う/コツ beg
-斎,とき/サイ purification
-泣,な∙く/キュウ cry
-豚,ぶた/トン pork
-旧,ふる∙い/キュウ old times
-夕,ゆう/セキ evening
-識,し∙る/シキ discriminating
-弐,ふた∙つ/ニ II
-扶,たす∙ける/フ aid
-串,くし/カン shish kebab
-勢,いきお∙い/セイ forces
-慨,ガイ rue
-挫,くじ∙く/ザ crush
-核,カク nucleus
-括,くく∙る/カツ fasten
-美,うつく∙しい/ビ beauty
-計,はか∙る/ケイ plot
-基,もと/キ fundamentals
-喝,カツ hoarse
-脇,わき/キョウ armpit
-焼,や∙く/ショウ bake
-転,ころ∙がる/テン revolve
-賜,たまわ∙る/シ grant
-仰,あお∙ぐ/ギョウ face-up
-浪,ロウ wandering
-険,けわ∙しい/ケン precipitous
-癖,くせ/ヘキ mannerism
-直,ただ∙ちに/チョク straightaway
-痩,や∙せる/ソウ get thin
-物,もの/ブツ thing
-活,い∙きる/カツ lively
+卸,おろ∙す/シャ wholesale
+褐,カツ brown
 声,こえ/セイ voice
-賢,かしこ∙い/ケン intelligent
-諧,かな∙う/カイ harmony
-勲,いさお/クン meritorious deed
-牧,まき/ボク breed
-市,いち/シ market
-風,かぜ/フウ wind
-激,はげ∙しい/ゲキ violent
-番,つが∙い/バン turn
-教,おし∙える/キョウ teach
-戴,いただ∙く/タイ be crowned with
-浸,ひた∙す/シン immersed
-健,すこ∙やか/ケン healthy
-泥,どろ/デイ mud
-薪,たきぎ/シン fuel
-募,つの∙る/ボ recruit
-蚕,かいこ/サン silkworm
-貧,まず∙しい/ヒン poverty
-漂,ただよ∙う/ヒョウ drift
-殻,から/カク husk
-浜,はま/ヒン seacoast
-租,ソ tariff
-刺,さ∙す/シ thorn
-耳,みみ/ジ ear
-挑,いど∙む/チョウ challenge
-弟,おとうと/テイ younger brother
-射,い∙る/シャ shoot
-湿,しめ∙る/シツ damp
-村,むら/ソン village
-弦,つる/ゲン bowstring
-臓,はらわた/ゾウ entrails
-嗣,シ heir
-鐘,かね/ショウ bell
-築,きず∙く/チク fabricate
-債,サイ bond
-繰,く∙る/ソウ winding
-痕,あと/コン mark
-派,ハ faction
-嫡,チャク legitimate wife
-訟,ショウ sue
-扉,とびら/ヒ front door
-河,かわ/カ river
-常,つね/ジョウ usual
-奇,く∙しき/キ strange
-開,ひら∙く/カイ open
-棄,す∙てる/キ abandon
-臨,のぞ∙む/リン look to
-胞,ホウ placenta
-疎,うと∙い/ソ alienate
-舞,ま∙う/ブ dance
-駆,か∙ける/ク drive
-由,よし/ユ wherefore
-肌,はだ/キ texture
-鉢,ハチ bowl
-且,か∙つ/ショ moreover
-衡,コウ equilibrium
-製,セイ made in...
-累,ルイ accumulate
-把,ハ grasp
-菊,キク chrysanthemum
-吐,は∙く/ト spit
-距,へだ∙たる/キョ long-distance
-裏,うら/リ back
-旺,かがや∙き/オウ flourishing
-期,キ period
-種,たね/シュ species
-旨,むね/シ delicious
-試,こころ∙みる/シ test
-湾,いりえ/ワン gulf
-謎,なぞ/メイ riddle
-昧,くら∙い/マイ dark
-郷,さと/キョウ home town
-俊,シュン sagacious
-換,か∙える/カン interchange
-恩,オン grace
-促,うなが∙す/ソク stimulate
-便,たよ∙り/ベン convenience
-滑,すべ∙る/カツ slippery
-就,つ∙く/シュウ concerning
-斉,そろ∙う/セイ adjusted
-卵,たまご/ラン egg
-械,かせ/カイ contraption
-罰,ばっ∙する/バツ penalty
-抹,マツ rub
-刹,セチ temple
-支,ささ∙える/シ branch
-劾,ガイ censure
-盟,メイ alliance
-兼,か∙ねる/ケン concurrently
-説,と∙く/セツ opinion
-窃,ぬす∙む/セツ stealth
-沃,そそ∙ぐ/ヨウ fertility
-賭,か∙ける/ト gamble
-曜,ヨウ weekday
-気,いき/キ spirit
-藤,ふじ/トウ wisteria
-泊,と∙まる/ハク overnight stay
-紛,まぎ∙れる/フン distract
-儒,ジュ Confucian
-過,す∙ぎる/カ overdo
-妥,ダ gentle
-除,のぞ∙く/ジョ exclude
-灰,はい/カイ ashes
-小,ちい∙さい/ショウ little
-造,つく∙る/ゾウ create
-医,い∙やす/イ doctor
-列,レツ file
-尚,なお/ショウ esteem
-縫,ぬ∙う/ホウ sew
-喫,の∙む/キツ consume
-簡,えら∙ぶ/カン simplicity
-独,ひと∙り/ドク single
-熟,う∙れる/ジュク mellow
-滴,しずく/テキ drip
-愛,いと∙しい/アイ love
-道,みち/ドウ road-way
-英,はなぶさ/エイ England
-認,みと∙める/ニン acknowledge
-呪,まじな∙う/ジュ spell
-般,ハン carrier
-火,ひ/カ fire
-影,かげ/エイ shadow
-薄,うす∙い/ハク dilute
-調,しら∙べる/チョウ tune
-跡,あと/セキ tracks
-元,もと/ゲン beginning
-働,はたら∙く/ドウ work
-迅,ジン swift
-事,こと/ジ matter
-犬,いぬ/ケン dog
-句,ク phrase
-零,ぜろ/レイ zero
-臣,シン retainer
-脚,あし/キャク skids
-瞬,またた∙く/シュン wink
-暖,あたた∙か/ダン warmth
-郡,こおり/グン county
-戦,いくさ/セン war
-膜,マク membrane
-痘,トウ pox
-糖,トウ sugar
-潮,しお/チョウ tide
-順,ジュン obey
-箋,ふだ/セン paper
-伐,き∙る/バツ fell
-慄,ふる∙える/リツ fear
-講,コウ lecture
-岡,おか/コウ mount
-命,いのち/メイ fate
-線,すじ/セン line
-象,かたど∙る/ショウ elephant
-工,コウ craft
-鯨,くじら/ゲイ whale
-晴,は∙れる/セイ clear up
-洋,ヨウ ocean
-葛,つづら/カツ arrowroot
-弄,いじく∙る/ロウ play with
-結,むす∙ぶ/ケツ tie
-喜,よろこ∙ぶ/キ rejoice
-客,キャク guest
-猟,かり/リョウ game-hunting
-僚,リョウ colleague
-門,かど/モン gate
-打,う∙つ/ダ strike
-答,こた∙える/トウ solution
-鶴,つる/カク crane
-堪,た∙える/カン withstand
-審,つまび∙らか/シン hearing
-賀,ガ congratulations
-踊,おど∙る/ヨウ jump
-泳,およ∙ぐ/エイ swim
-侵,おか∙す/シン encroach
-凶,キョウ villain
-集,あつ∙まる/シュウ gather
-我,われ/ガ ego
-梅,うめ/バイ plum
-超,こ∙える/チョウ transcend
-守,まも∙る/シュ guard
-然,しか/ゼン sort of thing
-裸,はだか/ラ naked
-得,え∙る/トク gain
-敗,やぶ∙れる/ハイ failure
-強,つよ∙い/キョウ strong
-雇,やと∙う/コ employ
-須,すべから∙く/ス ought
-醸,かも∙す/ジョウ brew
-増,ま∙す/ゾウ increase
-夫,おっと/フ husband
-商,あきな∙う/ショウ make a deal
-歓,よろこ∙ぶ/カン delight
-凝,こ∙る/ギョウ congeal
-梗,ふさぐ/コウ for the most part
-冬,ふゆ/トウ winter
-恵,めぐ∙む/ケイ favor
-鋳,い∙る/チュウ casting
-炊,た∙く/スイ cook
-車,くるま/シャ car
-銃,つつ/ジュウ gun
-次,つ∙ぐ/ジ next
-相,あい-/ソウ inter-
-層,ソウ stratum
-板,いた/ハン plank
-滅,ほろ∙びる/メツ destroy
-失,うしな∙う/シツ lose
-討,う∙つ/トウ chastise
-標,しるべ/ヒョウ signpost
-鍵,かぎ/ケン key
-勧,すす∙める/カン persuade
-皆,みな/カイ all
-犠,いけにえ/ギ sacrifice
-虐,しいた∙げる/ギャク tyrannize
-患,わずら∙う/カン afflicted
-曖,くら∙い/アイ dark
-汚,けが∙す/オ dirty
-尼,あま/ニ nun
-慣,な∙れる/カン accustomed
-墜,お∙ちる/ツイ crash
-害,ガイ harm
-旗,はた/キ national flag
-怠,おこた∙る/タイ neglect
-堕,お∙ちる/ダ degenerate
-憧,あこが∙れる/ショウ yearn after
-舎,やど∙る/シャ cottage
-西,にし/セイ west
-歩,ある∙く/ホ walk
-簿,ボ register
-笑,わら∙う/ショウ laugh
-賠,バイ compensation
-壊,こわ∙す/カイ demolition
-細,ほそ∙い/サイ dainty
-牙,きば/ガ tusk
-船,ふね/セン ship
-販,ハン marketing
-提,さ∙げる/テイ propose
-陶,トウ pottery
-匂,にお∙う fragrant
-幼,おさな∙い/ヨウ infancy
-粧,ショウ cosmetics
-姻,イン matrimony
-劣,おと∙る/レツ inferiority
-麻,あさ/マ hemp
-院,イン Inst.
-日,ひ/ニチ day
-張,は∙る/チョウ lengthen
-寒,さむ∙い/カン cold
-更,さら/コウ grow late
-腫,は∙れる/シュ tumor
-松,まつ/ショウ pine tree
-氷,こおり/ヒョウ icicle
-券,ケン ticket
-言,い∙う/ゲン say
-塔,トウ pagoda
-本,もと/ホン book
-置,お∙く/チ placement
-誤,あやま∙る/ゴ mistake
-埋,う∙める/マイ bury
-導,みちび∙く/ドウ guidance
-礼,レイ salute
-嫉,そね∙む/シツ jealous
-評,ヒョウ evaluate
-敬,うやま∙う/ケイ awe
-漸,ようや∙く/ゼン steadily
-封,フウ seal
-録,しる∙す/ロク record
-達,-たち/タツ accomplished
-練,ね∙る/レン practice
-忍,しの∙ぶ/ニン endure
-呂,せぼね/ロ spine
+偏,かたよ∙る/ヘン partial
+嚇,おど∙す/カク menacing
+息,いき/ソク breath
 彙,はりねずみ/イ same kind
-藻,も/ソウ seaweed
-比,くら∙べる/ヒ compare
-団,かたまり/ダン group
-芽,め/ガ bud
-脊,せ/セキ stature
-婦,よめ/フ lady
-雷,かみなり/ライ thunder
-脳,のうずる/ノウ brain
-探,さぐ∙る/タン grope
-場,ば/ジョウ location
-巧,たく∙み/コウ adroit
-配,くば∙る/ハイ distribute
-病,や∙む/ビョウ ill
-敏,さとい/ビン cleverness
-完,カン perfect
-砕,くだ∙く/サイ smash
+斡,めぐ∙る/アツ go around
+碧,ヘキ blue
+開,ひら∙く/カイ open
+錫,すず/セキ copper
+離,はな∙れる/リ detach
+築,きず∙く/チク fabricate
+沃,そそ∙ぐ/ヨウ fertility
+働,はたら∙く/ドウ work
+辿,たど∙る/テン follow (road)
+駕,かご/カ vehicle
+帽,ずきん/ボウ cap
+笹,ささ bamboo grass
+厚,あつ∙い/コウ thick
+陸,おか/リク land
+訊,き∙く/ジン request
+弟,おとうと/テイ younger brother
+蕎,そば/キョウ buckwheat
+怠,おこた∙る/タイ neglect
+摯,いた∙る/シ gift
+副,フク vice-
+島,しま/トウ island
+朕,チン majestic plural
+延,の∙びる/エン prolong
+彫,ほ∙る/チョウ carve
+瓦,かわら/ガ tile
+兎,うさぎ/ト rabbit
 進,すす∙む/シン advance
-紺,コン dark blue
-宵,よい/ショウ wee hours
-謀,はか∙る/ボウ conspire
-驚,おどろ∙く/キョウ wonder
-薫,かお∙る/クン send forth fragrance
-皇,コウ emperor
-渓,たに/ケイ mountain stream
-献,たてまつ∙る/ケン offering
-抽,ひき-/チュウ pluck
-修,おさ∙める/シュウ discipline
-静,しず-/セイ quiet
-詰,つ∙める/キツ packed
-借,か∙りる/シャク borrow
-託,かこつ∙ける/タク consign
-悟,さと∙る/ゴ enlightenment
-升,ます/ショウ measuring box
-算,そろ/サン calculate
-勅,いまし∙める/チョク imperial order
-坑,コウ pit
-惧,おそ∙れる/ク fear
+栓,セン plug
+勃,おこ∙る/ボツ suddenness
+洞,ほら/ドウ den
+猛,モウ fierce
+万,よろず/マン ten thousand
+郎,おとこ/ロウ son
+擬,まが∙い/ギ mimic
+講,コウ lecture
+露,つゆ/ロ dew
 拍,ハク clap
-菓,カ candy
+牙,きば/ガ tusk
+錠,ジョウ lock
+旋,セン rotation
+滋,ジ nourishing
+損,そこ∙なう/ソン damage
+洪,コウ deluge
+隔,へだ∙てる/カク isolate
+婚,コン marriage
+隠,かく∙す/イン conceal
+蕨,わらび/ケツ bracken
+弓,ゆみ/キュウ bow
+閃,ひらめ∙く/セン flash
+挿,さ∙す/ソウ insert
+勉,つと∙める/ベン exertion
+併,あわ∙せる/ヘイ join
+筑,チク an ancient musical instrument
+孜,つと∙める/シ industriousness
+筆,ふで/ヒツ writing brush
+崚,リョウ mountains towering in a row
+蜂,はち/ホウ bee
+饗,う∙ける/キョウ banquet
+牧,まき/ボク breed
+駒,こま/ク pony
+把,ハ grasp
+策,サク scheme
+影,かげ/エイ shadow
+絵,カイ picture
+徐,おもむ∙ろに/ジョ gradually
+昏,くら∙い/コン dark
+杷,つか/ハ kind of rake
+直,ただ∙ちに/チョク straightaway
+房,ふさ/ボウ tassel
+日,ひ/ニチ day
+貿,ボウ trade
+姉,あね/シ elder sister
+護,まも∙る/ゴ safeguard
+此,これ/シ this
+打,う∙つ/ダ strike
+且,か∙つ/ショ moreover
+函,はこ/カン box (archaic)
+貼,は∙る/テン stick
+訪,おとず∙れる/ホウ call on
+繊,セン slender
+業,わざ/ギョウ business
+品,しな/ヒン goods
+馨,かお∙る/ケイ fragrant
+硫,リュウ sulphur
+跳,は∙ねる/チョウ hop
+縛,しば∙る/バク truss
+覇,はたがしら/ハ hegemony
+癖,くせ/ヘキ mannerism
+敵,かたき/テキ enemy
+往,い∙く/オウ journey
+羊,ひつじ/ヨウ sheep
+回,まわ∙る/カイ -times
+管,くだ/カン pipe
+雲,くも/ウン cloud
+況,まし∙て/キョウ condition
+飛,と∙ぶ/ヒ fly
+陵,みささぎ/リョウ mausoleum
+客,キャク guest
+北,きた/ホク north
+扱,あつか∙い/ソウ handle
+超,こ∙える/チョウ transcend
+撲,ボク slap
+叡,あき∙らか/エイ intelligence
+妃,きさき/ヒ queen
+如,ごと∙し/ジョ likeness
+凍,こお∙る/トウ frozen
+党,なかま/トウ party
+異,こと/イ uncommon
+齢,よわい/レイ age
+裂,さ∙く/レツ split
+似,に∙る/ジ becoming
+授,さず∙ける/ジュ impart
+嘗,かつ∙て/ショウ once
+乏,とぼ∙しい/ボウ destitution
+肋,あばら/ロク rib
+益,ま∙す/エキ benefit
+盆,ボン basin
+昆,コン descendants
+軸,ジク axis
+国,くに/コク country
+螺,にし/ラ small, edible, helical fresh-water mollusk
+宛,あ∙てる/エン address
+蓮,はす/レン lotus
+写,うつ∙す/シャ copy
+雀,すずめ/ジャク sparrow
+嫉,そね∙む/シツ jealous
+粧,ショウ cosmetics
+椿,つばき/チン camellia
+鼓,つづみ/コ drum
+見,み∙る/ケン see
+花,はな/カ flower
+塙,はなわ/カク projecting tableland or mountain
+剤,かる/ザイ dose
+獄,ゴク prison
+営,いとな∙む/エイ occupation
+穴,あな/ケツ hole
+竺,ジク bamboo
+粗,あら∙い/ソ coarse
+阜,フ hill
+匁,もんめ monme
+番,つが∙い/バン turn
+段,ダン grade
+菅,すげ/カン sedge
+線,すじ/セン line
+附,つ∙ける/フ affixed
+費,つい∙やす/ヒ expense
+血,ち/ケツ blood
+頃,ころ/ケイ time
+船,ふね/セン ship
+伝,つた∙わる/デン transmit
+浅,あさ∙い/セン shallow
+堪,た∙える/カン withstand
+瀬,せ/ライ rapids
+付,つ∙ける/フ adhere
+悉,つ∙きる/シツ all
+詐,いつわ∙る/サ lie
+幹,みき/カン tree trunk
+誌,シ document
+寓,ぐう∙する/グウ temporary abode
+路,-じ/ロ path
+抄,ショウ extract
+遷,うつ∙る/セン transition
+績,セキ exploits
+驍,たけし/ギョウ strong
+奏,かな∙でる/ソウ play music
+仁,ジン humanity
+酔,よ∙う/スイ drunk
+杵,きね/ショ wooden pestle
+隣,とな∙る/リン neighboring
+輔,たす∙ける/ホ help
+適,かな∙う/テキ suitable
+蔽,おお∙う/ヘイ cover
+閤,くぐりど/コウ small side gate
+空,そら/クウ empty
+鉢,ハチ bowl
+帆,ほ/ハン sail
+笑,わら∙う/ショウ laugh
+科,カ department
+歌,うた/カ song
+億,オク hundred million
+控,ひか∙える/コウ withdraw
+偲,しの∙ぶ/サイ recollect
+杯,さかずき/ハイ counter for cupfuls
+牟,ボウ pupil (eye)
+古,ふる∙い/コ old
+浸,ひた∙す/シン immersed
+謀,はか∙る/ボウ conspire
+茶,チャ tea
+物,もの/ブツ thing
+樽,たる/ソン barrel
+愚,おろ∙か/グ foolish
+穫,カク harvest
+使,つか∙う/シ use
+騰,あが∙る/トウ leaping up
+存,ながら∙える/ソン exist
+余,あま∙る/ヨ too much
+尿,ニョウ urine
+盗,ぬす∙む/トウ steal
+畠,はたけ field
+紺,コン dark blue
+竜,たつ/リュウ dragon
+能,よ∙く/ノウ ability
+飢,う∙える/キ hungry
+雪,ゆき/セツ snow
+侑,すす∙める/ユウ urge to eat
+昼,ひる/チュウ daytime
+磐,いわ/バン rock
+賑,にぎ∙わい/シン flourish
+尤,もっと∙も/ユウ reasonable
+恭,うやうや∙しい/キョウ respect
+慕,した∙う/ボ pining
+庭,にわ/テイ courtyard
+桑,くわ/ソウ mulberry
+防,ふせ∙ぐ/ボウ ward off
+泥,どろ/デイ mud
+貞,さだ/テイ upright
+升,ます/ショウ measuring box
+迭,テツ transfer
+郡,こおり/グン county
+桶,おけ/ヨウ tub
+釘,くぎ/テイ nail
+該,ガイ above-stated
+換,か∙える/カン interchange
+典,テン code
+整,ととの∙える/セイ organize
+矛,ほこ/ム halberd
+崎,さき/キ promontory
+詠,よ∙む/エイ recitation
+晏,おそ∙い/アン late
+伸,の∙びる/シン expand
+無,な∙い/ム nothingness
+肇,はじ∙める/チョウ beginning
+檎,キン apple
+鋳,い∙る/チュウ casting
+建,た∙てる/ケン build
+由,よし/ユ wherefore
+宅,タク home
+成,な∙る/セイ turn into
+榛,はしばみ/シン hazelnut
+弁,かんむり/ベン valve
+井,い/セイ well
+必,かなら∙ず/ヒツ invariably
+悦,よろこ∙ぶ/エツ ecstasy
+還,かえ∙る/カン send back
+氏,うじ/シ family name
+込,-こ∙む crowded
+契,ちぎ∙る/ケイ pledge
+蚊,か/ブン mosquito
+絆,きずな/ハン bonds
+鞍,くら/アン saddle
+括,くく∙る/カツ fasten
+更,さら/コウ grow late
+鈍,にぶ∙い/ドン dull
+栖,す∙む/セイ nest
+喩,たと∙える/ユ metaphor
+織,お∙る/ショク weave
+朋,とも/ホウ companion
+察,サツ guess
+床,とこ/ショウ bed
+瑚,コ ancestral offering receptacle
+楠,くす/ナン camphor tree
+諄,ひちくど∙い/シュン tedious
+述,の∙べる/ジュツ mention
+之,の/シ of
+怖,こわ∙い/フ dreadful
+髪,かみ/ハツ hair of the head
+荷,に/カ baggage
+羞,はじ∙る/シュウ feel ashamed
+折,お∙る/セツ fold
+酪,ラク dairy products
+翻,ひるがえ∙る/ホン flip
+沼,ぬま/ショウ marsh
+掛,か∙ける/カイ hang
+槽,ふね/ソウ vat
+葺,あし/シュウ thatch
+麓,ふもと/ロク foot of a mountain
+満,み∙ちる/マン full
+藍,あい/ラン indigo
+環,わ/カン ring
+縞,しま/コウ stripe
+蓋,ふた/ガイ cover
+銘,メイ inscription
+猶,なお/ユウ furthermore
+馬,うま/バ horse
+持,も∙つ/ジ hold
+梯,はしご/テイ ladder
+奉,たてまつ∙る/ホウ observance
+綜,おさ∙める/ソウ rule
+今,いま/コン now
+凄,さむ∙い/セイ uncanny
+牒,ふだ/チョウ label
+父,ちち/フ father
+円,まる∙い/エン circle
+俐,かしこ∙い/リ clever
+蹟,あと/セキ remains
+浮,う∙く/フ floating
+雷,かみなり/ライ thunder
+臓,はらわた/ゾウ entrails
+藻,も/ソウ seaweed
+埼,さき/キ cape
+翠,かわせみ/スイ green
+殺,ころ∙す/サツ kill
+凸,でこ/トツ convex
+叔,シュク uncle
+聡,さと∙い/ソウ wise
+芋,いも/ウ potato
+慢,マン ridicule
+岸,きし/ガン beach
+傲,おご∙る/ゴウ be proud
+凛,きびし∙い/リン cold
+鴨,かも/オウ wild duck
+凜,きびし∙い/リン cold
+廷,テイ courts
+醸,かも∙す/ジョウ brew
+壱,ひとつ/イチ one (in documents)
+詞,シ part of speech
 寿,ことぶき/ジュ longevity
-叫,さけ∙ぶ/キョウ shout
-寝,ね∙る/シン lie down
-助,たす∙ける/ジョ help
+字,あざ/ジ character
+斧,おの/フ ax
+腫,は∙れる/シュ tumor
+幾,いく-/キ how many
+否,いな/ヒ negate
+覆,おお∙う/フク capsize
+群,む∙れる/グン flock
+滞,とどこお∙る/タイ stagnate
+培,つちか∙う/バイ cultivate
+展,テン unfold
+看,み∙る/カン watch over
+汎,ただよ∙う/ハン pan-
+板,いた/ハン plank
+許,ゆる∙す/キョ permit
+喚,わめ∙く/カン yell
+波,なみ/ハ waves
+瓶,かめ/ビン bottle
+畑,はた farm
+厄,ヤク unlucky
+描,えが∙く/ビョウ sketch
+駄,ダ burdensome
+驚,おどろ∙く/キョウ wonder
+塑,でく/ソ model
+劇,ゲキ drama
+媛,ひめ/エン beautiful woman
+槻,つき/キ Zelkova tree
+爽,あき∙らか/ソウ refreshing
+熟,う∙れる/ジュク mellow
+柏,かしわ/ハク oak
+玩,もちあそ∙ぶ/ガン play
+犠,いけにえ/ギ sacrifice
+盾,たて/ジュン shield
+墳,フン tomb
+都,みやこ/ト metropolis
+犀,サイ rhinocerous
+布,ぬの/フ linen
+頁,ぺえじ/ケツ page
+川,かわ/セン stream
+蔑,ないがしろ/ベツ ignore
+魅,ミ fascination
+則,のっと∙る/ソク rule
+賛,たす∙ける/サン approve
+秋,あき/シュウ autumn
+報,むく∙いる/ホウ report
+肺,ハイ lungs
+非,あら∙ず/ヒ un-
+支,ささ∙える/シ branch
+博,ハク Dr.
+蹴,け∙る/シュク kick
+禎,さいわ∙い/テイ happiness
+告,つ∙げる/コク revelation
+那,なに/ナ what?
+虎,とら/コ tiger
+殻,から/カク husk
+集,あつ∙まる/シュウ gather
+泡,あわ/ホウ bubbles
+探,さぐ∙る/タン grope
+月,つき/ゲツ month
+而,しこ∙うして/ジ rake
+閲,けみ∙する/エツ review
+駆,か∙ける/ク drive
+援,エン abet
+手,て/シュ hand
+軒,のき/ケン flats
+児,こ/ジ newborn babe
+堕,お∙ちる/ダ degenerate
+自,みずか∙ら/ジ oneself
+迅,ジン swift
+爪,つめ/ソウ claw
+志,シリング/シ intention
+映,うつ∙る/エイ reflect
+萎,な/イ wither
+度,たび/ド degrees
+炭,すみ/タン charcoal
+圃,はたけ/ホ garden
+俳,ハイ haiku
+口,くち/コウ mouth
+旬,ジュン decameron
+哀,あわ∙れ/アイ pathetic
+梁,はり/リョウ weir
+窓,まど/ソウ window
+俸,ホウ stipend
+霧,きり/ム fog
+楕,ダ ellipse
+薫,かお∙る/クン send forth fragrance
+蔓,はびこ∙る/マン vine
+刊,カン publish
+嘩,かまびす∙しい/カ noisy
+堯,たか∙い/ギョウ high
+曇,くも∙る/ドン cloudy weather
+議,ギ deliberation
+撃,う∙つ/ゲキ beat
+煮,に∙る/シャ boil
+束,たば/ソク bundle
+浴,あ∙びる/ヨク bathe
+遍,あまね∙く/ヘン everywhere
+飼,か∙う/シ domesticate
+析,セキ chop
+念,ネン wish
+孟,かしら/モウ chief
+奎,ケイ star
+拠,よ∙る/キョ foothold
+侯,コウ marquis
+淡,あわ∙い/タン thin
+径,みち/ケイ diameter
+臭,くさ∙い/シュウ stinking
+瞬,またた∙く/シュン wink
+恰,あたか∙も/コウ just as
+椀,はち/ワン wooden or lacquered bowl
+退,しりぞ∙く/タイ retreat
+臨,のぞ∙む/リン look to
+旧,ふる∙い/キュウ old times
+河,かわ/カ river
+譜,フ musical score
+時,とき/ジ time
+掘,ほ∙る/クツ dig
+爆,は∙ぜる/バク bomb
+尊,たっと∙い/ソン revered
+痕,あと/コン mark
+渚,なぎさ/ショ strand
+靖,やす∙んじる/セイ peaceful
+綿,わた/メン cotton
+婆,ばば/バ old woman
+痛,いた∙い/ツウ pain
+衿,えり/キン neck
+種,たね/シュ species
+勇,いさ∙む/ユウ courage
+脇,わき/キョウ armpit
+墓,はか/ボ grave
+閑,カン leisure
+忍,しの∙ぶ/ニン endure
+坦,たいら/タン level
+百,もも/ヒャク hundred
+緒,お/ショ thong
+珂,カ jewel
+桃,もも/トウ peach
+材,ザイ lumber
+再,ふたた∙び/サイ again
+斥,しりぞ∙ける/セキ reject
+餌,え/ジ food
+屈,かが∙む/クツ yield
+没,おぼ∙れる/ボツ drown
+躍,おど∙る/ヤク leap
+碑,いしぶみ/ヒ tombstone
+城,しろ/ジョウ castle
+磁,ジ magnet
+膚,はだ/フ skin
+椅,イ chair
+虜,とりこ/リョ captive
+柑,コン citrus
+邪,よこし∙ま/ジャ wicked
+者,もの/シャ someone
+理,ことわり/リ logic
+振,ふ∙る/シン shake
+醍,ダイ whey
+楢,なら/シュウ oak
+穰,わら/ジョウ abundance
+灼,あらた/シャク miraculous
+官,カン bureaucrat
+皿,さら/ベイ dish
+査,サ investigate
+庇,ひさし/ヒ protect
+数,かず/スウ number
+籠,かご/ロウ basket
+炊,た∙く/スイ cook
+訴,うった∙える/ソ accusation
+修,おさ∙める/シュウ discipline
+微,かす∙か/ビ delicate
+濯,すす∙ぐ/タク laundry
+柾,まさ straight grain
+峨,けわ∙しい/ガ high mountain
+湛,しず∙む/タン fill
+濁,にご∙る/ダク voiced
+肖,あやか∙る/ショウ resemblance
+捗,はかど∙る/チョク make progress
+期,キ period
+浜,はま/ヒン seacoast
+完,カン perfect
+妄,みだ∙りに/モウ delusion
+珍,めずら∙しい/チン rare
+務,つと∙める/ム task
+絞,しぼ∙る/コウ strangle
+頻,しき∙りに/ヒン repeatedly
+糸,いと/シ thread
+匠,たくみ/ショウ artisan
+備,そな∙える/ビ equip
+芸,う∙える/ゲイ technique
+煩,わずら∙う/ハン anxiety
+素,もと/ソ elementary
+吏,リ officer
+浄,きよ∙める/ジョウ clean
+倒,たお∙れる/トウ overthrow
+胃,イ stomach
+室,むろ/シツ room
+套,かさ∙ねる/トウ accumulate
+系,ケイ lineage
+叶,かな∙える/キョウ grant
+磯,いそ/キ seashore
+漬,つ∙ける/シ pickling
+到,いた∙る/トウ arrival
+焦,こ∙げる/ショウ char
+黎,くろ∙い/レイ dark
+嫌,きら∙う/ケン dislike
+羽,は/ウ feathers
+棋,ご/キ chess piece
+錦,にしき/キン brocade
+倣,なら∙う/ホウ emulate
+評,ヒョウ evaluate
+茂,しげ∙る/モ overgrown
+落,お∙ちる/ラク fall
+辺,あた∙り/ヘン environs
+噂,うわさ/ソン rumor
+注,そそ∙ぐ/チュウ pour
+彦,ひこ/ゲン lad
+捺,さ∙す/ナツ press
+氷,こおり/ヒョウ icicle
+槇,まき/テン twig
+患,わずら∙う/カン afflicted
+堂,ドウ public chamber
+親,おや/シン parent
+凰,おおとり/コウ female phoenix bird
+猟,かり/リョウ game-hunting
+塩,しお/エン salt
+舶,ハク liner
+和,やわ∙らぐ/ワ harmony
+生,い∙きる/セイ life
+鵬,おおとり/ホウ phoenix
+択,えら∙ぶ/タク choose
+疋,あし/ヒキ head
+歯,よわい/シ tooth
+偽,いつわ∙る/ギ falsehood
+跨,また∙がる/コ be
+祁,キ intense
+諦,あきら∙める/テイ truth
+焼,や∙く/ショウ bake
+走,はし∙る/ソウ run
+橘,たちばな/キツ mandarin orange
+被,こうむ∙る/ヒ incur
+壕,ほり/コウ trench
+萌,も∙える/ホウ show symptoms of
+肩,かた/ケン shoulder
+笙,ふえ/ショウ a reed instrument
+不,フ negative
+里,さと/リ ri
+欺,あざむ∙く/ギ deceit
+両,てる/リョウ both
+哉,かな/サイ how
+端,はし/タン edge
+弔,とむら∙う/チョウ condolences
+海,うみ/カイ sea
+按,おさ∙える/アン hold
+漫,みだり∙に/マン cartoon
+餅,もち/ヘイ mochi rice cake
+捕,と∙らえる/ホ catch
+裕,ユウ abundant
+総,す∙べて/ソウ general
+窺,うかが∙う/キ lie in wait
+田,た/デン rice field
+脳,のうずる/ノウ brain
+夕,ゆう/セキ evening
+薄,うす∙い/ハク dilute
+昂,あ∙がる/コウ rise
+嫡,チャク legitimate wife
+檜,ひのき/カイ Japanese cypress
+域,イキ range
+杏,あんず/キョウ apricot
+騒,さわ∙ぐ/ソウ boisterous
+投,な∙げる/トウ throw
+替,か∙える/タイ exchange
+賭,か∙ける/ト gamble
+悼,いた∙む/トウ lament
+蚕,かいこ/サン silkworm
+行,い∙く/コウ going
+解,と∙く/カイ unravel
+紬,つむぎ/チュウ pongee (a knotted silk cloth)
+矯,た∙める/キョウ rectify
+渉,わた∙る/ショウ ford
+准,ジュン quasi-
+凌,しの∙ぐ/リョウ endure
+底,そこ/テイ bottom
+虞,おそれ/グ fear
+帥,スイ commander
+哲,さとい/テツ philosophy
+味,あじ/ミ flavor
+拘,かか∙わる/コウ arrest
+漣,さざなみ/レン ripples
+勝,か∙つ/ショウ victory
+敷,し∙く/フ spread
+侍,さむらい/ジ waiter
+源,みなもと/ゲン source
+午,うま/ゴ noon
+白,しろ/ハク white
+塗,ぬ∙る/ト paint
+石,いし/セキ stone
+胴,ドウ trunk
+辣,から∙い/ラツ pungent
+設,もう∙ける/セツ establishment
+筈,はず/カツ notch of an arrow
+誰,だれ/スイ who
+袈,ケ a coarse camlet
+芯,シン wick
+櫛,くし/シツ comb
+沫,あわ/マツ splash
+庚,かのえ/コウ 7th
+象,かたど∙る/ショウ elephant
+硝,ショウ nitrate
+均,なら∙す/キン level
+丸,まる/ガン round
+逝,ゆ∙く/セイ departed
+至,いた∙る/シ climax
+仙,セン hermit
+拾,ひろ∙う/シュウ pick up
+窒,チツ plug up
+諾,ダク consent
+鞠,まり/キク ball
+畜,チク livestock
+嘉,よみ∙する/カ applaud
+残,のこ∙る/ザン remainder
+櫓,やぐら/ロ oar
+陰,かげ/イン shade
+裡,うち/リ reverse
+冊,ふみ/サツ tome
+巧,たく∙み/コウ adroit
+売,う∙る/バイ sell
+称,たた∙える/ショウ appellation
+刈,か∙る/ガイ reap
+喰,く∙う eat
+蛮,えびす/バン barbarian
+課,カ chapter
+尚,なお/ショウ esteem
+詩,うた/シ poem
+号,さけ∙ぶ/ゴウ nickname
+紹,ショウ introduce
+潤,うるお∙う/ジュン wet
+誼,よしみ/ギ friendship
+剥,へ∙ぐ/ハク come off
+秀,ひい∙でる/シュウ excel
+宜,よろ∙しい/ギ best regards
+巷,ちまた/コウ fork in road
+蕾,つぼみ/ライ bud (plants, mushrooms not yet opened)
+巾,おお∙い/キン towel
+俺,おれ/エン I
+権,おもり/ケン authority
+鍵,かぎ/ケン key
+害,ガイ harm
+乾,かわ∙く/カン drought
+也,なり/ヤ to be (classical)
+粛,つつし∙む/シュク solemn
+夜,よ/ヤ night
+幣,ぬさ/ヘイ cash
+翌,ヨク the following
+滑,すべ∙る/カツ slippery
+渓,たに/ケイ mountain stream
+栃,とち horse chestnut
+劫,おびや∙かす/コウ threat
+帯,お∙びる/タイ sash
+以,もっ∙て/イ by means of
+瑞,みず-/ズイ congratulations
 飽,あ∙きる/ホウ sated
 読,よ∙む/ドク read
-憾,うら∙む/カン remorse
-木,き/ボク tree
-男,おとこ/ダン male
-幕,とばり/マク curtain
-崖,がけ/ガイ cliff
-噴,ふ∙く/フン erupt
-窒,チツ plug up
-求,もと∙める/キュウ request
-侮,あなど∙る/ブ scorn
-落,お∙ちる/ラク fall
-倒,たお∙れる/トウ overthrow
-狂,くる∙う/キョウ lunatic
-園,その/エン park
-巻,ま∙く/カン scroll
-重,え/ジュウ heavy
-味,あじ/ミ flavor
-書,か∙く/ショ write
-稿,わら/コウ draft
-鈴,すず/レイ small bell
-詔,みことのり/ショウ imperial edict
-丹,に/タン rust-colored
-丈,たけ/ジョウ length
-芳,かんば∙しい/ホウ perfume
-服,フク clothing
-脈,すじ/ミャク vein
-受,う∙ける/ジュ accept
-多,おお∙い/タ many
-憲,ケン constitution
-党,なかま/トウ party
-改,あらた∙める/カイ reformation
-岐,キ branch off
-寂,さび/ジャク loneliness
-昆,コン descendants
-週,シュウ week
-騰,あが∙る/トウ leaping up
-圏,かこ∙い/ケン sphere
-匹,ひき/ヒツ equal
-食,く∙う/ショク eat
-呼,よ∙ぶ/コ call
-丸,まる/ガン round
-璧,たま/ヘキ sphere
-嘱,しょく∙する/ショク entrust
-蚊,か/ブン mosquito
-片,かた-/ヘン one-sided
-班,ハン squad
-愉,たの∙しい/ユ pleasure
-臼,うす/キュウ mortar
-篤,あつ∙い/トク fervent
-汽,キ vapor
-契,ちぎ∙る/ケイ pledge
-抱,だ∙く/ホウ embrace
-帝,みかど/テイ sovereign
-搬,ハン conveyor
-破,やぶ∙る/ハ rend
-侶,とも/リョ companion
-仁,ジン humanity
-与,あた∙える/ヨ bestow
-範,ハン pattern
-践,ふ∙む/セン tread
-亜,つ∙ぐ/ア Asia
-窓,まど/ソウ window
-吏,リ officer
-努,つと∙める/ド toil
-虎,とら/コ tiger
-幾,いく-/キ how many
-竹,たけ/チク bamboo
-占,し∙める/セン fortune-telling
-有,あ∙る/ユウ possess
-少,すく∙ない/ショウ few
-潤,うるお∙う/ジュン wet
-嘆,なげ∙く/タン sigh
-尽,つ∙くす/ジン exhaust
-羞,はじ∙る/シュウ feel ashamed
-験,あかし/ケン verification
-籠,かご/ロウ basket
-嵐,あらし/ラン storm
-墓,はか/ボ grave
-応,あた∙る/オウ apply
-吉,よし/キチ good luck
-沸,わ∙く/フツ seethe
-餓,う∙える/ガ starve
-爵,シャク baron
-壮,さかん/ソウ robust
-敢,あ∙えて/カン daring
-給,たま∙う/キュウ salary
-賃,チン fare
-晶,ショウ sparkle
-当,あ∙たる/トウ hit
-趣,おもむき/シュ purport
-謄,トウ mimeograph
-話,はな∙す/ワ tale
-恨,うら∙む/コン regret
-遺,のこ∙す/イ bequeath
-凹,くぼ∙む/オウ concave
-繊,セン slender
-音,おと/オン sound
-頭,あたま/トウ head
-随,まにま∙に/ズイ follow
-起,お∙きる/キ rouse
-間,あいだ/カン interval
-媛,ひめ/エン beautiful woman
-易,やさ∙しい/エキ easy
-潔,いさぎよ∙い/ケツ undefiled
-亀,かめ/キ tortoise
-定,さだ∙める/テイ determine
-漬,つ∙ける/シ pickling
-訴,うった∙える/ソ accusation
-課,カ chapter
-供,そな∙える/キョウ submit
-哲,さとい/テツ philosophy
-培,つちか∙う/バイ cultivate
-沖,おき/チュウ open sea
-急,いそ∙ぐ/キュウ hurry
-脂,あぶら/シ fat
-敵,かたき/テキ enemy
-管,くだ/カン pipe
-峠,とうげ mountain peak
-畔,あぜ/ハン paddy ridge
-亡,な∙い/ボウ deceased
-員,イン employee
-具,そな∙える/グ tool
-胆,きも/タン gall bladder
-型,かた/ケイ mould
-指,ゆび/シ finger
-栓,セン plug
-瓦,かわら/ガ tile
-囚,とら∙われる/シュウ captured
-洪,コウ deluge
-和,やわ∙らぐ/ワ harmony
-角,かど/カク angle
-肯,がえんじ∙る/コウ agreement
-瞳,ひとみ/ドウ pupil (of eye)
-維,イ fiber
-漢,カン Sino-
-印,しるし/イン stamp
-証,あかし/ショウ evidence
-温,あたた∙か/オン warm
-弥,いや/ミ all the more
-溶,と∙ける/ヨウ melt
-前,まえ/ゼン in front
-札,ふだ/サツ tag
-膚,はだ/フ skin
-立,た∙つ/リツ stand up
-態,わざ∙と/タイ attitude
-窮,きわ∙める/キュウ hard up
-催,もよう∙す/サイ sponsor
-冠,かんむり/カン crown
-振,ふ∙る/シン shake
-譜,フ musical score
-例,たと∙える/レイ example
-産,う∙む/サン products
-息,いき/ソク breath
-附,つ∙ける/フ affixed
-遮,さえぎ∙る/シャ intercept
-浮,う∙く/フ floating
-士,さむらい/シ gentleman
-辣,から∙い/ラツ pungent
-墨,すみ/ボク black ink
-晩,バン nightfall
-澄,す∙む/チョウ lucidity
-抑,おさ∙える/ヨク repress
-削,けず∙る/サク plane
-異,こと/イ uncommon
-施,ほどこ∙す/シ give
-疫,エキ epidemic
-萎,な/イ wither
-八,や/ハチ eight
-泌,ヒツ ooze
-艶,つや/エン glossy
-拡,ひろ∙がる/カク broaden
-繁,しげ∙る/ハン luxuriant
-連,つら∙なる/レン take along
-爆,は∙ぜる/バク bomb
-延,の∙びる/エン prolong
-顧,かえり∙みる/コ look back
-療,リョウ heal
-控,ひか∙える/コウ withdraw
-田,た/デン rice field
-堤,つつみ/テイ dike
-贈,おく∙る/ゾウ presents
-赤,あか/セキ red
-妖,あや∙しい/ヨウ attractive
-旅,たび/リョ trip
-球,たま/キュウ ball
-狙,ねら∙う/ソ aim at
-吹,ふ∙く/スイ blow
-残,のこ∙る/ザン remainder
-曹,ソウ office
-希,まれ/キ hope
-心,こころ/シン heart
-枚,マイ sheet of...
-響,ひび∙く/キョウ echo
-並,な∙み/ヘイ row
-油,あぶら/ユ oil
-援,エン abet
-騒,さわ∙ぐ/ソウ boisterous
-慮,おもんぱく∙る/リョ prudence
-芋,いも/ウ potato
-眼,まなこ/ガン eyeball
-尉,イ military officer
-秒,ビョウ second (1/60 minute)
-筋,すじ/キン muscle
-宝,たから/ホウ treasure
-示,しめ∙す/ジ show
-慶,よろこ∙び/ケイ jubilation
-春,はる/シュン springtime
-併,あわ∙せる/ヘイ join
-崇,あが∙める/スウ adore
-馬,うま/バ horse
-横,よこ/オウ sideways
-優,やさ∙しい/ユウ tenderness
-幻,まぼろし/ゲン phantasm
-値,ね/チ price
-陥,おちい∙る/カン collapse
-沿,そ∙う/エン run alongside
-閑,カン leisure
-己,おのれ/コ self
-童,わらべ/ドウ juvenile
-塗,ぬ∙る/ト paint
-氾,ひろ∙がる/ハン spread out
-幽,ふか∙い/ユウ seclude
-里,さと/リ ri
-陳,ひ∙ねる/チン exhibit
-痛,いた∙い/ツウ pain
-叙,つい∙ず/ジョ confer
-酢,す/サク vinegar
-夏,なつ/カ summer
-策,サク scheme
-候,そうろう/コウ climate
-担,かつ∙ぐ/タン shouldering
-潰,つぶ∙す/カイ crush
-詞,シ part of speech
-盾,たて/ジュン shield
-伝,つた∙わる/デン transmit
-庶,ショ commoner
-批,ヒ criticism
-洗,あら∙う/セン wash
-潟,かた/セキ lagoon
-所,ところ/ショ place
-典,テン code
-絡,から∙む/ラク entwine
-霊,たま/レイ spirits
-符,フ token
-深,ふか∙い/シン deep
-才,サイ genius
-身,み/シン somebody
-貼,は∙る/テン stick
-適,かな∙う/テキ suitable
-酌,く∙む/シャク bar-tending
-畿,みやこ/キ capital
-逃,に∙げる/トウ escape
-隻,セキ vessels
-聴,き∙く/チョウ listen
-到,いた∙る/トウ arrival
-漆,うるし/シツ lacquer
-伯,ハク chief
-畳,たた∙む/ジョウ tatami mat
-速,はや∙い/ソク quick
-挟,はさ∙む/キョウ pinch
-質,たち/シツ substance
-拶,せま∙る/サツ be imminent
-塾,ジュク cram school
-紙,かみ/シ paper
-別,わか∙れる/ベツ separate
-送,おく∙る/ソウ escort
-走,はし∙る/ソウ run
-環,わ/カン ring
-綱,つな/コウ hawser
-疑,うたが∙う/ギ doubt
-壌,つち/ジョウ lot
-遵,ジュン abide by
-尿,ニョウ urine
-族,ゾク tribe
-述,の∙べる/ジュツ mention
-褒,ほ∙める/ホウ praise
-情,なさ∙け/ジョウ feelings
-塩,しお/エン salt
-琴,こと/キン harp
-幹,みき/カン tree trunk
-乙,おと-/オツ the latter
-僧,ソウ Buddhist priest
-縁,ふち/エン affinity
-品,しな/ヒン goods
-貞,さだ/テイ upright
-俗,ゾク vulgar
-悩,なや∙む/ノウ trouble
-椅,イ chair
-魂,たましい/コン soul
-動,うご∙く/ドウ move
-運,はこ∙ぶ/ウン carry
-架,か∙ける/カ erect
-雄,お-/ユウ masculine
-床,とこ/ショウ bed
-後,のち/ゴ behind
-姉,あね/シ elder sister
-副,フク vice-
-訪,おとず∙れる/ホウ call on
-遡,さかのぼ∙る/ソ go upstream
-唆,そそ∙る/サ tempt
-限,かぎ∙る/ゲン limit
-斤,キン axe
-弾,ひ∙く/ダン bullet
-舗,ホ shop
-装,よそお∙う/ソウ attire
-交,まじ∙わる/コウ mingle
-糸,いと/シ thread
-思,おも∙う/シ think
-又,また/ユウ or again
-肖,あやか∙る/ショウ resemblance
-者,もの/シャ someone
-個,コ individual
-離,はな∙れる/リ detach
-厳,おごそ∙か/ゲン stern
-昔,むかし/セキ once upon a time
-酬,むく∙いる/シュウ repay
-劇,ゲキ drama
-悦,よろこ∙ぶ/エツ ecstasy
-揚,あ∙げる/ヨウ raise
-途,みち/ト route
-液,エキ fluid
-高,たか∙い/コウ tall
-率,ひき∙いる/ソツ ratio
-叔,シュク uncle
-泰,タイ peaceful
-複,フク duplicate
-垂,た∙れる/スイ droop
-志,シリング/シ intention
-茎,くき/ケイ stalk
-減,へ∙る/ゲン dwindle
-羽,は/ウ feathers
-誠,まこと/セイ sincerity
-空,そら/クウ empty
-誰,だれ/スイ who
-卓,タク eminent
-筒,つつ/トウ cylinder
-綻,ほころ∙びる/タン be rent
-鉄,くろがね/テツ iron
-収,おさ∙める/シュウ income
-那,なに/ナ what?
-森,もり/シン forest
-陰,かげ/イン shade
-蒸,む∙す/ジョウ steam
-髪,かみ/ハツ hair of the head
-頃,ころ/ケイ time
-貨,たから/カ freight
-遍,あまね∙く/ヘン everywhere
-植,う∙える/ショク plant
-厘,リン rin
-幸,さいわ∙い/コウ happiness
-剤,かる/ザイ dose
-節,ふし/セツ node
-抄,ショウ extract
-絶,た∙える/ゼツ discontinue
-映,うつ∙る/エイ reflect
-織,お∙る/ショク weave
-釈,とく/シャク explanation
-状,ジョウ status quo
-魔,マ witch
-難,かた∙い/ナン difficult
-舷,ふなばた/ゲン gunwale
-拠,よ∙る/キョ foothold
-暗,くら∙い/アン darkness
-危,あぶ∙ない/キ dangerous
-寸,スン measurement
-任,まか∙せる/ニン responsibility
-枢,とぼそ/スウ hinge
-燃,も∙える/ネン burn
-今,いま/コン now
-擬,まが∙い/ギ mimic
-街,まち/ガイ boulevard
-迫,せま∙る/ハク urge
-畑,はた farm
-妙,たえ/ミョウ exquisite
-企,くわだ∙てる/キ undertake
-育,そだ∙つ/イク bring up
-棒,ボウ rod
-閣,カク tower
-撮,と∙る/サツ snapshot
-午,うま/ゴ noon
-化,ば∙ける/カ change
-万,よろず/マン ten thousand
-店,みせ/テン store
-剥,へ∙ぐ/ハク come off
-量,はか∙る/リョウ quantity
-聖,ひじり/セイ holy
-厚,あつ∙い/コウ thick
-招,まね∙く/ショウ beckon
-僕,しもべ/ボク me
-石,いし/セキ stone
-許,ゆる∙す/キョ permit
-唱,とな∙える/ショウ chant
-共,とも/キョウ together
-訃,しらせ/フ obituary
-諦,あきら∙める/テイ truth
-約,つづ∙まる/ヤク promise
-無,な∙い/ム nothingness
-至,いた∙る/シ climax
-互,たが∙い/ゴ mutually
-成,な∙る/セイ turn into
-再,ふたた∙び/サイ again
-婿,むこ/セイ bridegroom
-凍,こお∙る/トウ frozen
-悼,いた∙む/トウ lament
-箸,はし/チョ chopsticks
-永,なが∙い/エイ eternity
-使,つか∙う/シ use
-妃,きさき/ヒ queen
-傍,かたわ∙ら/ボウ bystander
-濃,こ∙い/ノウ concentrated
-災,わざわ∙い/サイ disaster
-桟,かけはし/サン scaffold
-昨,サク yesterday
-廊,ロウ corridor
-了,リョウ complete
-官,カン bureaucrat
-汰,おご∙る/タ luxury
-酎,かも∙す/チュウ sake
-王,オウ king
-銀,しろがね/ギン silver
-数,かず/スウ number
-旋,セン rotation
-緊,し∙める/キン tense
-隆,リュウ hump
-苛,いじ∙める/カ torment
-康,コウ ease
-割,わ∙る/カツ proportion
-冶,い∙る/ヤ melting
-隙,すき/ゲキ crevice
-手,て/シュ hand
-眉,まゆ/ビ eyebrow
-奨,すす∙める/ショウ exhort
-階,きざはし/カイ storey
-瀬,せ/ライ rapids
-十,とお/ジュウ ten
-鍋,なべ/カ pot
-倹,つま∙しい/ケン frugal
-循,ジュン sequential
-遣,つか∙う/ケン dispatch
-碑,いしぶみ/ヒ tombstone
-覆,おお∙う/フク capsize
-斜,なな∙め/シャ diagonal
-遊,あそ∙ぶ/ユウ play
-呉,く∙れる/ゴ give
-搭,トウ board
-伏,ふ∙せる/フク prostrated
-楼,たかどの/ロウ watchtower
-鋼,はがね/コウ steel
-釣,つ∙る/チョウ angling
-渇,かわ∙く/カツ thirst
-足,あし/ソク leg
-遠,とお∙い/エン distant
-属,さかん/ゾク belong
-粘,ねば∙る/ネン sticky
-隊,タイ regiment
-豊,ゆた∙か/ホウ bountiful
-枝,えだ/シ bough
-微,かす∙か/ビ delicate
-衣,ころも/イ garment
-子,こ/シ child
-初,はじ∙め/ショ first time
-光,ひか∙る/コウ ray
-衛,エイ defense
-慢,マン ridicule
-江,え/コウ creek
-尋,たず∙ねる/ジン inquire
-積,つ∙む/セキ volume
-針,はり/シン needle
-脱,ぬ∙ぐ/ダツ undress
-索,サク cord
-頼,たの∙む/ライ trust
-遂,と∙げる/スイ consummate
-一,ひと-/イチ one
-召,め∙す/ショウ seduce
-宰,サイ superintend
-辺,あた∙り/ヘン environs
-駐,チュウ stop-over
-毎,ごと/マイ every
-轄,くさび/カツ control
-底,そこ/テイ bottom
-懇,ねんご∙ろ/コン sociable
-報,むく∙いる/ホウ report
-励,はげ∙む/レイ encourage
-煩,わずら∙う/ハン anxiety
-悠,ユウ permanence
-照,て∙る/ショウ illuminate
-短,みじか∙い/タン short
-煎,せん∙じる/セン broil
-洞,ほら/ドウ den
-疲,つか∙れる/ヒ exhausted
-領,えり/リョウ jurisdiction
-甚,はなは∙だ/ジン tremendously
-女,おんな/ジョ woman
-硝,ショウ nitrate
-似,に∙る/ジ becoming
-斥,しりぞ∙ける/セキ reject
-灯,ひ/トウ lamp
-荒,あら∙い/コウ laid waste
-縦,たて/ジュウ vertical
-朱,あけ/シュ vermilion
-付,つ∙ける/フ adhere
-溺,いばり/デキ drown
-舶,ハク liner
-弧,コ arc
-均,なら∙す/キン level
-擦,す∙る/サツ grate
-民,たみ/ミン people
-偵,テイ spy
-砂,すな/サ sand
 耗,モウ decrease
-佳,カ excellent
-艦,カン warship
-額,ひたい/ガク forehead
-困,こま∙る/コン quandary
-酷,ひど∙い/コク cruel
-復,また/フク restore
-壱,ひとつ/イチ one (in documents)
-宴,うたげ/エン banquet
-茶,チャ tea
-邪,よこし∙ま/ジャ wicked
-芯,シン wick
-公,おおやけ/コウ public
-羅,うすもの/ラ gauze
-妨,さまた∙げる/ボウ disturb
-忙,いそが∙しい/ボウ busy
-礎,いしずえ/ソ cornerstone
-段,ダン grade
-刻,きざ∙む/コク engrave
-周,まわ∙り/シュウ circumference
-料,リョウ fee
-群,む∙れる/グン flock
-布,ぬの/フ linen
-胸,むね/キョウ bosom
-査,サ investigate
-缶,かま/カン tin can
-盤,バン tray
-黒,くろ/コク black
-酒,さけ/シュ sake
-緯,よこいと/イ horizontal
-普,あまね∙く/フ universal
-渉,わた∙る/ショウ ford
-巣,す/ソウ nest
-正,ただ∙しい/セイ correct
-貫,つらぬ∙く/カン pierce
-氏,うじ/シ family name
-帰,かえ∙る/キ homecoming
-震,ふる∙う/シン quake
-掲,かか∙げる/ケイ put up (a notice)
-棋,ご/キ chess piece
-知,し∙る/チ know
-稽,かんが∙える/ケイ think
-操,みさお/ソウ maneuver
-学,まな∙ぶ/ガク study
-叱,しか∙る/シツ scold
-慎,つつし∙む/シン humility
-拷,ゴウ torture
-桁,けた/コウ beam
-意,イ idea
-欧,うた∙う/オウ Europe
-襟,えり/キン collar
-徹,テツ penetrate
-分,わ∙ける/ブン part
-准,ジュン quasi-
-救,すく∙う/キュウ salvation
-想,おも∙う/ソウ concept
-歴,レキ curriculum
-模,モ imitation
-内,うち/ナイ inside
-軟,やわ∙らか/ナン soft
-捉,とら∙える/ソク catch
-鼻,はな/ビ nose
-阜,フ hill
-部,-べ/ブ section
-鋭,するど∙い/エイ pointed
-茨,いばら/シ briar
-拙,つたな∙い/セツ bungling
-絞,しぼ∙る/コウ strangle
-人,ひと/ジン person
-徳,トク benevolence
-座,すわ∙る/ザ squat
-兄,あに/ケイ elder brother
-肢,シ limb
-頓,にわか∙に/トン suddenly
-観,み∙る/カン outlook
-腹,はら/フク abdomen
-溝,みぞ/コウ gutter
-藩,ハン clan
-汁,しる/ジュウ soup
-拐,カイ kidnap
-咲,さ∙く/ショウ blossom
-択,えら∙ぶ/タク choose
-戚,いた∙む/ソク grieve
-憩,いこ∙い/ケイ recess
-栃,とち horse chestnut
-伸,の∙びる/シン expand
-機,はた/キ loom
-擁,ヨウ hug
-樹,き/ジュ timber
-電,デン electricity
-虚,むな∙しい/キョ void
-斗,ト Big Dipper
-刈,か∙る/ガイ reap
-察,サツ guess
-奥,おく/オウ heart
-矛,ほこ/ム halberd
-刑,ケイ punish
-網,あみ/モウ netting
-技,わざ/ギ skill
-秋,あき/シュウ autumn
-繕,つくろ∙う/ゼン darning
+取,と∙る/シュ take
+颯,さっ∙と/サツ sudden
 衆,おお∙い/シュウ masses
-娠,シン with child
-闘,たたか∙う/トウ fight
-唇,くちびる/シン lips
-鉱,あらがね/コウ mineral
-該,ガイ above-stated
-冒,おか∙す/ボウ risk
-腎,ジン kidney
-介,カイ jammed in
-酪,ラク dairy products
-令,レイ orders
-邦,くに/ホウ home country
-記,しる∙す/キ scribe
-著,あらわ∙す/チョ renowned
-鉛,なまり/エン lead
-傷,きず/ショウ wound
-組,く∙む/ソ association
-善,よ∙い/ゼン virtuous
-東,ひがし/トウ east
-譲,ゆず∙る/ジョウ defer
-肪,ボウ obese
-左,ひだり/サ left
-信,シン faith
-桃,もも/トウ peach
-勃,おこ∙る/ボツ suddenness
-詐,いつわ∙る/サ lie
-屈,かが∙む/クツ yield
-差,さ∙す/サ distinction
-聞,き∙く/ブン hear
-費,つい∙やす/ヒ expense
-問,と∙う/モン question
-巨,キョ gigantic
-征,セイ subjugate
-住,す∙む/ジュウ dwell
-票,ヒョウ ballot
-必,かなら∙ず/ヒツ invariably
-韻,イン rhyme
-熊,くま/ユウ bear
-測,はか∙る/ソク fathom
-頑,かたく/ガン stubborn
-殺,ころ∙す/サツ kill
-詳,くわ∙しい/ショウ detailed
-規,キ standard
-華,はな/カ splendor
-摩,ま∙する/マ chafe
-払,はら∙う/フツ pay
-丼,どんぶり/トン bowl
-壇,ダン podium
-捜,さが∙す/ソウ search
-中,なか/チュウ in
-済,す∙む/サイ finish
-盆,ボン basin
-誌,シ document
-浦,うら/ホ bay
-補,おぎな∙う/ホ supplement
-位,くらい/イ rank
-謹,つつし∙む/キン discreet
-庸,ヨウ commonplace
-軌,キ rut
-狩,か∙る/シュ hunt
-抵,テイ resist
-首,くび/シュ neck
-峡,はざま/キョウ gorge
-遇,あ∙う/グウ meet
-京,みやこ/キョウ capital
-酔,よ∙う/スイ drunk
-故,ゆえ/コ happenstance
-倍,バイ double
-柵,しがら∙む/サク stockade
-棟,むね/トウ ridgepole
-欲,ほっ∙する/ヨク longing
-眠,ねむ∙る/ミン sleep
-魚,うお/ギョ fish
-演,エン performance
-散,ち∙る/サン scatter
-根,ね/コン root
-悲,かな∙しい/ヒ grieve
-頒,わか∙つ/ハン distribute
-菌,キン germ
-選,えら∙ぶ/セン elect
-衷,チュウ inmost
-椎,つち/ツイ chinquapin
-勝,か∙つ/ショウ victory
-責,せ∙める/セキ blame
-徒,いたずら/ト on foot
-休,やす∙む/キュウ rest
-疾,はや∙い/シツ rapidly
-隅,すみ/グウ corner
-純,ジュン genuine
-性,さが/セイ sex
-頂,いただ∙く/チョウ place on the head
-他,ほか/タ other
-太,ふと∙い/タイ plump
-体,からだ/タイ body
-腺,セン gland
-非,あら∙ず/ヒ un-
-傲,おご∙る/ゴウ be proud
-虹,にじ/コウ rainbow
-刊,カン publish
-陪,バイ obeisance
-胴,ドウ trunk
-年,とし/ネン year
-匿,かくま∙う/トク hide
-虫,むし/チュウ insect
-甲,きのえ/コウ armor
-薬,くすり/ヤク medicine
-透,す∙く/トウ transparent
-捕,と∙らえる/ホ catch
-仙,セン hermit
-囲,かこ∙む/イ surround
-監,カン oversee
-久,ひさ∙しい/キュウ long time
-葉,は/ヨウ leaf
-消,き∙える/ショウ extinguish
-緻,こまか∙い/チ fine (i.e. not coarse)
-最,もっと∙も/サイ utmost
-穏,おだ∙やか/オン calm
-塁,とりで/ルイ bases
-浴,あ∙びる/ヨク bathe
-帥,スイ commander
-沙,すな/サ sand
-接,つ∙ぐ/セツ touch
-遜,したが∙う/ソン humble
-続,つづ∙く/ゾク continue
-俺,おれ/エン I
-克,か∙つ/コク overcome
-将,まさ∙に/ショウ leader
-蔵,くら/ゾウ storehouse
-畏,おそ∙れる/イ fear
-禁,キン prohibition
-景,ケイ scenery
-禍,わざわい/カ calamity
-為,ため/イ do
-儀,ギ ceremony
-統,す∙べる/トウ overall
-農,ノウ agriculture
-怪,あや∙しい/カイ suspicious
-却,かえ∙って/キャク instead
-謙,へりくだ∙る/ケン self-effacing
-業,わざ/ギョウ business
-覇,はたがしら/ハ hegemony
-炎,ほのお/エン inflammation
-勤,つと∙める/キン diligence
-草,くさ/ソウ grass
-齢,よわい/レイ age
-則,のっと∙る/ソク rule
-胎,タイ womb
-沢,さわ/タク swamp
-俸,ホウ stipend
-予,あらかじ∙め/ヨ beforehand
-校,コウ exam
-承,うけたまわ∙る/ショウ acquiesce
-緒,お/ショ thong
-御,おん-/ギョ honorable
-漏,も∙る/ロウ leak
-滋,ジ nourishing
-裂,さ∙く/レツ split
-滞,とどこお∙る/タイ stagnate
-秀,ひい∙でる/シュウ excel
-磁,ジ magnet
-経,へ∙る/ケイ sutra
-致,いた∙す/チ doth
-南,みなみ/ナン south
-章,ショウ badge
-析,セキ chop
-荘,ほうき/ソウ villa
-構,かま∙える/コウ posture
-霧,きり/ム fog
-編,あ∙む/ヘン compilation
-腰,こし/ヨウ loins
-閥,バツ clique
-衝,つ∙く/ショウ collide
-淡,あわ∙い/タン thin
-蔑,ないがしろ/ベツ ignore
-泡,あわ/ホウ bubbles
-厄,ヤク unlucky
-込,-こ∙む crowded
-陸,おか/リク land
-勉,つと∙める/ベン exertion
-雌,め-/シ feminine
-替,か∙える/タイ exchange
-鳥,とり/チョウ bird
-姿,すがた/シ figure
-寡,カ widow
-実,み/ジツ reality
-璃,リ glassy
-蔽,おお∙う/ヘイ cover
-第,ダイ No.
-扱,あつか∙い/ソウ handle
-預,あず∙ける/ヨ deposit
-糾,ただ∙す/キュウ twist
-穀,コク cereals
-舟,ふね/シュウ boat
-器,うつわ/キ utensil
-掌,てのひら/ショウ manipulate
-訳,わけ/ヤク translate
-代,か∙わる/ダイ substitute
-閲,けみ∙する/エツ review
-価,あたい/カ value
-武,たけ∙し/ブ warrior
-屯,たむろ/トン barracks
-際,きわ/サイ occasion
-折,お∙る/セツ fold
-糧,かて/リョウ provisions
-盛,も∙る/セイ boom
-準,じゅん∙じる/ジュン semi-
+廻,まわ∙る/カイ round
+遠,とお∙い/エン distant
+偉,えら∙い/イ admirable
+戟,ほこ/ゲキ halbert
+賊,ゾク burglar
+砂,すな/サ sand
+袖,そで/シュウ sleeve
+主,ぬし/シュ lord
+蔭,かげ/イン shade
+壬,みずのえ/ニン 9th calendar sign
+督,トク coach
 密,ひそ∙か/ミツ secrecy
-式,シキ style
-肘,ひじ/チュウ elbow
-諸,もろ/ショ various
-啓,ひら∙く/ケイ disclose
-伴,ともな∙う/ハン consort
-肥,こ∙える/ヒ fertilizer
+灯,ひ/トウ lamp
+劉,ころ∙す/リュウ weapon of war
+榎,えのき/カ lotus tree
+岐,キ branch off
+弥,いや/ミ all the more
+歳,とし/サイ year-end
+坂,さか/ハン slope
+核,カク nucleus
+囚,とら∙われる/シュウ captured
+給,たま∙う/キュウ salary
+橋,はし/キョウ bridge
+紀,キ chronicle
+淑,しと∙やか/シュク graceful
+廟,たまや/ビョウ mausoleum
+衡,コウ equilibrium
+鵜,う/テイ cormorant
+絡,から∙む/ラク entwine
+咽,むせ∙ぶ/イン throat
+需,ジュ demand
+賀,ガ congratulations
+喪,も/ソウ miss
+裏,うら/リ back
+辰,たつ/シン sign of the dragon
+胡,なんぞ/ウ barbarian
+晦,つごもり/カイ dark
+棄,す∙てる/キ abandon
+響,ひび∙く/キョウ echo
+殆,ほとほと/タイ almost
+院,イン Inst.
+鴻,おおとり/コウ large bird
+崖,がけ/ガイ cliff
+爵,シャク baron
