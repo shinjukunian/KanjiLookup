@@ -182,6 +182,7 @@
                                     </subviews>
                                     <constraints>
                                         <constraint firstItem="yM2-51-VMG" firstAttribute="leading" secondItem="85T-ns-MVP" secondAttribute="leading" constant="16" id="ArR-it-wuF"/>
+                                        <constraint firstItem="D37-Cv-F6w" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="yM2-51-VMG" secondAttribute="trailing" constant="5" id="DmJ-P3-TIh"/>
                                         <constraint firstItem="vUh-96-7LI" firstAttribute="leading" secondItem="85T-ns-MVP" secondAttribute="leading" constant="16" id="Ure-Ye-Z3H"/>
                                         <constraint firstAttribute="trailing" secondItem="D37-Cv-F6w" secondAttribute="trailing" constant="20" id="ZOq-U1-B8P"/>
                                         <constraint firstAttribute="trailing" secondItem="vUh-96-7LI" secondAttribute="trailing" constant="16" id="dNa-OK-ckz"/>
@@ -234,13 +235,13 @@
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="xBh-mG-ZIM" id="QWR-y6-DqO">
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="749" text="Label" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.85000000000000031" translatesAutoresizingMaskIntoConstraints="NO" id="loF-rX-xbk" customClass="TappableFuriganaLabel">
+                                        <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="749" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.85000000000000031" translatesAutoresizingMaskIntoConstraints="NO" id="loF-rX-xbk" customClass="TappableFuriganaLabel">
                                             <rect key="frame" x="79" y="14" width="45" height="17"/>
                                             <fontDescription key="fontDescription" name="HiraKakuProN-W3" family="Hiragino Kaku Gothic ProN" pointSize="17"/>
                                             <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="249" horizontalCompressionResistancePriority="748" verticalCompressionResistancePriority="751" text="Label" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EM8-3A-vXO" customClass="TappableFuriganaLabel">
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="249" horizontalCompressionResistancePriority="748" verticalCompressionResistancePriority="751" text="Label" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EM8-3A-vXO" customClass="TappableFuriganaLabel">
                                             <rect key="frame" x="550" y="13" width="42" height="20"/>
                                             <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                             <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>

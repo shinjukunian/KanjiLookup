@@ -1,0 +1,30 @@
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "EM8-3A-vXO"; */
+"EM8-3A-vXO.text" = "Label";
+
+/* Class = "IBUILabel"; text = "description"; ObjectID = "Eqs-wx-E1r"; */
+"Eqs-wx-E1r.text" = "description";
+
+/* Class = "IBUINavigationItem"; title = "Acknowledgements"; ObjectID = "G4M-8J-TVf"; */
+"G4M-8J-TVf.title" = "Hinweise";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Jfm-57-5Jb"; */
+"Jfm-57-5Jb.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "Clear"; ObjectID = "aVo-zv-Dl5"; */
+"aVo-zv-Dl5.title" = "Zurücksetzen";
+
+/* Class = "IBUILabel"; text = "kanji"; ObjectID = "c7I-WJ-L69"; */
+"c7I-WJ-L69.text" = "kanji";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "iKQ-yM-BwQ"; */
+"iKQ-yM-BwQ.title" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "loF-rX-xbk"; */
+"loF-rX-xbk.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "oh1-oG-4Qk"; */
+"oh1-oG-4Qk.title" = "Zurück";
+
+/* Class = "IBUILabel"; text = "Auto-lookup Kanji in clipboard"; ObjectID = "yM2-51-VMG"; */
+"yM2-51-VMG.text" = "Kanji in der Zwischenablage automatisch nachschlagen";
+

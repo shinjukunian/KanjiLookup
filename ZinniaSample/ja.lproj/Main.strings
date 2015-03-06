@@ -1,0 +1,30 @@
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "EM8-3A-vXO"; */
+"EM8-3A-vXO.text" = "ラベル";
+
+/* Class = "IBUILabel"; text = "description"; ObjectID = "Eqs-wx-E1r"; */
+"Eqs-wx-E1r.text" = "説明";
+
+/* Class = "IBUINavigationItem"; title = "Acknowledgements"; ObjectID = "G4M-8J-TVf"; */
+"G4M-8J-TVf.title" = "注意事項";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Jfm-57-5Jb"; */
+"Jfm-57-5Jb.text" = "ラベル";
+
+/* Class = "IBUIBarButtonItem"; title = "Clear"; ObjectID = "aVo-zv-Dl5"; */
+"aVo-zv-Dl5.title" = "消去";
+
+/* Class = "IBUILabel"; text = "kanji"; ObjectID = "c7I-WJ-L69"; */
+"c7I-WJ-L69.text" = "漢字";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "iKQ-yM-BwQ"; */
+"iKQ-yM-BwQ.title" = "題名";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "loF-rX-xbk"; */
+"loF-rX-xbk.text" = "ラベル";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "oh1-oG-4Qk"; */
+"oh1-oG-4Qk.title" = "戻る";
+
+/* Class = "IBUILabel"; text = "Auto-lookup Kanji in clipboard"; ObjectID = "yM2-51-VMG"; */
+"yM2-51-VMG.text" = "クリップボード上の漢字を調べる";
+
