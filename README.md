@@ -17,7 +17,7 @@ The second example is an iOS keyboard extension for a Japanese handwriting keybo
 
 <img src="https://github.com/shinjukunian/KanjiLookup/blob/gh-pages/images/keyboard_small.gif" width="200" /> 
 
-As a general keyboard, this extension is quite limited becayse Kana input is rather painful and the dictionary is unaware of context or inflections.
+As a general keyboard, this extension is quite limited because Kana input is rather painful and the dictionary is unaware of context or inflections.
 
 # Acknowledgements
 This project uses the EDICT (http://www.csse.monash.edu.au/~jwb/edict.html) and KANJIDIC dictionary files. These files are the property of the Electronic Dictionary Research and Development Group (http://www.edrdg.org/), and are used in conformance with the Group's licence (http://www.edrdg.org/edrdg/licence.html).
